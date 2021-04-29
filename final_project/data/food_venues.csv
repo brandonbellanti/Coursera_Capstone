@@ -1,0 +1,945 @@
+Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue Name,Venue ID,Venue City,Venue Address,Venue Latitude,Venue Longitude,Venue Distance,Venue Category,Category Group
+Chinatown,42.3513291,-71.0626228,Pho Pasteur,4a91e4f7f964a520421c20e3,Boston,682 Washington St,42.35151253687529,-71.06281061154236,25,Noodle House,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,My Thai Vegan Cafe,4a79dae9f964a520cde71fe3,Boston,3 Beach St,42.35157070124249,-71.0627170747986,27,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Chinatown,42.3513291,-71.0626228,Spicy World,56bfa4e3cd104c42290fae47,Boston,,42.3515128182698,-71.06238226654429,28,Hotpot Restaurant,Asian Restaurant
+Leather District,42.3523222,-71.05734307739965,Al's South Street Cafe,49c90f9bf964a5202d581fe3,Boston,179 Essex St,42.352112913865305,-71.05713911819366,28,Sandwich Place,Sandwich Place
+Chinatown,42.3513291,-71.0626228,Dumpling Cafe,4c7c06403badb1f7ea9f5654,Boston,695 Washington St,42.35125985286757,-71.06299365970656,31,Chinese Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,New Saigon Sandwich,4aaacac0f964a5206e5720e3,Boston,696 Washington St,42.35104761115418,-71.06295843301461,41,Asian Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,Q Restaurant,4c91546ab641236ab6a68079,Boston,660 Washington St,42.35170662953259,-71.06271524779602,42,Hotpot Restaurant,Asian Restaurant
+Hyde Park,42.2556543,-71.1244963,SUBWAY,4c29032ace3fc928e6156e88,Hyde Park,1281 Hyde Park Ave,42.25526927373145,-71.12448219492376,42,Sandwich Place,Sandwich Place
+Chinatown,42.3513291,-71.0626228,Irashai Sushi Teriyaki,4e4be732e4cde30b72898e6d,Boston,8 Kneeland St,42.35092904855417,-71.06259700049733,44,Sushi Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,Mei Sum Bakery,4ab90e73f964a520dd7d20e3,Boston,36 Beach St,42.35147184990449,-71.06211536202655,44,Bakery,Bakery
+South End,42.34131,-71.0772298,Boston Pocket Deli,59a5e22265cdf802902711fd,Boston,682 Tremont St,42.34109,-71.07675,46,Deli / Bodega,Deli / Bodega
+Hyde Park,42.2556543,-71.1244963,Papa Gino's,4b5e322ff964a520198329e3,Hyde Park,1270 River St,42.25565742804683,-71.1239030166098,48,Pizza Place,Pizza Place
+Back Bay,42.35054885,-71.08031131584724,Joe's American Bar & Grill,3fd66200f964a5202fec1ee3,Boston,181 Newbury St,42.350367760408666,-71.07974138649868,51,American Restaurant,American Restaurant
+Hyde Park,42.2556543,-71.1244963,River Grille Restaurant & Cafe,4bd471196798ef3b1c96618d,Hyde Park,1263 River St,42.255947704833,-71.12398012203828,53,American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Dunkin',4d4ea978a8fba143fd6b461a,East Boston,34 Central Sq #34,42.37546036203063,-71.03873342027424,56,Donut Shop,Donut Shop
+Chinatown,42.3513291,-71.0626228,Boston Kitchen Pizza,4aee268ff964a52086d221e3,Boston,1 Stuart St,42.35090194801581,-71.0630241266923,57,Pizza Place,Pizza Place
+Back Bay,42.35054885,-71.08031131584724,Stephanie's On Newbury,3fd66200f964a52058ec1ee3,Boston,190 Newbury St,42.350282495428104,-71.07971386490878,57,American Restaurant,American Restaurant
+Hyde Park,42.2556543,-71.1244963,Talk & Wok Cafe,4c2bdb22b34ad13ace7deace,Hyde Park,1277 River St,42.25516144777776,-71.12420481996112,59,Chinese Restaurant,Asian Restaurant
+East Boston,42.3750973,-71.0392173,SUBWAY,4c1d27a663750f4731c7b767,Boston,13 Central Sq,42.374586086304866,-71.03875671159426,68,Sandwich Place,Sandwich Place
+North End,42.3650974,-71.0544954,Bova's Bakery,4a5a9d17f964a520a6ba1fe3,Boston,"134 Salem Street,",42.36519364874828,-71.0554428665839,78,Bakery,Bakery
+West End,42.3639186,-71.0638993,Bishop's Mediterranean,53c069b8498e1f34dc3a75a9,Boston,70 Staniford St,42.36312884648941,-71.06391486209566,87,Mediterranean Restaurant,Mediterranean Restaurant
+North End,42.3650974,-71.0544954,Giacomo's,4b11cf55f964a520278523e3,Boston,355 Hanover St,42.36468294095644,-71.05357854226305,88,Italian Restaurant,Italian Restaurant
+Leather District,42.3523222,-71.05734307739965,Tatte Bakery & Cafe,5c2f8ffcb25fee002b84e590,Boston,125 Summer St,42.353111,-71.057117,89,Bakery,Bakery
+North End,42.3650974,-71.0544954,Panza,4a5a8f01f964a52090ba1fe3,Boston,326 Hanover St,42.36454515770068,-71.05370647967447,89,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Monica's Mercato,547fb698498ee27c6140764c,Boston,130 Salem St,42.365095000000004,-71.055587,89,Pizza Place,Pizza Place
+Charlestown,42.3778749,-71.0619957,The Family Kitchen,4fd0df17e4b0da17b057cc1a,Charlestown,198 Bunker Hill St,42.37871694949031,-71.06210630871429,94,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Florentine Cafe,40b28c80f964a520d4f71ee3,Boston,333 Hanover St,42.36439882040763,-71.0538307419264,95,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Cantina Italiana,4ace9d7ff964a52072d120e3,Boston,346 Hanover St,42.36494365251881,-71.05334981364899,95,Italian Restaurant,Italian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Dirty Water Dough Company,527bcd2b11d2760259508044,Boston,222 Newbury St,42.349956975716466,-71.08114394726589,95,Pizza Place,Pizza Place
+West End,42.3639186,-71.0638993,Viva Burrito,4a777beff964a520a6e41fe3,Boston,66 Staniford St,42.3631164,-71.0643572,96,Burrito Place,Mexican Restaurant
+North End,42.3650974,-71.0544954,Caffe Dello Sport,4885ecf8f964a52040511fe3,Boston,308 Hanover St,42.36427996318052,-71.05399662499084,99,Café,Café
+East Boston,42.3750973,-71.0392173,Wing Stop,5830b8e6761b1a3f49b804d9,Boston,173 Border St,42.374436,-71.040044,100,Wings Joint,Wings Joint
+North End,42.3650974,-71.0544954,Locale,522d039611d2b014b87950cf,Boston,352 Hanover St,42.36505464551802,-71.05327145283601,100,Pizza Place,Pizza Place
+Chinatown,42.3513291,-71.0626228,Hong Kong Eatery,4ab8fd1ff964a5208c7d20e3,Boston,79 Harrison Ave,42.350981,-71.061497,100,Chinese Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Strega Ristorante,4b60d993f964a5208dfd29e3,Boston,379 Hanover St,42.36498437287242,-71.05326580431355,101,Italian Restaurant,Italian Restaurant
+Downtown,42.35860195,-71.06387508501135,Florina,57d0a299498eb9d6942d3ff5,Boston,16 Derne St,42.3593747052797,-71.06321899174749,101,Pizza Place,Pizza Place
+Leather District,42.3523222,-71.05734307739965,O Ya,4a42d407f964a52046a61fe3,Boston,9 East St,42.351502307749314,-71.05676267373507,103,Sushi Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Parziale's Bakery,4afc827ef964a520702322e3,Boston,80 Prince St,42.36536726323884,-71.05570928331942,104,Bakery,Bakery
+Charlestown,42.3778749,-71.0619957,Sanchez Market,4beeae51e24d20a1252e7314,Charlestown,156 Bunker Hill St,42.37839258337511,-71.06092689091388,105,Deli / Bodega,Deli / Bodega
+Hyde Park,42.2556543,-71.1244963,Zaz,50897d79e4b00b147d875792,Hyde Park,1238 River St,42.25595774861464,-71.12328126543198,105,American Restaurant,American Restaurant
+Brighton,42.3500971,-71.1564423,Bangkok Bistro,523cde88498edcd74cf448bd,Brighton,433 Washington St,42.349214405442375,-71.15691429757074,105,Thai Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,La Famiglia Giorgio's,4aa2e6e4f964a520924220e3,Boston,112 Salem St,42.36456098820388,-71.05558435565514,107,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,The Daily Catch,4b466becf964a520612026e3,Boston,323 Hanover St,42.364157874294186,-71.05415005395035,108,Seafood Restaurant,Seafood Restaurant
+North End,42.3650974,-71.0544954,Pomodoro,4ada50baf964a520442121e3,Boston,319 Hanover St,42.36413133255312,-71.0541814380563,110,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Theo's Cozy Corner,4a468797f964a5200ba91fe3,Boston,162 Salem St,42.3660054738716,-71.05504245127334,110,Diner,Diner
+East Boston,42.3750973,-71.0392173,McDonald's,4c608370de6920a148289664,Boston,178 Border St,42.37445039310997,-71.04025353561155,111,Fast Food Restaurant,Fast Food Restaurant
+Back Bay,42.35054885,-71.08031131584724,Piattini Wine Cafe,4a917cf2f964a520631a20e3,Boston,226-228 Newbury St,42.349857310355944,-71.08131520967618,112,Italian Restaurant,Italian Restaurant
+Allston,42.3554344,-71.1321271,Azama Grill,4b7b78f1f964a520d1642fe3,Allston,54 Harvard Ave,42.354421904809485,-71.1323576020239,114,Falafel Restaurant,Falafel Restaurant
+Chinatown,42.3513291,-71.0626228,Top Bread,54b2d170498ef4fbd390d18d,Boston,7 Harrison ave,42.35096376397057,-71.06131636918295,114,Bakery,Bakery
+South End,42.34131,-71.0772298,Maná Escondido Café,518aada9498e5ae05be6ec51,Boston,68 Aguadilla St,42.3413993346981,-71.07582534290829,115,Latin American Restaurant,Latin American Restaurant
+Bay Village,42.35001105,-71.0669477958571,Ostra,5293ef69498e009610e3fdf1,Boston,1 Charles St S,42.35105960328998,-71.06697648104051,116,Seafood Restaurant,Seafood Restaurant
+East Boston,42.3750973,-71.0392173,Pollo Campero,4b83073cf964a5206bf330e3,East Boston,188 Border Street,42.374827,-71.040581,116,Fried Chicken Joint,Fried Chicken Joint
+Chinatown,42.3513291,-71.0626228,Eldo Cake House,4aedfe05f964a520f8d021e3,Boston,36 Harrison Ave,42.35162437035841,-71.06126123442057,116,Bakery,Bakery
+Chinatown,42.3513291,-71.0626228,Bao Bao Bakery,5790254d498e4630f7b00b51,Boston,84 Harrison Ave,42.350776967619105,-71.06140091280975,117,Bakery,Bakery
+Brighton,42.3500971,-71.1564423,SUBWAY,4de9402fae6029331905a8de,Boston,419 Washington St,42.34927205232784,-71.15553721225109,118,Sandwich Place,Sandwich Place
+Mission Hill,42.33255965,-71.10360773640765,SUBWAY,4be54e312468c928fadbff42,Boston,1578 Tremont St Ste 1,42.3332817137096,-71.1025313668971,119,Sandwich Place,Sandwich Place
+North End,42.3650974,-71.0544954,Caffe Vittoria,4ae0f451f964a520018421e3,Boston,296 Hanover St,42.36403674172524,-71.05430347240267,119,Café,Café
+North End,42.3650974,-71.0544954,Carmelina's,4f371a61e4b0beedd1b36f56,Boston,307 Hanover St,42.364027023977755,-71.05429276157248,120,Italian Restaurant,Italian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Tremont House of Pizza,4bc7422e0050b7130350b83b,Boston,1590 Tremont St,42.33353394311858,-71.10297105246703,120,Pizza Place,Pizza Place
+South Boston Waterfront,42.3547517,-71.0531784,Bluestone Lane High Street Coffee Shop,5df11682101ef600081d27cf,Boston,125 High St,42.35582930458972,-71.05322327181034,120,Café,Café
+Chinatown,42.3513291,-71.0626228,Beard Papa's,55d0eb49498e0440bdcef586,Boston,31 Harrison Ave Ste A,42.351697058155914,-71.06123852283811,121,Bakery,Bakery
+Chinatown,42.3513291,-71.0626228,Avana Sushi,4c6086751e5cd13abbe8a1ed,Boston,42 Beach St,42.35150915476556,-71.06115830909768,122,Sushi Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,Hot Eastern,54721c3b498e4a0e5d91a12b,Boston,42 Beach St,42.351516324617485,-71.06115384493161,122,Szechuan Restaurant,Asian Restaurant
+Downtown,42.35860195,-71.06387508501135,The Emory,5ca2422dfd16bb002cfe7fd9,Boston,21 Beacon St,42.35829418504224,-71.06241881847382,124,American Restaurant,American Restaurant
+Allston,42.3554344,-71.1321271,Kaju Tofu House,4f653258e4b09fcf63159616,Allston,56 Harvard Ave,42.35432893830024,-71.13237381241588,124,Korean Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Benevento's,4bc0fab174a9a5932518d1f6,Boston,111 Salem St,42.36422284538411,-71.05548850383197,127,Italian Restaurant,Italian Restaurant
+East Boston,42.3750973,-71.0392173,La Hacienda,4c426bc1da3dc9285190cab9,Boston,150 Meridian St,42.373964620170604,-71.03902717880581,127,Latin American Restaurant,Latin American Restaurant
+Downtown,42.35860195,-71.06387508501135,Zen Japanese Grill & Sushi Bar,4ba3c509f964a5203e5d38e3,Boston,21A Beacon St,42.358020493406705,-71.06253096680149,128,Sushi Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Gre.Co,589353b376b8b24a342a5e87,Boston,225 Newbury St,42.34992043391094,-71.08163271570399,129,Greek Restaurant,Greek Restaurant
+Downtown,42.35860195,-71.06387508501135,No. 9 Park,3fd66200f964a5203eec1ee3,Boston,9 Park St,42.35754020221547,-71.06319344448555,130,French Restaurant,French Restaurant
+East Boston,42.3750973,-71.0392173,Tertulias Cafe,56c9e97a498e4246a9c80f5c,Boston,28 Porter St,42.37458,-71.03779399999999,130,South American Restaurant,Latin American Restaurant
+Leather District,42.3523222,-71.05734307739965,Troquet On South,5a95a35c588e36300b282eaf,Boston,107 South St,42.351162,-71.05767900000001,132,French Restaurant,French Restaurant
+East Boston,42.3750973,-71.0392173,D'Amelio's,4d44bdb94e5d37048f6bef93,East Boston,28 Porter St,42.374371923508875,-71.03794575967663,132,Seafood Restaurant,Seafood Restaurant
+Brighton,42.3500971,-71.1564423,Dragon Chef,4ad0153ef964a52089d720e3,Brighton,411 Washington St,42.349217618848996,-71.15533933777394,133,Chinese Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Al Dente,4aeb408ef964a52023c021e3,Boston,109 Salem St,42.36416871265413,-71.05555917729117,135,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Galleria Umberto,4ac4dfeff964a520549f20e3,Boston,289 Hanover St,42.36387414946167,-71.05437666506555,136,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,Scollay Square,4a4b7760f964a52062ac1fe3,Boston,21 Beacon St,42.358069678540524,-71.06237407157259,136,American Restaurant,American Restaurant
+Back Bay,42.35054885,-71.08031131584724,CAVA,5b290d4097cf5a002c3130e2,Boston,669 Boylston Street,42.3499698,-71.0788508,136,Mediterranean Restaurant,Mediterranean Restaurant
+Mission Hill,42.33255965,-71.10360773640765,TGI Fridays,4b3b91f1f964a520107625e3,Boston,1626 Tremont St,42.33351856897348,-71.10469391942843,139,American Restaurant,American Restaurant
+Back Bay,42.35054885,-71.08031131584724,Shake Shack,54f20238498eeb7366fc3207,Boston,234-236 Newbury St,42.349784616590725,-71.08166339865778,140,Burger Joint,Burger Joint
+North End,42.3650974,-71.0544954,Trattoria Il Panino,4a3bfa61f964a520f6a01fe3,Boston,11 Parmenter St,42.363836417347486,-71.05450014853415,140,Italian Restaurant,Italian Restaurant
+Brighton,42.3500971,-71.1564423,Athan's Bakery - Brighton,4b08095df964a520b80223e3,Brighton,407 Washington St,42.34921723078743,-71.15521937510591,140,Bakery,Bakery
+Mission Hill,42.33255965,-71.10360773640765,Mission Sushi & Wok,50b3e92b7043c62d4562074c,Boston,1625 Tremont St,42.33383434064419,-71.10363681773049,141,Sushi Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Mamma Maria,4a933294f964a5202d1f20e3,Boston,3 North Sq,42.3640621188086,-71.05347489416909,142,Italian Restaurant,Italian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Legal Sea Foods,4a5ea67ef964a520fabe1fe3,Boston,26 Park Plz,42.351215769313356,-71.06761638747854,144,Seafood Restaurant,Seafood Restaurant
+Leather District,42.3523222,-71.05734307739965,Stillwater,5d65ac7be034310008c78583,Boston,120 Kingston St,42.352281,-71.05909799999999,144,American Restaurant,American Restaurant
+Roxbury,42.3248426,-71.0950158,Marcella Market,4c0d2a67c700c9b6e7fca1dd,Boston,80 Marcella St,42.323682,-71.095834,145,Snack Place,Snack Place
+Chinatown,42.3513291,-71.0626228,Shabu Zen,4ac7f9fcf964a520fbba20e3,Boston,16 Tyler St,42.35092227777952,-71.06094191203856,145,Asian Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,NEWSFEED CAFÉ,578a688a498e88772c6341d7,Boston,700 Boylston St,42.34947424112949,-71.0792688031445,147,Café,Café
+Back Bay,42.35054885,-71.08031131584724,sweetgreen,51c891c8498e840014520938,Boston,659 Boylston St,42.3499953,-71.0786683,148,Salad Place,Salad Place
+North End,42.3650974,-71.0544954,North Square Oyster,5932f058123a1963f5d985b8,Boston,5 North Sq,42.36397802081407,-71.05351630853524,148,Seafood Restaurant,Seafood Restaurant
+North End,42.3650974,-71.0544954,Prezza,40b28c80f964a520d7f71ee3,Boston,24 Fleet St,42.36460532106168,-71.0528083346818,149,Italian Restaurant,Italian Restaurant
+Chinatown,42.3513291,-71.0626228,China Pearl Restaurant,3fd66200f964a52076ec1ee3,Boston,9 Tyler St,42.35111151553748,-71.06079880778925,151,Chinese Restaurant,Asian Restaurant
+Brighton,42.3500971,-71.1564423,Daniel's Bakery,4afefcc2f964a5208b3222e3,Brighton,395 Washington St,42.349223988124685,-71.15501079842944,152,Bakery,Bakery
+Back Bay,42.35054885,-71.08031131584724,B.GOOD,53dd1cc6498e07ef7e06d439,Boston,665 Boylston St,42.34986180060466,-71.07870794029843,152,Fast Food Restaurant,Fast Food Restaurant
+Chinatown,42.3513291,-71.0626228,Tora,5a13605ee96d0c3ed5b426d8,Boston,20B Tyler St,42.3507823445378,-71.06091571508779,153,Japanese Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,Alfredo's Italian Kitchen,4b6eef62f964a520e5d12ce3,Boston,243 Dorchester St,42.332818823561055,-71.05118068698792,154,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Lucia Ristorante,4aa6f7cff964a520a94b20e3,Boston,415 Hanover St,42.36559594533195,-71.05272542270183,155,Italian Restaurant,Italian Restaurant
+Chinatown,42.3513291,-71.0626228,Gourmet Dumpling House,4a771079f964a52078e31fe3,Boston,52 Beach St,42.35138015517182,-71.06072278743181,156,Chinese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Bouchee,49fa67caf964a520f76d1fe3,Boston,159 Newbury St,42.350726106891926,-71.07841356919326,157,French Restaurant,French Restaurant
+Roslindale,42.2912093,-71.1244966,Arboretum Grill,4d42ffa71629b60c13cd9c89,Boston,4025 Washington St,42.291813,-71.122762,157,American Restaurant,American Restaurant
+Bay Village,42.35001105,-71.0669477958571,Abby Lane Food & Spirits,52420689498eee6f591a8025,Boston,255 Tremont St,42.35050340549299,-71.06513652135118,158,American Restaurant,American Restaurant
+Chinatown,42.3513291,-71.0626228,Shojo,500f2993e4b0fe0c6fda6c61,Boston,9 Tyler St,42.351027761488275,-71.06073636652543,158,Asian Restaurant,Asian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Blaze Pizza,585ab814e309e16a0cdaab14,Boston,"123 Stuart St,",42.35104126714644,-71.06561514885372,158,Pizza Place,Pizza Place
+North End,42.3650974,-71.0544954,My Cousin's Place,4f6b97ee771684632734d5a7,Boston,396 Hanover St,42.36591428489766,-71.05288298426848,160,Sandwich Place,Sandwich Place
+Downtown,42.35860195,-71.06387508501135,Mooo....,4a18834cf964a520c2791fe3,Boston,15 Beacon St,42.358278140850615,-71.06197346155925,160,Steakhouse,Steakhouse
+Chinatown,42.3513291,-71.0626228,Gourmet China House,575387bb498e80be5c09b17f,Boston,55 Beach St,42.35134498376706,-71.06067285581513,160,Chinese Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Quattro,514a10fbe4b07613314b7639,Boston,264 Hanover St,42.36365584101552,-71.05469957962069,161,Italian Restaurant,Italian Restaurant
+Leather District,42.3523222,-71.05734307739965,Olga's Kafe,4b50e0a3f964a520943627e3,Boston,99 Summer St,42.35341299380776,-71.05863772328775,161,Café,Café
+Mission Hill,42.33255965,-71.10360773640765,Dunkin',4b520dc8f964a520616427e3,Boston,1631 Tremont St,42.334006704694914,-71.10374993216806,161,Donut Shop,Donut Shop
+Fenway,42.3451868,-71.1045987,Time Out Market,5ceeec1fd552c7002d568cad,Boston,401 Park Dr,42.344685,-71.102731,163,Food Court,Food Court
+Downtown,42.35860195,-71.06387508501135,Union Club of Boston,40b28c80f964a52098f71ee3,Boston,8 Park St,42.35741149126363,-71.06270210930565,163,Restaurant,Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Kane's Donuts,55098425498e04ef460a3649,Boston,1 International Pl,42.35620883614536,-71.05289497510209,163,Donut Shop,Donut Shop
+Chinatown,42.3513291,-71.0626228,Peach Farm,3fd66200f964a52096ec1ee3,Boston,4 Tyler St,42.35123714699458,-71.06059687620981,166,Chinese Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Lulu's Allston,530647fd498e4ac184afea7c,Boston,421 Cambridge St,42.35506753787248,-71.1341073754865,167,Comfort Food Restaurant,Comfort Food Restaurant
+Downtown,42.35860195,-71.06387508501135,Grotto,4aa91accf964a520005220e3,Boston,37 Bowdoin St,42.35991506135848,-71.06280665488974,170,Italian Restaurant,Italian Restaurant
+Brighton,42.3500971,-71.1564423,Little Pizza King,4b48ace2f964a520645226e3,Brighton,379 Washington St,42.349210687215844,-71.15473966185793,171,Pizza Place,Pizza Place
+Chinatown,42.3513291,-71.0626228,Winsor Dim Sum Cafe,4a75ce81f964a52053e11fe3,Boston,10 Tyler St,42.35103,-71.060544,174,Dim Sum Restaurant,Asian Restaurant
+Charlestown,42.3778749,-71.0619957,Last Corner Restaurant,4b57b367f964a520af3c28e3,Boston,49 High Street,42.37657,-71.063172,174,Diner,Diner
+Bay Village,42.35001105,-71.0669477958571,Mike & Patty's,4a3cf8bcf964a520b6a11fe3,Boston,12 Church St,42.34860352356049,-71.06791269178193,175,Sandwich Place,Sandwich Place
+Leather District,42.3523222,-71.05734307739965,Hei La Moon,4a7d9ccaf964a520eeee1fe3,Boston,88 Beach St,42.35106675175866,-71.05865129582038,176,Dim Sum Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,Maria's Taqueria,4b10b7d0f964a520127523e3,Boston,226 Tremont St,42.35125427204487,-71.06478194731513,177,Mexican Restaurant,Mexican Restaurant
+Bay Village,42.35001105,-71.0669477958571,Maggiano's Little Italy,40b28c80f964a5200ff81ee3,Boston,4 Columbus Ave,42.350965795462166,-71.06869450038936,178,Italian Restaurant,Italian Restaurant
+Leather District,42.3523222,-71.05734307739965,Figaro's,4afd9e8cf964a5202c2922e3,Boston,105 Beach St,42.35085976141691,-71.058259296302,179,Sandwich Place,Sandwich Place
+North End,42.3650974,-71.0544954,Villa Francesca,40b28c80f964a520b1f71ee3,Boston,150 Richmond St,42.3634799089833,-71.05447904062503,180,Italian Restaurant,Italian Restaurant
+Leather District,42.3523222,-71.05734307739965,Clover Food Lab FIN,577be842498e0a21aa1cc211,Boston,160 Federal St,42.35371525349005,-71.05621626380778,180,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Fenway,42.3451868,-71.1045987,Cafe Landwer,5a63c705b37e2b0dbac8c8c9,Boston,900 Beacon St,42.34665937955315,-71.10555825960549,181,Israeli Restaurant,Middle Eastern Restaurant
+Back Bay,42.35054885,-71.08031131584724,Atlantic Fish Company,3fd66200f964a520f6eb1ee3,Boston,761 Boylston St,42.34901448395621,-71.08109641821771,182,Seafood Restaurant,Seafood Restaurant
+Chinatown,42.3513291,-71.0626228,Genki Ya,519abb90498ecd79e9066cd9,Boston,232 Tremont St,42.351105648251234,-71.06482062164098,182,Sushi Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Sol Azteca,4a7df6e8f964a52065f01fe3,Boston,914 Beacon St,42.346465681016966,-71.10600460960309,183,Mexican Restaurant,Mexican Restaurant
+Chinatown,42.3513291,-71.0626228,Crave - Mad for Chicken,53c1bcdb498e0567f9c29514,Boston,75 Kneeland St,42.350378162945304,-71.06078589061798,184,Korean Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Allston Diner,4f0c6dfc0cd60c521005cc1c,Boston,431 Cambridge St,42.35497871620241,-71.13429517469054,185,Diner,Diner
+Chinatown,42.3513291,-71.0626228,Taiwan Cafe,4a74a6a2f964a5200bdf1fe3,Boston,34 Oxford St,42.35139140018015,-71.06035915493555,186,Chinese Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,James Hook & Company,4a9699adf964a5205e2620e3,Boston,440 Atlantic Ave,42.354959987121205,-71.0509107842607,187,Seafood Restaurant,Seafood Restaurant
+Chinatown,42.3513291,-71.0626228,Wai Wai Restaurant,4aa7db29f964a5209f4d20e3,Boston,26 Oxford St,42.35158844987337,-71.06034158085488,189,Chinese Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Vinoteca di Monica,4b30075ff964a520b4f424e3,Boston,143 Richmond St,42.36336999532561,-71.0543807178735,192,Italian Restaurant,Italian Restaurant
+Fenway,42.3451868,-71.1045987,Taberna de Haro,4aeb9a29f964a520b2c321e3,Boston,999 Beacon St.,42.3458238115256,-71.10677545122763,192,Tapas Restaurant,Spanish Restaurant
+North End,42.3650974,-71.0544954,Modern Pastry Shop,4a3d99aef964a52083a21fe3,Boston,263 Hanover St,42.36339129541846,-71.05485934694339,192,Bakery,Bakery
+Back Bay,42.35054885,-71.08031131584724,Buttermilk & Bourbon,587e3453debdf66d8dab24f5,Boston,160 Commonwealth Ave,42.35159152654912,-71.0784520372305,192,Southern / Soul Food Restaurant,Southern / Soul Food Restaurant
+North End,42.3650974,-71.0544954,Ristorante Fiore,4b1d6c02f964a520511024e3,Boston,250 Hanover St,42.36342305954027,-71.05510518787518,193,Italian Restaurant,Italian Restaurant
+Chinatown,42.3513291,-71.0626228,Explorateur,594036b7f193c07478f13117,Boston,186 Tremont St,42.35248517832032,-71.06440282081307,194,Café,Café
+Back Bay,42.35054885,-71.08031131584724,DeLuca's Market,49d0e532f964a5203c5b1fe3,Boston,239 Newbury St,42.34971699404837,-71.0823944516998,194,Deli / Bodega,Deli / Bodega
+Mission Hill,42.33255965,-71.10360773640765,Il Mondo Pizzeria,5b4d424a67e5f2002c56e002,Boston,738 Huntington Ave,42.333759,-71.105322,194,Pizza Place,Pizza Place
+Mission Hill,42.33255965,-71.10360773640765,Halal Indian Cuisine,4bba76271261d13af6aeea98,Boston,736 Huntington Ave,42.33373414598944,-71.10537416652085,195,Indian Restaurant,Indian Restaurant
+East Boston,42.3750973,-71.0392173,Restaurante El Peñol,4bfee45adaf9c9b68a6bf9ef,Boston,54 Bennington St,42.37567588545785,-71.03697003424293,195,Latin American Restaurant,Latin American Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Mission Bar & Grill,456fe47bf964a520473e1fe3,Boston,724 Huntington Ave,42.33392470994877,-71.1051272393025,196,American Restaurant,American Restaurant
+Roslindale,42.2912093,-71.1244966,Guira Y Tambora,4bc219b7461576b0bad57c32,Roslindale,,42.291845,-71.122254,197,Cuban Restaurant,Caribbean Restaurant
+Beacon Hill,42.3587085,-71.067829,Primo's Restaurant,4aa91a1af964a520fe5120e3,Boston,28 Myrtle St,42.359323739960345,-71.06558279269184,197,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Treats On Washington,4dcd184845ddbe15f8665c1b,Boston,379 Washington St,42.349222330660986,-71.15432916445694,199,Bakery,Bakery
+North End,42.3650974,-71.0544954,Regina Pizzeria,4ae4b71af964a520629d21e3,Boston,11 1/2 Thacher St,42.36539391924489,-71.05688270158532,199,Pizza Place,Pizza Place
+Charlestown,42.3778749,-71.0619957,Grasshopper Cafe,4d4447d2bf61a1cde00607ac,Charlestown,229 Bunker Hill St,42.37937668675097,-71.06332950771677,199,Café,Café
+West End,42.3639186,-71.0638993,Qdoba Mexican Grill,4d3499d372a8b1f7d6f6b1d0,Boston,101 Causeway St,42.36487212376763,-71.06183677911764,200,Mexican Restaurant,Mexican Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Flames Restaurant II,4b4bf4caf964a5201dac26e3,Boston,746 Huntington Ave,42.33366142296616,-71.1055410752003,200,Caribbean Restaurant,Caribbean Restaurant
+Back Bay,42.35054885,-71.08031131584724,Abe & Louie's,4acd506af964a520d1cb20e3,Boston,793 Boylston St,42.34895993641333,-71.08146673784249,200,Steakhouse,Steakhouse
+North End,42.3650974,-71.0544954,Limoncello,4a5150b1f964a520eab01fe3,Boston,190 North St,42.36335288350385,-71.0538267875863,201,Italian Restaurant,Italian Restaurant
+Leather District,42.3523222,-71.05734307739965,Gene's Chinese Flatbread Cafe,51eff56c498e1fe71b259d44,Boston,86 Bedford St,42.35333234922326,-71.05937890340668,201,Chinese Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,Great Taste Bakery & Restaurant,4ae310cef964a520399021e3,Boston,31 Beach St,42.35129067813932,-71.0601654957231,202,Bakery,Bakery
+Allston,42.3554344,-71.1321271,Bazaar,4ae5ba21f964a520aea121e3,Boston,424 Cambridge St,42.3547817945317,-71.13442772247477,202,Restaurant,Restaurant
+Hyde Park,42.2556543,-71.1244963,Las Vegas Seafood,4d4da6f44aa3a093216f45ae,Boston,6 Maple St,42.255821000000005,-71.122022,204,Caribbean Restaurant,Caribbean Restaurant
+North End,42.3650974,-71.0544954,Aria,51203506e4b06730aceca3c5,Boston,243 Hanover St.,42.363285884932445,-71.05500181227464,205,Italian Restaurant,Italian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Penguin Pizza,456fe4b1f964a520483e1fe3,Boston,735 Huntington Ave,42.33402151743889,-71.10514847186458,206,Pizza Place,Pizza Place
+Leather District,42.3523222,-71.05734307739965,sweetgreen,57fbb58e498e466c222aa37d,Boston,87 Summer St,42.3539465,-71.0585759,207,Salad Place,Salad Place
+Downtown,42.35860195,-71.06387508501135,Emmet's Irish Pub,4b54b8fcf964a520fac827e3,Boston,6 Beacon St,42.35823615756918,-71.06140187159062,207,Irish Pub,Irish Pub
+Leather District,42.3523222,-71.05734307739965,Oath Pizza - South Station,56290ddd498e3a8dc65d6a55,Boston,700 Atlantic Ave,42.351511792478014,-71.05504137298902,209,Pizza Place,Pizza Place
+Chinatown,42.3513291,-71.0626228,Hing Shing Pastry,4bbf27af82a2ef3b41472cd2,Boston,67 Beach St,42.35128671357511,-71.06008206586856,209,Bakery,Bakery
+Mission Hill,42.33255965,-71.10360773640765,Montecristo Mexican Grill,4b903f62f964a520c07e33e3,Boston,748 Huntington Ave,42.33367940907041,-71.10568309084181,211,Burrito Place,Mexican Restaurant
+West End,42.3639186,-71.0638993,Tasty Burger,5a6f595ec62b49492cd354ae,Boston,1 Nashua St,42.36573838983572,-71.06310470343489,212,Burger Joint,Burger Joint
+South Boston Waterfront,42.3547517,-71.0531784,Boston College Club,4ab562a2f964a520527420e3,Boston,100 Federal St Fl 36,42.355081677969814,-71.05572151653291,212,American Restaurant,American Restaurant
+North End,42.3650974,-71.0544954,Bricco,4c52e8669d642d7fc892cddf,Boston,241 Hanover St,42.36322453581476,-71.05506884217296,213,Italian Restaurant,Italian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Smith & Wollensky,4e6caf18d1649db799b6771e,Boston,294 Congress St,42.35291082196725,-71.05246245861053,213,Steakhouse,Steakhouse
+Brighton,42.3500971,-71.1564423,Jim's Deli,4a63536cf964a520c2c41fe3,Brighton,371 Washington St,42.34926678714633,-71.15408825072113,214,Deli / Bodega,Deli / Bodega
+East Boston,42.3750973,-71.0392173,Meridian Food Market,4b61c57df964a520b3212ae3,East Boston,121 Meridian St,42.37318190811691,-71.0389363012334,214,Deli / Bodega,Deli / Bodega
+Back Bay,42.35054885,-71.08031131584724,Saltie Girl Seafood Bar,5751a77f498ef100dd91e5d4,Boston,281 Dartmouth St.,42.351111113426946,-71.0778112895181,214,Seafood Restaurant,Seafood Restaurant
+Leather District,42.3523222,-71.05734307739965,La Colombe Torrefaction,570eb720cd10c6782f02b363,Boston,745 Atlantic Ave,42.350423,-71.056837,215,Café,Café
+Back Bay,42.35054885,-71.08031131584724,Luke's Lobster,55a7e81d498e743bb03e1b1c,Boston,75 Exeter St.,42.34880490021059,-71.07918524138714,215,Seafood Restaurant,Seafood Restaurant
+Fenway,42.3451868,-71.1045987,Giggling Rice,53e55a5b498e5191d05d9982,Brookline,1009 Beacon St,42.345835535552986,-71.10712312383757,219,Thai Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Shun's Kitchen,568f2ab6498e653e63bfd344,Boston,520 Columbus Ave,42.341895,-71.07978,219,Asian Restaurant,Asian Restaurant
+Leather District,42.3523222,-71.05734307739965,The Chicken & Rice Guys Store,553e5862498eca7b184aff2f,Boston,85 Bedford St,42.35336009838101,-71.0596108371819,219,Middle Eastern Restaurant,Middle Eastern Restaurant
+Bay Village,42.35001105,-71.0669477958571,P.F. Chang's,4396dfeaf964a5209b2b1fe3,Boston,8 Park Plz Spc D-6,42.3519916,-71.0671335,221,Chinese Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Jazzman's Cafe @ 1 Autumn St.,4c52fc4899ecc9b6c1f0a55b,Boston,1 Autumn St,42.33955001831055,-71.11003112792969,221,Café,Café
+Chinatown,42.3513291,-71.0626228,Sip Wine Bar & Kitchen,4fcfd6c2e4b014bc8f359648,Boston,558-580 Washington St,42.35332910675743,-71.06255640003629,222,Restaurant,Restaurant
+Back Bay,42.35054885,-71.08031131584724,The Courtyard Restaurant,4c6ab60d96f176b01afab636,Boston,"Boston Public Library, 230 Dartmouth Street",42.34962486643631,-71.07789347501135,223,New American Restaurant,American Restaurant
+North End,42.3650974,-71.0544954,Parla,534c8689498e86384e21ee16,Boston,230 Hanover St,42.363135033080844,-71.05516033241177,225,Italian Restaurant,Italian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Lolita Cocina & Tequila Bar,4cff6944f7b38cfa5108c9c3,Boston,271 Dartmouth St,42.35056330236145,-71.07754431396165,227,Mexican Restaurant,Mexican Restaurant
+South End,42.34131,-71.0772298,Petit Robert Bistro,4a74fb4ff964a52032e01fe3,Boston,480 Columbus Ave,42.34301963883804,-71.07874949169339,227,French Restaurant,French Restaurant
+Allston,42.3554344,-71.1321271,Myung Dong 1st Ave,4b22dcf4f964a520064f24e3,Allston,90 Harvard Ave,42.353382867337075,-71.1321205072299,228,Korean Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Ernesto's Pizza,4accca58f964a52087c920e3,Boston,69 Salem St,42.36337010778569,-71.05599795301806,228,Pizza Place,Pizza Place
+North End,42.3650974,-71.0544954,Bricco Salumeria and Pasta Shop,53a74381498e34ef9a6217ea,Boston,11 Board Aly,42.36307097234039,-71.0550408719736,229,Deli / Bodega,Deli / Bodega
+North End,42.3650974,-71.0544954,Bricco Panetteria,4f1acf60e4b0850c83800d9c,Boston,241 Hanover St,42.363056,-71.054894,229,Bakery,Bakery
+Chinatown,42.3513291,-71.0626228,New Jumbo Seafood Restaurant,4b08321cf964a520ff0523e3,Boston,5 Hudson St,42.350902159360835,-71.05989522903167,229,Chinese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,MET Back Bay,4cb49356aef16dcbfd05d054,Boston,279 Dartmouth St,42.350974470084786,-71.07756841771408,230,New American Restaurant,American Restaurant
+North End,42.3650974,-71.0544954,North Street Grille,4ae328b0f964a520119121e3,Boston,229 North St,42.36356383514461,-71.05259242963426,231,American Restaurant,American Restaurant
+Beacon Hill,42.3587085,-71.067829,Tatte Bakery & Cafe,54f799d3498eae1662b1b24e,Boston,70 Charles St,42.35790379803664,-71.07043940890395,232,Bakery,Bakery
+Mission Hill,42.33255965,-71.10360773640765,Laughing Monk Cafe,5903816c06fb60796142faa1,Boston,737 Huntington Ave,42.334077,-71.105563,233,Sushi Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Gyu-Kaku Japanese BBQ,51703b83e4b06748d3b28952,Brookline,1002 Beacon St,42.346321562094744,-71.10698528654802,233,Japanese Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Lucca,4a692cedf964a520b8cb1fe3,Boston,226 Hanover St,42.363059045828564,-71.05523852846484,234,Italian Restaurant,Italian Restaurant
+South End,42.34131,-71.0772298,Cafe Madeleine,53fb3289498ea66a49d5c3b9,Boston,517 Columbus Ave,42.34217054755015,-71.07982508038752,234,Bakery,Bakery
+Beacon Hill,42.3587085,-71.067829,Toscano Restaurant,3fd66200f964a5204dec1ee3,Boston,47 Charles St,42.35736019165299,-71.07002604618096,234,Italian Restaurant,Italian Restaurant
+East Boston,42.3750973,-71.0392173,Saigon Restaurant,4c1cede8b4e62d7fcccbdb93,East Boston,305 Meridian St,42.377232974170994,-71.03915157424319,237,Vietnamese Restaurant,Asian Restaurant
+Chinatown,42.3513291,-71.0626228,Teatro,4a4b7a0df964a52067ac1fe3,Boston,177 Tremont St,42.35302638621372,-71.06437090928104,237,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Tresca,45bc5a54f964a520f9411fe3,Boston,233 Hanover St,42.36302849126987,-71.05526694630869,238,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Pauli's,4dea5487d164ef597ce79171,Boston,65 Salem St,42.3632920767292,-71.056067569795,238,Sandwich Place,Sandwich Place
+Fenway,42.3451868,-71.1045987,Sichuan Gourmet,4be73232cf200f477367153c,Brookline,1004 Beacon St,42.34625800797869,-71.10714722228069,241,Chinese Restaurant,Asian Restaurant
+Beacon Hill,42.3587085,-71.067829,The Paramount,3fd66200f964a52044ec1ee3,Boston,44 Charles St,42.35725611789737,-71.0700174585143,241,Breakfast Spot,Breakfast Spot
+Beacon Hill,42.3587085,-71.067829,Figs,3fd66200f964a5201fec1ee3,Boston,42 Charles St,42.357255237502976,-71.07000654169158,241,Pizza Place,Pizza Place
+Mission Hill,42.33255965,-71.10360773640765,Mama's Place,4d878c0537ddba7ac6b4c6e4,Boston,764 Huntington Ave,42.3333909592741,-71.10635659313212,244,Greek Restaurant,Greek Restaurant
+Brighton,42.3500971,-71.1564423,Los Amigos,57b74d81498edb84968e0ea2,Boston,366 Washington St,42.34906700430879,-71.15379776458799,245,Burrito Place,Mexican Restaurant
+Longwood,42.3415333,-71.1101551,Bruegger's,4af8940df964a5206c0e22e3,Boston,375 Longwood Ave,42.339753734140494,-71.10836505889893,246,Bagel Shop,Bagel Shop
+South End,42.34131,-71.0772298,South End Food Emporium,4ba28259f964a52078ff37e3,Boston,465 Columbus Ave,42.34333456286723,-71.07844309215459,246,Deli / Bodega,Deli / Bodega
+North End,42.3650974,-71.0544954,Neptune Oyster,4ac53112f964a520dbb020e3,Boston,63 Salem St,42.363236501436226,-71.0561393696605,247,Seafood Restaurant,Seafood Restaurant
+Back Bay,42.35054885,-71.08031131584724,Porto,577efb6fcd10dbfdb9457f39,Boston,780 Boylston St,42.34828578938858,-71.08039922469987,252,Mediterranean Restaurant,Mediterranean Restaurant
+North End,42.3650974,-71.0544954,Mare,5807a41638fad61b2ebda69c,Boston,3 Mechanic St,42.362857293210354,-71.05497863427024,252,Italian Restaurant,Italian Restaurant
+Dorchester,42.2973205,-71.0744952,Four Corners Pizza,4c191d6098f4a5933b96fff5,Suffolk County,Bowdoin street,42.2993803024292,-71.07319593429565,253,Pizza Place,Pizza Place
+Chinatown,42.3513291,-71.0626228,Legal Crossing,531e28ea11d2cfce53f540f9,Boston,558 Washington St,42.353592915043215,-71.06227080998116,253,Seafood Restaurant,Seafood Restaurant
+Dorchester,42.2973205,-71.0744952,Down Home Delivery,4d54917e58856dcbe5443f6d,Boston,2 Bowdoin Street,42.299495890094704,-71.07342643125591,257,Southern / Soul Food Restaurant,Southern / Soul Food Restaurant
+North End,42.3650974,-71.0544954,La Dolce Vita,4afe20f2f964a520292e22e3,Boston,221 Hanover St,42.36287675877697,-71.05537865248598,257,Italian Restaurant,Italian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Au Bon Pain,4b8ec17bf964a520383533e3,Boston,26 Park Plz,42.35169882423203,-71.06908863610231,257,Breakfast Spot,Breakfast Spot
+Brighton,42.3500971,-71.1564423,Happy Garden,4bc94ae70687ef3b11d7d9cc,Boston,370 Washington St,42.348929999999996,-71.153719,258,Chinese Restaurant,Asian Restaurant
+Brighton,42.3500971,-71.1564423,Asahi,4ad7bc20f964a520420e21e3,Brighton,418 Market St,42.349267293372506,-71.1534974272747,259,Sushi Restaurant,Asian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Davio's,49e1f0c4f964a520e9611fe3,Boston,75 Arlington St,42.35031006081136,-71.07008011819015,259,Steakhouse,Steakhouse
+Brighton,42.3500971,-71.1564423,Domino's Pizza,4b8feccff964a520f16933e3,Brighton,464 Washington St,42.34873225324593,-71.1590132117272,260,Pizza Place,Pizza Place
+Back Bay,42.35054885,-71.08031131584724,Luke's Lobster @ Supply Good,51b9e0eb454a8318fcff6ff1,Boston,144 Newbury St,42.35078048706055,-71.07716369628906,260,Seafood Restaurant,Seafood Restaurant
+Dorchester,42.2973205,-71.0744952,Oasis Vegan Veggie Parlor,59b2c06125fb7b648e8f3a62,Dorchester,340 Washington St,42.299572,-71.073652,260,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Bay Village,42.35001105,-71.0669477958571,Shaking Crab,5a6d088e0a464d531abfaaa3,Boston,,42.352290999999994,-71.066204,261,Seafood Restaurant,Seafood Restaurant
+Beacon Hill,42.3587085,-71.067829,Hulun Beir,573a58e0498ecd2e3589dfc3,Boston,326 Cambridge St,42.360934,-71.068929,263,Hotpot Restaurant,Asian Restaurant
+Hyde Park,42.2556543,-71.1244963,Dunkin',4c01181319d8c928183f8829,Hyde Park,1200 Hyde Park Ave,42.257822190855144,-71.12321200120601,263,Donut Shop,Donut Shop
+Back Bay,42.35054885,-71.08031131584724,La Voile,4af8ba64f964a520840f22e3,Boston,261 Newbury St,42.34950872461703,-71.08319484657767,263,French Restaurant,French Restaurant
+Beacon Hill,42.3587085,-71.067829,Ma Maison,556ce8c5498e1b61f23c49eb,Boston,272 Cambridge St,42.36109495457536,-71.06791537668431,265,French Restaurant,French Restaurant
+Fenway,42.3451868,-71.1045987,Audubon Boston,443a9666f964a52023321fe3,Boston,838 Beacon St,42.34735880749118,-71.10318857256385,268,American Restaurant,American Restaurant
+Beacon Hill,42.3587085,-71.067829,Pierrot Bistrot Francais,4b0b3fbaf964a520672f23e3,Boston,272 Cambridge St,42.36112303947459,-71.06797983965376,269,French Restaurant,French Restaurant
+Beacon Hill,42.3587085,-71.067829,Bin 26 Enoteca,453cb78ef964a520163c1fe3,Boston,26 Charles St,42.3567473992826,-71.06979181204098,271,Italian Restaurant,Italian Restaurant
+Downtown,42.35860195,-71.06387508501135,Seoul,4fbe62dfe4b07642e226a824,Boston,156 Cambridge St. Beacon Hill,42.360981,-71.064676,272,Korean Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Puro Ceviche,59373ff833627343d7c4a7a9,Boston,264 Newbury St,42.34935476505534,-71.08321183881165,273,Restaurant,Restaurant
+Brighton,42.3500971,-71.1564423,Cafe Mirror,4a81720df964a520c1f61fe3,Brighton,362 Washington St,42.34898122863406,-71.15346416265909,274,Café,Café
+Fenway,42.3451868,-71.1045987,Japonaise Bakery & Cafe,4b104ca9f964a520486d23e3,Brookline,1020 Beacon St,42.34604745990752,-71.10772168192506,274,Bakery,Bakery
+Allston,42.3554344,-71.1321271,Coreanos,575b6748498ee1cbfbeb92af,Boston,172 Brighton Ave,42.353041775644094,-71.13292509492997,274,Korean Restaurant,Asian Restaurant
+Beacon Hill,42.3587085,-71.067829,Antonio's Cucina Italiana,4e4c3347bd413c4cc667ac27,Boston,286 Cambridge St,42.36115198103029,-71.06832660074788,275,Italian Restaurant,Italian Restaurant
+Allston,42.3554344,-71.1321271,Le's Vietnamese Restaurant,4b3d5e57f964a520329325e3,Boston,137 Brighton Ave,42.3530217837804,-71.13140759194468,275,Vietnamese Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Fish Market Sushi Bar,4b758e61f964a520e7132ee3,Allston,170 Brighton Ave,42.35303869090536,-71.1329753265711,275,Sushi Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Habanero Mexican Grill,4af2156cf964a520c4e521e3,Boston,166 Brighton Ave,42.352998287348164,-71.13279104109175,276,Mexican Restaurant,Mexican Restaurant
+Beacon Hill,42.3587085,-71.067829,The Upper Crust Pizzeria,4a4916f5f964a520f5aa1fe3,Boston,20 Charles St,42.356651539581414,-71.06972256955727,276,Pizza Place,Pizza Place
+Bay Village,42.35001105,-71.0669477958571,Boloco,4b1ef391f964a520f82124e3,Boston,2 Park Plz,42.35249193327484,-71.06709060911908,276,Burrito Place,Mexican Restaurant
+Beacon Hill,42.3587085,-71.067829,Finagle A Bagel,4ad73b99f964a520110921e3,Boston,277 Cambridge St,42.36116839634556,-71.06838340688923,277,Bagel Shop,Bagel Shop
+West End,42.3639186,-71.0638993,J. Pace & Son,4b3cd63ef964a520048825e3,Boston,75 Blossom Ct,42.36468167,-71.06710667,277,Deli / Bodega,Deli / Bodega
+Allston,42.3554344,-71.1321271,BonChon Chicken,4d0027192685a35dd345c790,Allston,123 Brighton Ave,42.353105,-71.130921,277,Fried Chicken Joint,Fried Chicken Joint
+Fenway,42.3451868,-71.1045987,Mei Mei,523900c511d29b92023ae6a3,Boston,506 Park Dr,42.34748098522834,-71.10594890821594,278,Chinese Restaurant,Asian Restaurant
+Beacon Hill,42.3587085,-71.067829,Panificio Bistro & Bakery,3fd66200f964a52042ec1ee3,Boston,144 Charles St,42.35992992771054,-71.07078430635819,278,Bistro,Bistro
+South End,42.34131,-71.0772298,Five Horses Tavern,51858fa4498e846a1ece9c38,Boston,535 Columbus Ave,42.34172682067282,-71.08056221476632,278,American Restaurant,American Restaurant
+Brighton,42.3500971,-71.1564423,South of the Clouds,5946ba6c5f68b90855cd9b6e,Brighton,412 Market St,42.349436,-71.153173,278,Chinese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Sorellina,4a8583f7f964a52060fe1fe3,Boston,1 Huntington Ave,42.348717891599655,-71.07798445126036,279,Italian Restaurant,Italian Restaurant
+Allston,42.3554344,-71.1321271,Carlo's Cucina Italiana,4a8de631f964a520581120e3,Allston,131 Brighton Ave,42.35302623534414,-71.13113458219998,280,Italian Restaurant,Italian Restaurant
+Charlestown,42.3778749,-71.0619957,Kipo's Pizzeria,4bfffe7592a6c928877343e2,Charlestown,106 Bunker Hill St,42.377443,-71.058611,282,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,The Tip Tap Room,4fde3cebe4b052337467341d,Boston,138 Cambridge St,42.36115309523041,-71.06397553609469,284,American Restaurant,American Restaurant
+Beacon Hill,42.3587085,-71.067829,Anna's Taqueria,4a04e30cf964a5203b721fe3,Boston,242 Cambridge St,42.36118714542897,-71.0670092140363,284,Mexican Restaurant,Mexican Restaurant
+Allston,42.3554344,-71.1321271,Thai Place,4b995a26f964a520207535e3,Allston,184 Brighton Ave,42.35318490039033,-71.13378447319721,285,Thai Restaurant,Asian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,The Squealing Pig,41a27d80f964a520411e1fe3,Boston,134 Smith St,42.3348793828022,-71.10210117933646,286,Gastropub,Gastropub
+Charlestown,42.3778749,-71.0619957,Dunkin',55e5d0ab498eea3f0f248a22,Boston,16 Tremont St,42.376588,-71.05897,287,Donut Shop,Donut Shop
+Allston,42.3554344,-71.1321271,Mala Restaurant,5599b403498e4220e1753509,Allston,129 Brighton Ave,42.35296043308354,-71.13103253509782,289,Chinese Restaurant,Asian Restaurant
+Beacon Hill,42.3587085,-71.067829,Harvard Gardens,3fd66200f964a52026ec1ee3,Boston,316 Cambridge St,42.36115438295447,-71.0690423756727,289,American Restaurant,American Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Rowes Wharf Sea Grille,4b673e3ff964a52067432be3,Boston,70 Rowes Wharf,42.3562236,-71.0502554,290,Seafood Restaurant,Seafood Restaurant
+Leather District,42.3523222,-71.05734307739965,South Street Diner,3fd66200f964a52098ec1ee3,Boston,178 Kneeland St,42.34971493610592,-71.05771887073382,291,Diner,Diner
+Fenway,42.3451868,-71.1045987,Futago Udon,5c7594c66e4650002cd71374,Boston,508 Park Dr,42.347624,-71.105899,291,Udon Restaurant,Asian Restaurant
+Hyde Park,42.2556543,-71.1244963,Antonio's Bacaro,57afa8a8498e68c2f425250e,Hyde Park,5 Fairmount Ave,42.255763,-71.120955,292,Italian Restaurant,Italian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Davio's To Go,4bb1f5ebf964a520abad3ce3,Boston,10 Saint James St,42.35047369256938,-71.07044736652493,292,Italian Restaurant,Italian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Lilly's Gourmet Pasta Express,4c599ad92091a593c9475dd0,Boston,1528 Tremont St,42.332444789464816,-71.10004631861844,293,Italian Restaurant,Italian Restaurant
+North End,42.3650974,-71.0544954,Tenoch,52f9083f498eb590de3e05f4,Boston,3 Lewis St,42.36336402107949,-71.05180426434242,293,Mexican Restaurant,Mexican Restaurant
+Bay Village,42.35001105,-71.0669477958571,Strip By Strega,5519b247498e66d71e4e53b5,Boston,64 Arlington St,42.351027341848116,-71.07026582368903,295,Steakhouse,Steakhouse
+Back Bay,42.35054885,-71.08031131584724,Thai Basil Restaurant,3fd66200f964a5205fec1ee3,Boston,132 Newbury St,42.35111702154071,-71.0767866941051,296,Thai Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Giacomo's,3fd66200f964a52021ec1ee3,Boston,431 Columbus Ave,42.343951546021835,-71.07764575807387,296,Italian Restaurant,Italian Restaurant
+South End,42.34131,-71.0772298,Orinoco Kitchen,44181f73f964a52018311fe3,Boston,477 Shawmut Ave,42.33880268156209,-71.07598214844766,297,Arepa Restaurant,Latin American Restaurant
+Beacon Hill,42.3587085,-71.067829,Fin's Sushi & Grill,4f32c6c1e4b0355877906d07,Boston,240 Cambridge St,42.36127026575528,-71.06676712279844,298,Sushi Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Beantown Pho & Grill,53757141498e516475a45374,Boston,272 Newbury St,42.34925386273842,-71.08349756794141,299,Vietnamese Restaurant,Asian Restaurant
+Downtown,42.35860195,-71.06387508501135,Zo,4b4f6a57f964a520930527e3,Boston,3 Center Plz,42.359303326648295,-71.06035233177231,300,Greek Restaurant,Greek Restaurant
+North End,42.3650974,-71.0544954,Mother Anna's,4b8d5e62f964a5207cf732e3,Boston,211 Hanover St,42.362522537998736,-71.05564415920323,301,Italian Restaurant,Italian Restaurant
+Hyde Park,42.2556543,-71.1244963,Tony's Pizzeria,4ddc446ac65bfd579e0f9674,Hyde Park,10 Fairmount Ave,42.2557258605957,-71.1208267211914,302,Pizza Place,Pizza Place
+Mission Hill,42.33255965,-71.10360773640765,Mike's Donuts,4b817777f964a52003a830e3,Boston,1524A Tremont St,42.33239201068743,-71.09992248398119,303,Donut Shop,Donut Shop
+Bay Village,42.35001105,-71.0669477958571,Mooncusser Fish House,59867be32a7ab676698036b8,Boston,304 Stuart St,42.34988935224375,-71.07063308546496,303,Seafood Restaurant,Seafood Restaurant
+Back Bay,42.35054885,-71.08031131584724,Dig Inn,598a26da4940bc18c7b02cf2,Boston,800 Boylston Street,42.3483326,-71.082475,304,New American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,El Centro,4de0126a8877aab7fe413449,Boston,472 Shawmut Ave,42.33875353453901,-71.07592553558042,304,Mexican Restaurant,Mexican Restaurant
+South End,42.34131,-71.0772298,Charlie's Sandwich Shoppe,4abe367cf964a520fd8b20e3,Boston,429 Columbus Ave,42.34404691201593,-71.07760112325248,306,Sandwich Place,Sandwich Place
+Dorchester,42.2973205,-71.0744952,KFC,4e4dff96bd4101d0d79fed1b,Dorchester,465 Washington St,42.29504047998503,-71.0723487171793,309,Fried Chicken Joint,Fried Chicken Joint
+Leather District,42.3523222,-71.05734307739965,Chacarero,4a367d22f964a5209f9d1fe3,Boston,101 Arch St,42.354936,-71.058652,310,Sandwich Place,Sandwich Place
+Hyde Park,42.2556543,-71.1244963,McDonald's,4b9bb33ff964a520791b36e3,Hyde Park,1312 Hyde Park Ave,42.25286616475566,-71.12445831298828,310,Fast Food Restaurant,Fast Food Restaurant
+Brighton,42.3500971,-71.1564423,MDM Noodles,54f9fd5c498e590ea8c60dd0,Brighton,351 Washington St,42.34915429419447,-71.15282986798782,315,Chinese Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Farr Cafeteria,4ba8c699f964a520f0ed39e3,Boston,,42.338694089179974,-71.11039531904568,316,American Restaurant,American Restaurant
+Beacon Hill,42.3587085,-71.067829,All Star Pizza Bar,584b4f009343e03b166250d0,Boston,204 Cambridge St,42.36117553076586,-71.06591493617547,316,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,Chipotle Mexican Grill,4a9e9761f964a5208c3a20e3,Boston,148 Brookline Ave,42.3446571,-71.1008254,316,Mexican Restaurant,Mexican Restaurant
+Brighton,42.3500971,-71.1564423,Dunkin',4bd47ce14e32d13aaa31bf80,Brighton,350 Washington St,42.34884033699677,-71.15298067852154,317,Donut Shop,Donut Shop
+Allston,42.3554344,-71.1321271,Punjab Palace,4a843981f964a520f5fb1fe3,Boston,109 Brighton Ave,42.3528389451206,-71.13052032525798,317,Indian Restaurant,Indian Restaurant
+Fenway,42.3451868,-71.1045987,Sweet Cheeks Q,4e8607930aafdd0b12236aee,Boston,1381 Boylston St,42.34373828994109,-71.10125852846103,318,BBQ Joint,BBQ Joint
+Mission Hill,42.33255965,-71.10360773640765,Pat's Place,4b66cd77f964a5205b2b2be3,Boston,,42.33537363913603,-71.10433117716673,318,Sandwich Place,Sandwich Place
+Back Bay,42.35054885,-71.08031131584724,OAK Long Bar + Kitchen,4fe4c2697bebea2dec50fcb8,Boston,138 Saint James Ave,42.349275807960275,-71.0768160034294,320,American Restaurant,American Restaurant
+Brighton,42.3500971,-71.1564423,Esperia Grill,4ab6a139f964a520417820e3,Brighton,344 Washington St,42.34901596896122,-71.15282478517864,321,Greek Restaurant,Greek Restaurant
+Charlestown,42.3778749,-71.0619957,Sweet Rice,572296cb498eb236f4523061,Boston,187 Main Street,42.37589600356981,-71.06486079781023,322,Thai Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,sweetgreen,577561d1498e545edf6787fa,Boston,132 Brookline Ave,42.3449545,-71.1006924,322,Salad Place,Salad Place
+Bay Village,42.35001105,-71.0669477958571,Da Vinci,4ad5cd72f964a5208f0321e3,Boston,162 Columbus Ave,42.34954594475664,-71.07085034539922,325,Italian Restaurant,Italian Restaurant
+Fenway,42.3451868,-71.1045987,Saloniki Greek,56df5e6fcd10cbe1edcb0a2c,Boston,4 Kilmarnock St,42.344832664015854,-71.1006200154381,329,Greek Restaurant,Greek Restaurant
+North End,42.3650974,-71.0544954,Ward 8,529d0b3911d2e1c994c39b59,Boston,90 N Washington St,42.36547488631407,-71.05849236336837,331,Gastropub,Gastropub
+Beacon Hill,42.3587085,-71.067829,75 Chestnut,3fd66200f964a520efeb1ee3,Boston,75 Chestnut St,42.35680468547692,-71.0709318709562,331,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Sushi Express,4be3231b21d5a593c94a1811,Brookline,1038 Beacon St,42.34584560228302,-71.1085406520988,332,Sushi Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,Fat Baby,5a18ab59a9e402247b1403ff,Boston,118 Dorchester St,42.33514720243028,-71.04616794807374,333,Sushi Restaurant,Asian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Bistro du Midi,4b3cc11af964a520da8625e3,Boston,272 Boylston St,42.352249183251395,-71.06963394471732,333,French Restaurant,French Restaurant
+Back Bay,42.35054885,-71.08031131584724,Fogo De Chão,50743592e4b04f7121a1d41c,Boston,200 Dartmouth St,42.34861711024901,-71.07721968036162,333,Brazilian Restaurant,Latin American Restaurant
+Longwood,42.3415333,-71.1101551,Clover LMA,5798de83498e454731d4b39c,Boston,360 Longwood Ave,42.33912258197449,-71.10775564627545,333,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Back Bay,42.35054885,-71.08031131584724,Kashmir Indian Restaurant,3fd66200f964a520e5eb1ee3,Boston,279 Newbury St,42.34925187692889,-71.08396871107824,333,Indian Restaurant,Indian Restaurant
+Downtown,42.35860195,-71.06387508501135,"MOOYAH Burgers, Fries & Shakes",5a42f12460255e14fdb4fbf4,Boston,140 Tremont Street,42.355727513201344,-71.0626743229851,334,Burger Joint,Burger Joint
+West End,42.3639186,-71.0638993,Osteria Rustico,4b87dfe3f964a52086d031e3,Boston,85 Canal St,42.36439652213687,-71.05986995482215,335,Italian Restaurant,Italian Restaurant
+South Boston,42.3334312,-71.0494949,The New Ho Toy,4b62446af964a520743f2ae3,Boston,218 Old Colony Ave,42.33277522604918,-71.05346972346813,335,Chinese Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Spike's Junkyard Dogs,49fca246f964a520c46e1fe3,Allston,108 Brighton Ave,42.35273819662485,-71.13027916319147,336,Hot Dog Joint,Hot Dog Joint
+Mission Hill,42.33255965,-71.10360773640765,Crispy Dough Pizzeria,4b92dacbf964a520d42134e3,Boston,1514 Tremont St,42.332251834417995,-71.099526098282,337,Pizza Place,Pizza Place
+North End,42.3650974,-71.0544954,Massimino's Cucina Italiana,4bf31e383f86c9b678ccb11c,Boston,207 Endicott St,42.36649473564955,-71.0581325028762,337,Italian Restaurant,Italian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Dig Inn,577e590a498ea3e75f555c50,Boston,557 Boylston St,42.3507143,-71.0762011,338,Restaurant,Restaurant
+Beacon Hill,42.3587085,-71.067829,Peregrine,5d240400fac61200232dbccc,Boston,,42.359212,-71.071907,340,Restaurant,Restaurant
+South Boston,42.3334312,-71.0494949,East Meets West Catering,4c6edf2bfa49a1cdbf3fa1e3,Boston,212 Old Colony Ave,42.332837,-71.05356,341,Restaurant,Restaurant
+Downtown,42.35860195,-71.06387508501135,Lambert's Marketplace,4b7c28e9f964a52017812fe3,Boston,140 Tremont St,42.355635898874965,-71.06266934789734,344,Sandwich Place,Sandwich Place
+Back Bay,42.35054885,-71.08031131584724,wagamama,49f91511f964a5205d6d1fe3,Boston,"800 boylston street, store 117",42.347627,-71.081685,344,Asian Restaurant,Asian Restaurant
+East Boston,42.3750973,-71.0392173,Craft Table & Bar,59b48c503149b94930a25e3c,Boston,107 Porter St,42.3730354149454,-71.0360822190379,345,American Restaurant,American Restaurant
+Back Bay,42.35054885,-71.08031131584724,Chipotle Mexican Grill,548b4faf498edfc8e219fefc,Boston,553 Boylston St,42.350737,-71.076114,345,Mexican Restaurant,Mexican Restaurant
+Fenway,42.3451868,-71.1045987,Wahlburgers,560b1868498ec5e1b9abe31c,Boston,132 Brookline Ave,42.345049181604544,-71.10038077039644,347,Burger Joint,Burger Joint
+Mission Hill,42.33255965,-71.10360773640765,Milkweed,59aedc4dfdb9a734dd553c5a,Boston,1508 Tremont St,42.332167762912555,-71.09942401751384,347,New American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,Mida,583f619e5804ea67b5d90bae,Boston,782 Tremont St,42.33929421434493,-71.08048084990733,349,Italian Restaurant,Italian Restaurant
+Hyde Park,42.2556543,-71.1244963,El Rancho Cafe,4b807c2bf964a520af7630e3,Hyde Park,1158 River St,42.25638961791992,-71.12035369873047,350,Café,Café
+Back Bay,42.35054885,-71.08031131584724,Earls Kitchen + Bar,59a5f7dc5d0fea42bfe228e8,Boston,800 Boylston St,42.34765552416836,-71.08201837094045,351,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Busy Bee Restaurant,4a72f2cff964a5205adb1fe3,Brookline,1046 Beacon St,42.34568905596602,-71.10882703423043,352,Diner,Diner
+Fenway,42.3451868,-71.1045987,Fool’s Errand,5b6a41f5396de0002cc9a74f,Boston,1377 Boylston St,42.343840899719794,-71.1007194522069,352,Restaurant,Restaurant
+Charlestown,42.3778749,-71.0619957,Monument Restaurant & Tavern,586d78f9de0cbc0b7f87e131,Charlestown,251 Main St,42.37686494887256,-71.06605278062904,352,Gastropub,Gastropub
+Back Bay,42.35054885,-71.08031131584724,La Pizza & La Pasta,592b76f6d0a1495f69d7b1da,Boston,800 Boylston St,42.347787132155936,-71.08244398841694,353,Italian Restaurant,Italian Restaurant
+South Boston,42.3334312,-71.0494949,Capo,56c281dbcd100614ab61bb89,Boston,443 W Broadway,42.33606983562752,-71.04707942423428,354,Italian Restaurant,Italian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Del Frisco's Double Eagle Steakhouse,5b2004366bdee6002c16d07f,Boston,888 Boylston St Ste 53,42.348266459602236,-71.08330858895494,354,Steakhouse,Steakhouse
+Charlestown,42.3778749,-71.0619957,Dunkin',4b093317f964a520af1423e3,Charlestown,11 Austin St,42.375757884501596,-71.06523379139853,355,Donut Shop,Donut Shop
+Back Bay,42.35054885,-71.08031131584724,Terra,58dc74370a3d547456111d89,Boston,800 Boylston St,42.34774805542093,-71.08241787003642,356,Italian Restaurant,Italian Restaurant
+Back Bay,42.35054885,-71.08031131584724,La Piazza at Eataly,583e3185a36ecd1d8734e2e2,Boston,800 Boylston St,42.34774857825831,-71.08240556614518,356,Italian Restaurant,Italian Restaurant
+Longwood,42.3415333,-71.1101551,B.GOOD,55ea36e5498e572410e806e0,Boston,360 Longwood Ave,42.33896721711486,-71.10755967178915,356,Fast Food Restaurant,Fast Food Restaurant
+Brighton,42.3500971,-71.1564423,Devlin's Restaurant,43a6b9a9f964a520602c1fe3,Brighton,332 Washington St,42.348928399460625,-71.1523844567171,358,American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,Vejigantes,5005ba39e4b0a2a87ca28304,Boston,57 W Dedham St,42.34210547292944,-71.07299651869405,359,Latin American Restaurant,Latin American Restaurant
+Back Bay,42.35054885,-71.08031131584724,Casa Romero,3fd66200f964a52010ec1ee3,Boston,30 Gloucester St,42.34941966551364,-71.08441007783625,359,Mexican Restaurant,Mexican Restaurant
+Fenway,42.3451868,-71.1045987,Yard House,4f467fc1e4b068bc663e155a,Boston,126 Brookline Ave,42.34511767952934,-71.10022579269624,359,American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Roys Cold Cuts & Pizzeria,4f511841e4b00ad2ab0ed3f1,East Boston,198 Marion St,42.37543054933973,-71.03485318245903,360,Sandwich Place,Sandwich Place
+Chinatown,42.3513291,-71.0626228,ruka,584c88b77d0f6d78855e39c9,Boston,505 Washington St,42.35450329708895,-71.06177516468658,360,Asian Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Krasi,5e5201374d7cf80008261791,Boston,48 Gloucester St,42.348696,-71.083947,363,Greek Restaurant,Greek Restaurant
+Allston,42.3554344,-71.1321271,Garlic 'n Lemons,4bc8701514d79521410569e9,Allston,133 Harvard Ave,42.35216319333068,-71.13194797966719,364,Mediterranean Restaurant,Mediterranean Restaurant
+Charlestown,42.3778749,-71.0619957,Ninety Nine Restaurant,4b50fb2bf964a520c53b27e3,Charlestown,31 Austin St,42.37603447893826,-71.06565762698364,364,American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,SRV,56997dc7498e4dbd71fcbe07,Boston,569 Columbus Ave,42.34087126422492,-71.08162160012462,364,Italian Restaurant,Italian Restaurant
+South End,42.34131,-71.0772298,Ilona,5d11523eaf35f30025c1d31a,Boston,783 Tremont St,42.339308,-71.080733,364,Greek Restaurant,Greek Restaurant
+Brighton,42.3500971,-71.1564423,Imperial Pizza,3fd66200f964a520c2eb1ee3,Brighton,329 Washington St,42.34911353788409,-71.15219569585116,366,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,Herrera's,4ab15c4ff964a520256920e3,Boston,11 Temple Pl,42.35547699914333,-71.06245807288931,366,Mexican Restaurant,Mexican Restaurant
+North End,42.3650974,-71.0544954,Ducali Pizzeria & Bar,4ae39e06f964a5204d9721e3,Boston,289 Causeway St,42.36708568942295,-71.05806795337298,367,Pizza Place,Pizza Place
+South Boston,42.3334312,-71.0494949,Lincoln Tavern & Restaurant,506799e8e4b0da82c6acb886,Boston,425 W Broadway,42.33640562945066,-71.04752160413055,368,American Restaurant,American Restaurant
+Back Bay,42.35054885,-71.08031131584724,SELECT Oyster Bar,551f43ca498e4993bd31d556,Boston,50 Gloucester St,42.34852603871223,-71.0839311584426,373,Seafood Restaurant,Seafood Restaurant
+South Boston,42.3334312,-71.0494949,South Boston Chinese,4c5611e23e2220a18aa05ba5,Boston,Broadway,42.33640806209789,-71.04737247230712,374,Chinese Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Dumpling Kingdom,57845b4e498e0942ee8b3ce6,Boston,137 Harvard Ave,42.352076528680506,-71.13189473899644,374,Dumpling Restaurant,Dumpling Restaurant
+Downtown,42.35860195,-71.06387508501135,Sam LaGrassa's,4a4b77ddf964a52063ac1fe3,Boston,44 Province St,42.35687,-71.05996,375,Sandwich Place,Sandwich Place
+Downtown,42.35860195,-71.06387508501135,JM Curley,4ed578ef8b81e3224623faeb,Boston,21 Temple Pl,42.35542711844857,-71.06233923897577,375,Gastropub,Gastropub
+South Boston,42.3334312,-71.0494949,McGoo's Pizzeria,4a90abddf964a520121920e3,Boston,479 W Broadway,42.33546572306807,-71.04583534109676,376,Pizza Place,Pizza Place
+Leather District,42.3523222,-71.05734307739965,Archie's New York Deli,4ad62461f964a520530521e3,Boston,101 Arch St,42.35533656296053,-71.05942372043775,376,Deli / Bodega,Deli / Bodega
+Downtown,42.35860195,-71.06387508501135,Ruth's Chris Steak House,525da4dd498eb92d634abc6f,Boston,45 School Street,42.358125,-71.059337,377,Steakhouse,Steakhouse
+South Boston,42.3334312,-71.0494949,Nick's House of Pizza & Seafood,4cd15b3086cbb7136ef9fa36,Boston,467 W Broadway,42.33569858257246,-71.04608682199488,377,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,haley.henry,57a50fbc498e6c05045175fa,Boston,45 Province St,42.357573626985655,-71.05949493285475,378,Restaurant,Restaurant
+South Boston,42.3334312,-71.0494949,Land Of Pizza,4d0d28d95c46a09326e00cb4,Boston,West Broadway,42.3361509129959,-71.04673949037104,378,Pizza Place,Pizza Place
+South Boston,42.3334312,-71.0494949,Leechen Taqueria,4b80d762f964a5209d8e30e3,Boston,475 W Broadway,42.335611315178866,-71.04592888278779,380,Taco Place,Mexican Restaurant
+Downtown,42.35860195,-71.06387508501135,Shawarma Falafel,52d56ef0498ef39cb9d6ca3c,Boston,26 Province St,42.35715,-71.05968,381,Falafel Restaurant,Falafel Restaurant
+Downtown,42.35860195,-71.06387508501135,Yvonne's,560d8c06498e79986a22ca43,Boston,2 Winter Place,42.355664233287655,-71.06146632268391,382,New American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Tiger Mama,566a1870498e8921f5e9139d,Boston,1363 Boylston St,42.34414975723226,-71.10015673918788,383,Thai Restaurant,Asian Restaurant
+Hyde Park,42.2556543,-71.1244963,Fairmount Grille,51afb25e498ef74eb2f7e8c7,Hyde Park,81 Fairmount Ave,42.254637077778526,-71.12004108606696,384,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Blackbird Doughnuts,590b6af9a2a6ce68658a8791,Boston,20 Kilmarnock St,42.344190694272136,-71.10010679703122,385,Donut Shop,Donut Shop
+South Boston Waterfront,42.3547517,-71.0531784,Bean & Leaf Café,4a8d87fff964a520e90f20e3,Boston,20 Custom House St,42.358210179473716,-71.05284021360889,385,Sandwich Place,Sandwich Place
+Leather District,42.3523222,-71.05734307739965,Bonapita,53a84f07498e1d8dd81d22d4,Boston,49 Franklin St,42.355619093801536,-71.05887043792754,387,Mediterranean Restaurant,Mediterranean Restaurant
+Back Bay,42.35054885,-71.08031131584724,Num Pang Kitchen,5913675c5315932e7f282066,Boston,800 Boylston St,42.347261988022076,-71.08190671162642,388,Sandwich Place,Sandwich Place
+South End,42.34131,-71.0772298,anoush’ella,59209e600f013c63860e0dd3,Boston,35 W Newton St,42.33886925002231,-71.07384335665532,389,Mediterranean Restaurant,Mediterranean Restaurant
+Charlestown,42.3778749,-71.0619957,Domino's Pizza,5116b046e4b0502d59f736d3,Charlestown,277 Main St #279,42.3775008659744,-71.06670498847961,389,Pizza Place,Pizza Place
+Charlestown,42.3778749,-71.0619957,Jenny's Pizza & Subs,4b159828f964a520dab023e3,Charlestown,320 Medford St,42.38128860361985,-71.06301927979395,389,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,Clover Food Lab DTX,56af7b5b498e9db1d9234e39,Boston,27 School St,42.35767437884534,-71.05930564739923,389,American Restaurant,American Restaurant
+Bay Village,42.35001105,-71.0669477958571,Rome Pizza,4b5f20ebf964a520bba729e3,Boston,416 Tremont St,42.3468325766716,-71.06894307740059,390,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,The Oceanaire Seafood Room,4a457a60f964a5203fa81fe3,Boston,40 Court St,42.3590705,-71.059173,390,Seafood Restaurant,Seafood Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,The Barking Crab,40b28c80f964a52070f81ee3,Boston,88 Sleeper St,42.353667443650195,-71.04865750583926,391,Seafood Restaurant,Seafood Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Pita Thyme,50956c63e889639562e995cd,Boston,102 Water St,42.35800572895418,-71.05502389695464,392,Mediterranean Restaurant,Mediterranean Restaurant
+Downtown,42.35860195,-71.06387508501135,The Hungry Traveler,4beadbad62c0c928885ae1d4,Boston,29 Court Sq,42.35838832304379,-71.05909819610264,393,Sandwich Place,Sandwich Place
+Charlestown,42.3778749,-71.0619957,Mister Q. Cafe,5e0df470cbf5c90008ebc377,Boston,283 Main St,42.37757873535156,-71.06676483154297,393,Café,Café
+South Boston,42.3334312,-71.0494949,D'Angelo Grilled Sandwiches,4bf53102d2fbef3b59e5a4c5,Boston,267 Old Colony Ave,42.3311254638596,-71.05312783270905,394,Sandwich Place,Sandwich Place
+Allston,42.3554344,-71.1321271,Shabu Zen,4a89e36df964a520430920e3,Allston,80 Brighton Ave,42.35267843781649,-71.12911288227481,394,Japanese Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,House of Siam,4a529300f964a520b9b11fe3,Boston,592 Tremont St,42.343156736309375,-71.0731376747515,394,Thai Restaurant,Asian Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Soup Shack,5b2ee46dccad6b0039d3dd70,Boston,779 Centre St,42.309933,-71.11553,395,Noodle House,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Finagle a Bagel (Copley Square),4ad73a38f964a5200b0921e3,Boston,535 Boylston St,42.35040337060241,-71.07550969020664,395,Bagel Shop,Bagel Shop
+Roslindale,42.2912093,-71.1244966,Roslindale House Of Pizza,4bd385b4b221c9b61103dad0,Roslindale,4168 Washington St,42.287989432170086,-71.12654870859815,396,Pizza Place,Pizza Place
+North End,42.3650974,-71.0544954,Bon Me - Boston Public Market,56a1135b498e8268ad5b5e81,Boston,100 Hanover St,42.36200856035146,-71.05688900868591,396,Food Truck,Food Truck
+East Boston,42.3750973,-71.0392173,Mi Rancho Restaurant,4c7fb036fb74236a81c4fab9,East Boston,45 Meridian St,42.37152241166926,-71.03895584823245,398,Mexican Restaurant,Mexican Restaurant
+Charlestown,42.3778749,-71.0619957,Doyle's,4cbb701f90c9a143a72495d6,Charlestown,279 Main St,42.37761688232422,-71.06682586669922,398,Restaurant,Restaurant
+North End,42.3650974,-71.0544954,Kala Thai Cookery,5b63929f6bdee6002c1bce6a,Boston,,42.36192760663637,-71.05676255040754,399,Thai Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,Three Clover Pizza,4c40948fa5c5ef3b7905b06f,Boston,401 W Broadway,42.336911,-71.048328,399,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,Flour Bakery & Cafe,49cfd02cf964a520cd5a1fe3,Boston,1595 Washington St,42.33844729754138,-71.07429856894889,399,Bakery,Bakery
+Fenway,42.3451868,-71.1045987,Tatte Bakery & Cafe,59f724f84febd57c5727d00b,Boston,1350 Boylston St,42.34400676650579,-71.09999145010102,401,Café,Café
+South Boston Waterfront,42.3547517,-71.0531784,Pavia - Italian Cuisine & Catering,4ca216f746978cfa5aa1c17f,Boston,82 Water St,42.35775184002537,-71.05591345776388,402,Italian Restaurant,Italian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Villa México Café,5693fcd0498e049f91602541,Boston,121 Water Street,42.35823309736885,-71.05452159663004,402,Mexican Restaurant,Mexican Restaurant
+Downtown,42.35860195,-71.06387508501135,Cafe Artigiano,58541f39ce593d53043e55d0,Boston,8 City Hall Ave,42.358025,-71.05905,402,Italian Restaurant,Italian Restaurant
+Chinatown,42.3513291,-71.0626228,Sal's Pizza,4c2a2790ce3fc928e9da6f88,Boston,150 Tremont St,42.35489042678564,-71.06351671773069,403,Pizza Place,Pizza Place
+Dorchester,42.2973205,-71.0744952,Juice & Jazz Cafe,5966709fff190265e8980ad1,Boston,501B Washington St,42.294147,-71.07208,405,Café,Café
+Beacon Hill,42.3587085,-71.067829,Clink,54031d07498eccd895fcb2f3,Boston,215 Charles St,42.36188721759866,-71.07026243087434,406,American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Santarpio's Pizza,4a5690eef964a52064b51fe3,Boston,111 Chelsea St,42.372815954043055,-71.03534470084819,407,Pizza Place,Pizza Place
+Jamaica Plain,42.3098201,-71.1203299,Super Fusion IV,4feb3b4ee4b06a56cf083fde,Jamaica Plain,779 Centre St,42.30987804018621,-71.11538647162274,407,Chinese Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Casa Razdora,4d1a255481cea35d5867faec,Boston,115 Water St,42.35823069388653,-71.05474109000356,408,Italian Restaurant,Italian Restaurant
+Longwood,42.3415333,-71.1101551,Dunkin',4b9a56e7f964a52052ad35e3,Boston,350 Longwood Ave,42.338560523013406,-71.10722519776073,409,Donut Shop,Donut Shop
+Jamaica Plain,42.3098201,-71.1203299,kamado,53111dd211d2ef90f3ad7641,Jamaica Plain,779 Centre St,42.30998080739572,-71.11536072786305,409,Sushi Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Tous les Jours,5993ab8e356b497a3de157b8,Allston,152 Harvard Ave,42.351752714365034,-71.13166472993585,411,Bakery,Bakery
+Jamaica Plain,42.3098201,-71.1203299,JP House of Pizza,4b09c3dff964a5202d1d23e3,Boston,775 Centre St,42.30989790923769,-71.1153348796913,411,Pizza Place,Pizza Place
+North End,42.3650974,-71.0544954,Boston Sail Loft,40b28c80f964a520b9f71ee3,Boston,80 Atlantic Ave,42.36254284109154,-71.05087216205703,411,Seafood Restaurant,Seafood Restaurant
+Charlestown,42.3778749,-71.0619957,New Speedy Chens,4c92c1c7911b8cfa0349f0b5,Charlestown,297 Main St,42.377764,-71.067043,415,Chinese Restaurant,Asian Restaurant
+Downtown,42.35860195,-71.06387508501135,Democracy Brewing Company,5b31835448b04e002d5bcb98,Boston,35 Temple Pl,42.35507317964544,-71.06213503381097,418,American Restaurant,American Restaurant
+Downtown,42.35860195,-71.06387508501135,Stoddard's Fine Food & Ale,4b229376f964a5205a4924e3,Boston,48 Temple Pl,42.355160391843434,-71.06176986380153,420,Gastropub,Gastropub
+South Boston,42.3334312,-71.0494949,Loco Taqueria & Oyster Bar,54bee015498eec60c22584a3,Boston,West Broadway,42.336998881689894,-71.04780258974819,420,Mexican Restaurant,Mexican Restaurant
+Roslindale,42.2912093,-71.1244966,Dunkin',4b6436a0f964a52064a42ae3,Roslindale,4175 Washington St,42.287911889583484,-71.12699117485141,420,Donut Shop,Donut Shop
+North End,42.3650974,-71.0544954,Union Square Donuts,55c78867498ebead01857033,Boston,,42.361925361552,-71.05727964598233,420,Donut Shop,Donut Shop
+Dorchester,42.2973205,-71.0744952,Sun Ahs Cafe,4dcbe96e52b17cba4fb27bd3,Dorchester,503 Washington St,42.294063,-71.071896,421,Breakfast Spot,Breakfast Spot
+Beacon Hill,42.3587085,-71.067829,Scampo at The Liberty Hotel,4aa433ebf964a520cf4520e3,Boston,215 Charles St,42.36193695295573,-71.0705125498474,421,Italian Restaurant,Italian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Parish Cafe & Bar,3fd66200f964a52045ec1ee3,Boston,361 Boylston St,42.351745897242424,-71.07152531223873,423,Sandwich Place,Sandwich Place
+Allston,42.3554344,-71.1321271,Dolphin Bay,554aa34d498e49a9de10481f,Allston,72 Brighton Ave,42.35255276982202,-71.12873884310653,424,Asian Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,OTTO,5e5585f95ad97f00083daae1,Boston,416 W Broadway,42.336913920227076,-71.04737663619366,425,Pizza Place,Pizza Place
+Jamaica Plain,42.3098201,-71.1203299,Dunkin',4a61d03cf964a5208dc21fe3,Jamaica Plain,757 Centre St,42.31045619605904,-71.11521314542102,427,Donut Shop,Donut Shop
+North End,42.3650974,-71.0544954,Mother Juice,57d1d861498e8267bbe82bc4,Boston,100 Hanover St,42.361862,-71.05734,429,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Longwood,42.3415333,-71.1101551,SUBWAY,4bd497a5637ba593ae04f570,Boston,350 Longwood Ave,42.3383951,-71.1071138,429,Sandwich Place,Sandwich Place
+Jamaica Plain,42.3098201,-71.1203299,Vee Vee,49f7c0d8f964a520df6c1fe3,Jamaica Plain,763 Centre St,42.310209798231206,-71.11514281112845,429,American Restaurant,American Restaurant
+North End,42.3650974,-71.0544954,Red's Best,565f3316498e9ca911292760,Boston,100 Hanover St,42.36196033446922,-71.05758675815021,431,Seafood Restaurant,Seafood Restaurant
+Bay Village,42.35001105,-71.0669477958571,Grill 23 & Bar,3fd66200f964a520eaeb1ee3,Boston,161 Berkeley St,42.349506535166185,-71.07215868142517,432,Steakhouse,Steakhouse
+Allston,42.3554344,-71.1321271,Deep Ellum,49ce55f6f964a520335a1fe3,Allston,477 Cambridge St,42.35384417303877,-71.13692343914214,432,Gastropub,Gastropub
+Downtown,42.35860195,-71.06387508501135,sweetgreen,572b7990498e53c1a5b9b2d2,Boston,13 School St,42.3576853,-71.0587547,433,Salad Place,Salad Place
+Bay Village,42.35001105,-71.0669477958571,Tatte Bakery & Cafe,5a609e9c26659b64aa76af3c,Boston,399 Boylston St,42.351667158238676,-71.07171543328123,433,Bakery,Bakery
+North End,42.3650974,-71.0544954,Levend Bagelry,5781547b38faa3a2e8579c92,Boston,Boston Public Market,42.36187346396489,-71.05747252231924,434,Bagel Shop,Bagel Shop
+Jamaica Plain,42.3098201,-71.1203299,Whisk,4f6bce12e4b0463c922ec1d1,Jamaica Plain,,42.308195,-71.115498,436,French Restaurant,French Restaurant
+Longwood,42.3415333,-71.1101551,Dunkin',50f953c3e4b09bf310368533,Boston,"457 Brookline Ave, Deaconess Hospital",42.3377038,-71.1089233,438,Donut Shop,Donut Shop
+Longwood,42.3415333,-71.1101551,Sami's Wrap n' Roll,4b8ff49ff964a520006c33e3,Boston,350 Longwood Ave,42.33842849731445,-71.10684967041016,439,Falafel Restaurant,Falafel Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Monumental Cupcakes at JP Art Market,4c5dcb6a94fd0f470086cc45,Jamaica Plain,36 South St,42.3083859,-71.1153404,440,Bakery,Bakery
+Jamaica Plain,42.3098201,-71.1203299,Fiore Italian Bakery,4a59f604f964a52098b91fe3,Jamaica Plain,55 South St,42.30801497192221,-71.1155716604542,440,Bakery,Bakery
+North End,42.3650974,-71.0544954,Red Apple Farm,563f7d83cd108b8d94e3e859,Boston,100 Hanover St,42.361826858163944,-71.05753551073111,441,Bakery,Bakery
+Back Bay,42.35054885,-71.08031131584724,Moody’s Delicatessen & Provisions,5a2ec603772fbc0fc1471dee,Boston,500 Boylston St,42.350295566110574,-71.0749602542552,441,Deli / Bodega,Deli / Bodega
+Brighton,42.3500971,-71.1564423,Faneuil Street Market,4b48b84af964a520095426e3,Brighton,243 Faneuil St,42.352915509465824,-71.1602151809595,441,Deli / Bodega,Deli / Bodega
+Charlestown,42.3778749,-71.0619957,Tangierino,4a0c3163f964a52016751fe3,Charlestown,83 Main St,42.37395,-71.06288,442,Moroccan Restaurant,Mediterranean Restaurant
+Bay Village,42.35001105,-71.0669477958571,Precinct Kitchen & Bar,5344239c498e03f460984a06,Boston,154 Berkeley St,42.34935008753008,-71.07225097796801,442,American Restaurant,American Restaurant
+Allston,42.3554344,-71.1321271,Lone Star Taco Bar,4f274b5ae4b050258e0ea5ec,Allston,477 Cambridge St,42.353796982311835,-71.13703408654436,442,Taco Place,Mexican Restaurant
+Charlestown,42.3778749,-71.0619957,Tangierino Moroccan Chophouse and Tapas Bar,4f321bf719836c91c7b6cbd0,Charlestown,83 Main St,42.37395095825195,-71.06288146972656,442,Food,
+East Boston,42.3750973,-71.0392173,Mi Pueblito Restaurant,4a7b5da5f964a520ceea1fe3,East Boston,333 Border St,42.379042947271785,-71.03993266739653,443,Mexican Restaurant,Mexican Restaurant
+South Boston,42.3334312,-71.0494949,Al's Pizza And Grill,50940e40e4b0cb1b31099491,Boston,402 W Broadway,42.33729553222656,-71.04805755615234,446,Pizza Place,Pizza Place
+South Boston Waterfront,42.3547517,-71.0531784,Bon Me Fort Point,54b557ac498eba80d1b5e7b5,Boston,313 Congress St,42.35142596361848,-71.05013256459569,447,Asian Restaurant,Asian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Courtyard Cafe,4b846c27f964a520833431e3,Boston,200 Longwood Ave,42.336490631103516,-71.10247802734375,447,Café,Café
+Mission Hill,42.33255965,-71.10360773640765,Baptist Cafe,4ed91c4b9a5286d91dc2942b,Boston,"125 Parker Hill Ave, Boston, MA 02120",42.329418361790864,-71.10703391823994,449,Café,Café
+Downtown,42.35860195,-71.06387508501135,Pabu Boston,580fff4938facc4e70a30904,Boston,3 Franklin St,42.35625539999999,-71.05941659999999,450,Sushi Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Roxy's Grilled Cheese,537fe4af498e043092dca825,Boston,485 Cambridge St,42.353747445802036,-71.13710239108404,450,Sandwich Place,Sandwich Place
+Longwood,42.3415333,-71.1101551,McDonald's,4c62e4aaedd320a13a06ae29,Boston,340 Longwood Ave,42.338286,-71.106846,452,Fast Food Restaurant,Fast Food Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Granary Tavern,4fdf33bfe4b03622b265d4be,Boston,170 Milk St,42.35877418542098,-71.05233991437541,453,American Restaurant,American Restaurant
+Dorchester,42.2973205,-71.0744952,Right Taste Jamaican Restaurant,4f328f5319836c91c7e3b14a,Dorchester Center,128 Harvard St,42.296390533447266,-71.0798568725586,453,Food,
+South End,42.34131,-71.0772298,Mela,4ab0261af964a520396620e3,Boston,578 Tremont St,42.34347706009063,-71.07256633356451,453,Indian Restaurant,Indian Restaurant
+Chinatown,42.3513291,-71.0626228,Earl of Sandwich,4e04f68ab3ad8ad6f536c543,Boston,"1B Charles Street, Boston Common",42.3543040446667,-71.066424489584,455,Sandwich Place,Sandwich Place
+Downtown,42.35860195,-71.06387508501135,Luke's Lobster,57df24c0498e90b0a1084a1b,Boston,290 Washington St,42.35750833052737,-71.0585374820728,455,Seafood Restaurant,Seafood Restaurant
+South Boston,42.3334312,-71.0494949,Domino's Pizza,4b08340cf964a520370623e3,Boston,163 Old Colony Ave,42.33413481672425,-71.05495154857635,455,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,Chicken & Rice Guys,589b46b63bd4ab27b4a897aa,Boston,280 Washington St,42.35753213648048,-71.0585225823389,456,Asian Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Whole Heart Provisions,5605cfde498e93568a705014,Boston,487 Cambridge St,42.3537451388925,-71.13718872045068,456,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Longwood,42.3415333,-71.1101551,Longwood Galleria,4f285b15e4b0dbe3eb65b802,Boston,"Brookline Ave @ The Fenway, Boston, MA 02215",42.338290975204806,-71.10675599578212,456,Food Court,Food Court
+Allston,42.3554344,-71.1321271,@Union,4ad7b14ff964a520b90d21e3,Allston,174 Harvard Ave,42.35135160275951,-71.13145118008154,457,Café,Café
+Longwood,42.3415333,-71.1101551,Sakura Japan (Longwood Galleria),4e6104d38877954de7927263,,,42.33818443075557,-71.10688686704125,459,Japanese Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Sepal,4eb477aee5fa17fc865c74fe,Boston,,42.3381944452678,-71.10686423027147,459,Falafel Restaurant,Falafel Restaurant
+West End,42.3639186,-71.0638993,Alcove,5bcfbe68603d2a0039d20f11,Boston,50 Lovejoy Wharf,42.36727016173432,-71.06059733503459,461,Restaurant,Restaurant
+East Boston,42.3750973,-71.0392173,Dough East Boston,4bd9c72f2e6f0f475cf00b08,Boston,20 Maverick St,42.37160234825047,-71.04223663433616,461,Pizza Place,Pizza Place
+Longwood,42.3415333,-71.1101551,Yawkey Cafeteria (DFCI),4dca8b2b814ddf0979210528,Boston,450 Brookline Ave,42.337567521334925,-71.10854019130562,461,Café,Café
+South End,42.34131,-71.0772298,Black Lamb,5d2fa57c4318c90008b6cbbb,Boston,571 Tremont St,42.343671,-71.07261899999999,461,French Restaurant,French Restaurant
+Fenway,42.3451868,-71.1045987,Cava,5a612b721f7440529dd939ca,Boston,1346 Boylston Street,42.3439718,-71.0992045,463,Mediterranean Restaurant,Mediterranean Restaurant
+Charlestown,42.3778749,-71.0619957,Brewer's Fork,54ebdb95498e4a516b5f74f3,Charlestown,7 Moulton St,42.37672894963245,-71.0565734532802,463,Gastropub,Gastropub
+Longwood,42.3415333,-71.1101551,Longwood Grille and Bar,4b83e0caf964a520d91431e3,Boston,342 Longwood Ave,42.33813511808547,-71.10685242557177,465,American Restaurant,American Restaurant
+North End,42.3650974,-71.0544954,Union Oyster House,45a152ecf964a520e0401fe3,Boston,41 Union St,42.361370786719014,-71.05715165227129,468,Seafood Restaurant,Seafood Restaurant
+Downtown,42.35860195,-71.06387508501135,Spyce,5ada1f45d807ee19fc27d98a,Boston,241 Washington St,42.35802203383563,-71.05821777407657,469,Restaurant,Restaurant
+Charlestown,42.3778749,-71.0619957,Tea and Treats,59a4cf7775cb8c04970fd00b,Charlestown,1 Monument Ave,42.3736651,-71.06242639999999,469,Café,Café
+Charlestown,42.3778749,-71.0619957,Madera 83,5a74fddc59c4236fccdcd6a0,Charlestown,,42.373643,-71.06224,471,Tapas Restaurant,Spanish Restaurant
+Bay Village,42.35001105,-71.0669477958571,FiRE + iCE Boston,40b28c80f964a5200bf81ee3,Boston,205 Berkeley St,42.350578050460975,-71.07264406252385,472,American Restaurant,American Restaurant
+Longwood,42.3415333,-71.1101551,Dunkin',4e4c36afbd41b9fca4317d5d,Boston,"330 Brookline Ave, In East Campus",42.339615,-71.105025,473,Donut Shop,Donut Shop
+Downtown,42.35860195,-71.06387508501135,Falafel King,504e504ce4b0be6c61455a6a,Boston,260 Washington St,42.35788824109196,-71.05818669741251,474,Falafel Restaurant,Falafel Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Real Deal Deli,4acac4adf964a52011c320e3,Boston,736 Centre St,42.31083977138278,-71.11468962092789,477,Deli / Bodega,Deli / Bodega
+Charlestown,42.3778749,-71.0619957,Figs,4b11c019f964a520d08323e3,Charlestown,67 Main St,42.37358769797685,-71.06246322657255,478,Pizza Place,Pizza Place
+Downtown,42.35860195,-71.06387508501135,B.GOOD,4c9252ae104a9521d1aaf2a9,Boston,255 Washington St,42.357930362230306,-71.05811235177963,479,Fast Food Restaurant,Fast Food Restaurant
+Bay Village,42.35001105,-71.0669477958571,by CHLOE.,5b60cae5b9ac38002cd42c3c,Boston,399 Boylston St,42.3516508,-71.0723509,480,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Fenway,42.3451868,-71.1045987,Thornton's Fenway Grille,4ee2e19cd3e34ebcee5d7b8d,Boston,100 Peterborough St,42.343063,-71.099494,481,American Restaurant,American Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Shake Shack,5dc05702142eea000879ece6,Boston,322 Washington St,42.35668,-71.05843,482,Burger Joint,Burger Joint
+Jamaica Plain,42.3098201,-71.1203299,JP Seafood Cafe,49fe26e5f964a520786f1fe3,Jamaica Plain,730 Centre St,42.31089374860556,-71.11465699342226,482,Seafood Restaurant,Seafood Restaurant
+Fenway,42.3451868,-71.1045987,Eventide,59d7fc5986f4cc7f7dc57b8c,Boston,1321 Boylston St,42.34441128917163,-71.09881771639726,483,Seafood Restaurant,Seafood Restaurant
+Downtown,42.35860195,-71.06387508501135,Tatte Bakery & Cafe,5c95073698fbfc002c2847c1,Boston,1 Boston Pl,42.35845066983387,-71.05798060378322,485,Bakery,Bakery
+Back Bay,42.35054885,-71.08031131584724,Santouka Ramen,57717543498e85d8f53b30ed,Boston,66 Hereford St,42.34849584776172,-71.08551948023042,485,Ramen Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Seiyo Sushi & Wine Shop,4a7f4e73f964a520a4f31fe3,Boston,1721 Washington St,42.336972072160115,-71.07637598071152,487,Sushi Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,sweetgreen,565fe149498e49ae16d0ccff,Boston,"800 Boylston St, Ste 17",42.3467438,-71.0832646,488,Salad Place,Salad Place
+Allston,42.3554344,-71.1321271,YoMa Burmese Restaurant,4a562b41f964a5209db41fe3,Allston,5 North Beacon St,42.35366884975489,-71.13758299305282,489,Burmese Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Lolita,59e7dc77135b394bb3a22e11,Boston,253 Summer St,42.35049509843735,-71.0516797499144,489,Mexican Restaurant,Mexican Restaurant
+Roxbury,42.3248426,-71.0950158,Ugi's Pizza,4c730ce18efc3704e0b4147d,Jamaica Plain,69 Heath St,42.326568603515625,-71.10051727294922,491,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,Toro Restaurant,43e9e7eff964a520202f1fe3,Boston,1704 Washington Street,42.33698788,-71.07592429,492,Tapas Restaurant,Spanish Restaurant
+South End,42.34131,-71.0772298,Mike's City Diner,4a38b860f964a520069f1fe3,Boston,1714 Washington St,42.336941151672264,-71.0762163113472,493,Diner,Diner
+North End,42.3650974,-71.0544954,Saus Restaurant,4bf18c843506ef3bea63bd22,Boston,33 Union St,42.36107632380333,-71.0570542078555,494,Belgian Restaurant,Belgian Restaurant
+Fenway,42.3451868,-71.1045987,Neighborhood's Coffee & Crepes,50b26fbfe4b0dabb5903ff41,Boston,96 Peterborough St,42.34310088105,-71.09928727266934,494,Café,Café
+Back Bay,42.35054885,-71.08031131584724,Legal Sea Foods,4ae083dff964a520d57f21e3,Boston,100 Huntington Ave,42.34679396377654,-71.07706611678041,495,Seafood Restaurant,Seafood Restaurant
+Allston,42.3554344,-71.1321271,bb.q chicken,58d5a4a713af1c20e21f6b81,Boston,182 Harvard Ave,42.35101446991639,-71.13135308466859,496,Fried Chicken Joint,Fried Chicken Joint
+Bay Village,42.35001105,-71.0669477958571,Billy's Sub Shop,4aac01bdf964a5208d5b20e3,Boston,57 Berkeley St,42.346522214233055,-71.07070907212125,496,Sandwich Place,Sandwich Place
+South Boston,42.3334312,-71.0494949,Lithuanian Citizens Association,4baf98a8f964a520800e3ce3,Boston,368 W Broadway,42.33789245193252,-71.04915597899611,497,Eastern European Restaurant,Eastern European Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Au Bon Pain,4b35a928f964a520742e25e3,Boston,75 Francis St,42.33589423496504,-71.10763490393379,497,Café,Café
+Fenway,42.3451868,-71.1045987,Rod Dee 2,4e83c45ebe7b87d6abc12316,Boston,94 Peterborough St,42.343166836564606,-71.09920968048566,497,Thai Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Al's State Street Cafe,4abe4eaaf964a520968c20e3,Boston,112 State St,42.35907122186619,-71.05480359794034,499,Sandwich Place,Sandwich Place
+South Boston,42.3334312,-71.0494949,Supreme house of pizza,4be5c478bcef2d7f1a4a04e5,Boston,313 Old Colony Ave,42.329688,-71.052863,500,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,Basho Express,5796451b498eb141ce6d7a05,Boston,700 Commonwealth Ave,42.3496215211581,-71.10352161035917,501,Sushi Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Basho Japanese Brasserie,4bb4b379bc82a5935fb03e72,Boston,1338 Boylston St,42.34438412151538,-71.09860515607801,501,Japanese Restaurant,Asian Restaurant
+Roslindale,42.2912093,-71.1244966,Dragon Chef,4bc230d6abf49521d923c293,Roslindale,4198 Washington St,42.287181125933195,-71.12725598164697,502,Chinese Restaurant,Asian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Brigham & Women's Cafeteria,4c69789e0e98a59346872459,Boston,75 Francis St,42.33636337549588,-71.10691073870241,503,Café,Café
+Fenway,42.3451868,-71.1045987,The Best Sausage Co.,4c01f3bffd082d7f49ce0785,Boston,Yawkey Way,42.34649356221934,-71.0987243859477,504,Hot Dog Joint,Hot Dog Joint
+Fenway,42.3451868,-71.1045987,El Pelon Taqueria,4e0a4f951495b0bc65ed25eb,Boston,92 Peterborough St,42.343155031290856,-71.0991057024196,505,Mexican Restaurant,Mexican Restaurant
+Fenway,42.3451868,-71.1045987,Fiouna,518d7514498e8e96ec3e0a7d,Boston,90 Peterborough St,42.34319803335193,-71.09907124139806,505,Middle Eastern Restaurant,Middle Eastern Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Casa Verde,5727d760498ef0f9cea07693,Jamaica Plain,711 Centre St,42.311358136717786,-71.11454503609342,506,Taco Place,Mexican Restaurant
+Back Bay,42.35054885,-71.08031131584724,The Salty Pig,4db5bd326a23c31a0330cf01,Boston,130 Dartmouth St,42.34722302512599,-71.07610221915654,506,New American Restaurant,American Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Black Rose,40b28c80f964a5209ff71ee3,Boston,160 State St,42.35931001024173,-71.05359254045594,508,Irish Pub,Irish Pub
+South End,42.34131,-71.0772298,Equator Restaurant,4b2d4d10f964a52093d324e3,Boston,1721 Washington St,42.33676958907358,-71.07655254215742,508,Thai Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Gyro City,532b8c38498eb58ad1b74594,Boston,88 Peterborough St,42.343175907924696,-71.09904507977835,508,Greek Restaurant,Greek Restaurant
+Back Bay,42.35054885,-71.08031131584724,Cha Cha Cha,4f340751e4b0dd592b396956,Boston,Back Bay Station,42.34747599884801,-71.0757420087613,508,Mexican Restaurant,Mexican Restaurant
+Fenway,42.3451868,-71.1045987,Bennett's Sandwich Shop,595ac3248e886a485c48352c,Boston,84 Peterborough St,42.343061999999996,-71.099094,510,Sandwich Place,Sandwich Place
+Downtown,42.35860195,-71.06387508501135,Well Coffeehouse,5bd8f4b4f709c1002cc147cd,Boston,1 State St,42.35846710205078,-71.05764770507812,512,Café,Café
+Jamaica Plain,42.3098201,-71.1203299,Noodle Barn,5415faa3498e2ddcc323f9d0,Jamaica Plain,707 Centre St,42.31145885406049,-71.11451547242575,512,Asian Restaurant,Asian Restaurant
+Mattapan,42.2723208,-71.0869953,Domino's Pizza,4c59fc4667ac0f4727af054c,Mattapan,1514 Blue Hill Ave,42.27233391594227,-71.09321944907379,512,Pizza Place,Pizza Place
+Roxbury,42.3248426,-71.0950158,il Panino Cafe and Grill,5137f8ac90e7a3100c46cbb5,Jamaica Plain,268 Centre St,42.322688343580744,-71.10054167628219,514,Italian Restaurant,Italian Restaurant
+Mattapan,42.2723208,-71.0869953,Dunkin',4e1b6aef2fb6a735749740f8,Mattapan,1514 Blue Hill Ave,42.2723388671875,-71.0932388305664,514,Donut Shop,Donut Shop
+Back Bay,42.35054885,-71.08031131584724,Rochambeau Café,5d8dc5081e15aa0007ef6c58,Boston,900 Boylston St,42.3476323786969,-71.08517877763916,515,Restaurant,Restaurant
+Back Bay,42.35054885,-71.08031131584724,Tasty Burger,554d49f3498e2d8a98c6b458,Boston,145 Dartmouth St,42.34735166941293,-71.07572790661179,518,Burger Joint,Burger Joint
+Allston,42.3554344,-71.1321271,Twin Donuts,49c65e27f964a5203a571fe3,Allston,501 Cambridge St,42.35356727253632,-71.13791845838682,519,Donut Shop,Donut Shop
+South End,42.34131,-71.0772298,Teranga,4b9835ddf964a520733435e3,Boston,1746 Washington St,42.33664230506324,-71.07682663336149,520,African Restaurant,African Restaurant
+Fenway,42.3451868,-71.1045987,University Grill,4b897a06f964a520fc3932e3,Boston,712 Commonwealth Ave,42.34981954445649,-71.10551663094806,521,Sandwich Place,Sandwich Place
+South End,42.34131,-71.0772298,Farmer Horse Coffee,536e68ad498edb85c3359a4a,Boston,374 Massachusetts Ave,42.34183280098275,-71.08353338642442,521,Café,Café
+Roslindale,42.2912093,-71.1244966,Shanti Taste of India Roslindale,50ef8d5c8acaed20c6c6c271,Roslindale,4197 Washington St,42.287152658434444,-71.12767007918524,521,Indian Restaurant,Indian Restaurant
+Fenway,42.3451868,-71.1045987,Tasty Burger,4c50b891875fef3b93dd6dd1,Boston,1301 Boylston St,42.344752,-71.098283,521,Burger Joint,Burger Joint
+Fenway,42.3451868,-71.1045987,Regina Pizzeria,515e056be4b056e185ff11e3,Boston,1330 Boylston St,42.3444557926944,-71.09832367956714,522,Pizza Place,Pizza Place
+Back Bay,42.35054885,-71.08031131584724,The Capital Grille,3fd66200f964a5200eec1ee3,Boston,900 Boylston St,42.3476800851638,-71.08535884339797,523,American Restaurant,American Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Citra,50a27483e4b0baa241f3feb4,Boston,221 Longwood Ave,42.337145,-71.102215,523,Café,Café
+Charlestown,42.3778749,-71.0619957,Tatte Bakery & Cafe,5efcee21f2e699000874d8ce,Boston,40 Warren St,42.373197,-71.061284,524,Bakery,Bakery
+North End,42.3650974,-71.0544954,Boston Chipyard,4b12df8af964a520db8f23e3,Boston,257 Faneuil Hall Marketplace,42.36037811307418,-71.05473121780157,525,Bakery,Bakery
+Back Bay,42.35054885,-71.08031131584724,Eddie V's Prime Seafood,5cd0c7b9d9a6e6002bb10adc,Boston,122 Belvidere St,42.346191,-71.082837,527,Seafood Restaurant,Seafood Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Sweet Rice,5cf1eff8fb8e59002c796001,Boston,697 Centre St,42.311844,-71.11454,527,Thai Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Flour Bakery & Cafe,4b031148f964a5206b4c22e3,Boston,12 Farnsworth St Fl 1,42.35126593053085,-71.04882985180406,527,Bakery,Bakery
+South Boston Waterfront,42.3547517,-71.0531784,Tuscan Kitchen,5a189a9d6dcf042313c52cb4,Boston,64 Seaport Blvd,42.3528292678947,-71.04729783130355,528,Italian Restaurant,Italian Restaurant
+East Boston,42.3750973,-71.0392173,Angela's Café,4ae63145f964a5207aa521e3,East Boston,131 Lexington St,42.37863390006418,-71.03493698022284,528,Mexican Restaurant,Mexican Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Zo,4f049c5d00399761c77a111b,Boston,92 State St,42.35919645427936,-71.0554672012491,529,Greek Restaurant,Greek Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Kamakura,5be65689270ee7002c0908a0,Boston,150 State St,42.359493,-71.05399799999999,532,Japanese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Which Wich,5cdb28c2031320002c88ac2a,Boston,324 Newbury St,42.348846,-71.086371,533,Sandwich Place,Sandwich Place
+Fenway,42.3451868,-71.1045987,Tapestry,57461cff498ebc1f90ae93c3,Boston,69 Kilmarnock St,42.342340992165276,-71.09938175307887,533,Restaurant,Restaurant
+Fenway,42.3451868,-71.1045987,Noodle Street,4a848940f964a520e4fc1fe3,Boston,627 Commonwealth Ave,42.34949795612236,-71.10169874281932,535,Thai Restaurant,Asian Restaurant
+Charlestown,42.3778749,-71.0619957,Vivians Cafe,4c61f765fa7bc928782f0d27,Charlestown,50 Terminal St,42.382576,-71.060633,535,Sandwich Place,Sandwich Place
+Charlestown,42.3778749,-71.0619957,Green Mountain,4f32618119836c91c7d22fab,Charlestown,50 Terminal St,42.382576,-71.060633,535,Food,
+Fenway,42.3451868,-71.1045987,Max & Leo's Fenway (@ Game On!),565d0260498eef076830b1d2,Boston,82 Lansdowne St,42.346894,-71.09849200000001,537,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Hoy Hing,4b88ca1df964a520840d32e3,Brighton,525 Washington St,42.3491561711881,-71.16286703084928,538,Chinese Restaurant,Asian Restaurant
+Brighton,42.3500971,-71.1564423,Wok n Talk,56d3ddc0cd10791293629905,Brighton,525 Washington St,42.349188182688984,-71.16288900375366,539,Restaurant,Restaurant
+Dorchester,42.2973205,-71.0744952,Billy's Texas BBQ,4bd1e0e941b9ef3b56d0fce5,Dorchester Center,530 Washington St,42.292968,-71.071627,539,BBQ Joint,BBQ Joint
+Mattapan,42.2723208,-71.0869953,Le Foyer Baker,4bcb4340937ca5935f2aa992,Boston,132 Babson St,42.27032961780099,-71.09297984653217,540,Bakery,Bakery
+South End,42.34131,-71.0772298,Banyan Bar & Refuge,55995a86498e9e8cec3152d3,Boston,553 Tremont St,42.344193343043294,-71.07189059414846,544,Asian Restaurant,Asian Restaurant
+Brighton,42.3500971,-71.1564423,Papa John's Pizza,4b131761f964a520fe9323e3,Brighton,533 Washington St,42.34919565677089,-71.16294707528544,544,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,Bar Lyon,591b70fbe65d0c73e3cd0b1c,Boston,1750 Washington St,42.336433,-71.076575,545,French Restaurant,French Restaurant
+Fenway,42.3451868,-71.1045987,Hidyan Cafe,4aae72c8f964a520206220e3,Boston,80 Kilmarnock St,42.34239511548632,-71.0991417969115,546,Middle Eastern Restaurant,Middle Eastern Restaurant
+Brighton,42.3500971,-71.1564423,Hoshi Ya Sushi,4d9dbd6f83f36ea87476be94,Brighton,529 Washington St,42.349064239875446,-71.16294091728008,546,Sushi Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Oyster Bar,4d07a16ba26854814cb8c7bd,Boston,1 Faneuil Hall Market Pl,42.36018157172351,-71.0543431016223,547,Seafood Restaurant,Seafood Restaurant
+Bay Village,42.35001105,-71.0669477958571,The Friendly Toast,5698e4dd498efe9f1c72e385,Boston,35 Stanhope St,42.34832211950838,-71.07322229406398,549,Breakfast Spot,Breakfast Spot
+South Boston Waterfront,42.3547517,-71.0531784,State Street Provisions,5660ddb1498e4dd40ca775ce,Boston,State,42.35950676314923,-71.05138570840184,549,American Restaurant,American Restaurant
+South Boston,42.3334312,-71.0494949,Sherman's Sea Shanty,4f52746ce4b0754d579fefd6,Boston,,42.33052070032478,-71.04409792813827,549,Seafood Restaurant,Seafood Restaurant
+Longwood,42.3415333,-71.1101551,Atrium Cafe,4e4c335fbd413c4cc667acc2,Brookline,1200 Beacon St,42.344069,-71.115892,549,Café,Café
+North End,42.3650974,-71.0544954,wagamama,4a9c631cf964a520023720e3,Boston,"quincy market building, 1 s market street",42.36016684393284,-71.05412031575634,549,Asian Restaurant,Asian Restaurant
+North End,42.3650974,-71.0544954,Boston Chowda Company,4bc510d422c676b0c89096d3,Boston,1 Faneuil Hall Market Pl,42.360163706867915,-71.05496881630421,550,Seafood Restaurant,Seafood Restaurant
+Bay Village,42.35001105,-71.0669477958571,Mistral,43d55728f964a520422e1fe3,Boston,223 Columbus Ave,42.34801719850933,-71.07310209141748,552,French Restaurant,French Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,sweetgreen,5a035f63a9e40262ed5f85bf,Boston,60 State St,42.35918222716186,-71.05619431357687,552,Salad Place,Salad Place
+South Boston Waterfront,42.3547517,-71.0531784,Legal Sea Foods,4a7654cbf964a520d8e21fe3,Boston,255 State St,42.35941141568626,-71.05084656162141,553,Seafood Restaurant,Seafood Restaurant
+Fenway,42.3451868,-71.1045987,Citizen Public House & Oyster Bar,4c6dcd106af58cfac1ae8a17,Boston,1310 Boylston St,42.34442,-71.097926,555,American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,The Butcher Shop,49cf773ef964a520aa5a1fe3,Boston,552 Tremont St,42.3440332930595,-71.07153916309106,557,Gastropub,Gastropub
+Back Bay,42.35054885,-71.08031131584724,Douzo,4a4020aef964a52051a41fe3,Boston,131 Dartmouth St,42.346854616119096,-71.07573333224008,557,Sushi Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Kava Neo-Taverna,572032bb38fa254eeba9b51b,Boston,315 Shawmut Ave,42.34222752446492,-71.07056926971146,557,Greek Restaurant,Greek Restaurant
+Mattapan,42.2723208,-71.0869953,Simco's,4b6658f6f964a520bd1e2be3,Mattapan,1509 Blue Hill Ave,42.272395813241026,-71.09378643268565,559,Hot Dog Joint,Hot Dog Joint
+South End,42.34131,-71.0772298,Stir,4b300a74f964a520f5f424e3,Boston,102 Waltham St,42.34386586645212,-71.0713721106069,559,American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,South End Buttery,49fef982f964a520bf6f1fe3,Boston,314 Shawmut Ave,42.342165346977396,-71.07052512539505,559,Café,Café
+South Boston Waterfront,42.3547517,-71.0531784,Pastoral - Artisan Pizza + Kitchen and Bar,513bb5aa72da99bd5074bb57,Boston,345 Congress St,42.35076030186295,-71.04902256856386,560,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,The Elephant Walk,547f82cf498e43ec6e9a6d52,Boston,1415 Washington St,42.341036548022814,-71.0704012843952,562,Cambodian Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Bertucci's,4b8abdeff964a520c87d32e3,Boston,1 Blackfan Cir,42.33840773249759,-71.10478617790983,562,Italian Restaurant,Italian Restaurant
+Brighton,42.3500971,-71.1564423,Cheese Boy,519ce3ee498e83a4b2ccac75,Boston,280 Washington St,42.348119,-71.150139,563,Fast Food Restaurant,Fast Food Restaurant
+South End,42.34131,-71.0772298,B&G Oysters,45016d59f964a520c3381fe3,Boston,550 Tremont St,42.34403697093288,-71.07145806318685,563,Seafood Restaurant,Seafood Restaurant
+Brighton,42.3500971,-71.1564423,Dash Cafe,4fb8fc10e4b02380cbd97a0c,Brighton,5 Henshaw St,42.34942408180343,-71.14963986884774,564,Café,Café
+Mission Hill,42.33255965,-71.10360773640765,Dunkin',4e4ddba0bd4101d0d79ce834,Boston,1443 Tremont St,42.3319645,-71.0967581,567,Donut Shop,Donut Shop
+East Boston,42.3750973,-71.0392173,La Sultana Bakery,4c82bc14e602b1f78ba09f7a,East Boston,40 Maverick Sq,42.37000283853242,-71.03910708678308,567,Bakery,Bakery
+East Boston,42.3750973,-71.0392173,Cactus Grill,4b38f541f964a5200a5325e3,East Boston,44 Maverick Sq,42.36999231926197,-71.03902656603492,568,Burrito Place,Mexican Restaurant
+South Boston,42.3334312,-71.0494949,Broadways Best,4b53579df964a5202d9827e3,Boston,383 E Broadway,42.33851303819363,-71.05024106251115,569,Sandwich Place,Sandwich Place
+Mission Hill,42.33255965,-71.10360773640765,Boloco Children's,4b02d18ff964a520134a22e3,Boston,283 Longwood Ave,42.337630331893884,-71.10475610773425,572,Burrito Place,Mexican Restaurant
+Jamaica Plain,42.3098201,-71.1203299,City Feed & Supply,49fe266df964a520776f1fe3,Jamaica Plain,672 Centre St,42.312242877354514,-71.11416259615608,574,Sandwich Place,Sandwich Place
+Fenway,42.3451868,-71.1045987,Pavement Coffeehouse,5223acba11d230e754f24e8c,Boston,736 Commonwealth Ave,42.35002998499423,-71.1070204981935,574,Café,Café
+Jamaica Plain,42.3098201,-71.1203299,The Purple Cactus,49fe3dccf964a520856f1fe3,Boston,674 Centre St,42.312224749812785,-71.1141561944127,574,Burrito Place,Mexican Restaurant
+Longwood,42.3415333,-71.1101551,Xiang Yu China Bistro,5ab03f5fa4c39c66a8bf97f2,Brookline,1223 Beacon St,42.343084,-71.116823,575,Chinese Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Nud Pob Thai Cuisine,4bb11597f964a52005793ce3,Boston,738 Commonwealth Ave,42.34999614319137,-71.1071515571705,575,Thai Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Beehive,49d67623f964a520d25c1fe3,Boston,541 Tremont St,42.344330660087316,-71.07155295437147,575,American Restaurant,American Restaurant
+Allston,42.3554344,-71.1321271,Seoul Soulongtang,528ed6f311d2782026f3db76,Allston,1245 Commonwealth Ave,42.35024624118922,-71.13186577220456,577,Korean Restaurant,Asian Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Little Dipper,5b507e58d0a149002c3bc9cf,Boston,669 Centre St,42.31255,-71.11435300000001,578,Diner,Diner
+South Boston,42.3334312,-71.0494949,Golden House,4bcbe3b8937ca593636aaa92,Boston,303 W Broadway,42.338542,-71.050863,579,Chinese Restaurant,Asian Restaurant
+Hyde Park,42.2556543,-71.1244963,Domino's Pizza,4d41f083aed776eb837d6997,Hyde Park,695 Truman Hwy,42.252578,-71.118817,579,Pizza Place,Pizza Place
+Beacon Hill,42.3587085,-71.067829,Silvertone,3fd66200f964a52052ec1ee3,Boston,69 Bromfield St,42.35714923797892,-71.0610909302858,580,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Scoozi,4ba647d0f964a520fb4139e3,Boston,580 Commonwealth Ave,42.34915232826166,-71.09998106761256,582,Italian Restaurant,Italian Restaurant
+South End,42.34131,-71.0772298,The Gallows,4bcc74e70687ef3ba63adfcc,Boston,1395 Washington St,42.34126158567103,-71.07013475234542,583,Gastropub,Gastropub
+Fenway,42.3451868,-71.1045987,Blaze Pizza,57ec47e0498e389e490041cc,Boston,"1282 Boylston St,",42.344618243865725,-71.097536114587,584,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,South End Buttery,53b00fcd498e9fddf5a49119,Boston,37 Clarendon St,42.345280505887,-71.07257321794752,584,Café,Café
+Mission Hill,42.33255965,-71.10360773640765,Beta Burger,553a1f4a498e7eb8129c7b4a,Boston,1437 Tremont St,42.33173771949736,-71.09653433126743,589,Burger Joint,Burger Joint
+Back Bay,42.35054885,-71.08031131584724,Flour Bakery+Cafe,58fd1794e96d0c3bd1083d48,Boston,30 Dalton St,42.346272961976446,-71.08454636654953,589,Bakery,Bakery
+Roslindale,42.2912093,-71.1244966,753 South,592753b63abcaf2166bcdb94,Boston,753 South St,42.287188,-71.12919000000001,591,American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Taco Mex Restaurant,4bbdff0b8a4fb71303a73d9d,East Boston,65 Maverick Sq,42.36978616813156,-71.03897641843152,591,Mexican Restaurant,Mexican Restaurant
+Brighton,42.3500971,-71.1564423,St Elizabeth Hospital Cafeteria,4c0f896f2466a593b5b87a21,Brighton,Cambridge St.,42.348733272772506,-71.14949045155724,591,Cafeteria,Cafeteria
+South End,42.34131,-71.0772298,Thornton's Restaurant & Cafe,4aec58d2f964a52035c621e3,Boston,150 Huntington Ave,42.345287628161195,-71.08200990106671,592,Diner,Diner
+East Boston,42.3750973,-71.0392173,Maverick Marketplace Cafe,548b2cb8498e0544eb2c529a,Boston,154 Maverick St,42.3698369274328,-71.03800975004681,593,Café,Café
+Roslindale,42.2912093,-71.1244966,Eagle Hill Cafe,5be1b39ed552c7002ce8e478,Boston,,42.286777,-71.120473,594,Café,Café
+South Boston,42.3334312,-71.0494949,Dunkin',4a9161adf964a520071a20e3,Boston,75 Old Colony Ave,42.33575493962727,-71.05601201165678,595,Donut Shop,Donut Shop
+Charlestown,42.3778749,-71.0619957,Sun pizza,5019ce1be4b09ace5bf15754,Boston,Washington Street,42.373107,-71.065286,595,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,Tenoch Móvil Food Truck,51ab931a498e2fe97fef064d,Boston,3 Lewis St,42.34915594643057,-71.09973969350021,595,Food Truck,Food Truck
+South Boston Waterfront,42.3547517,-71.0531784,Committee,55771dd2498ee58e1190b2d4,Boston,50 Northern Ave,42.35323439797056,-71.04621997263591,596,Mediterranean Restaurant,Mediterranean Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Sportello,4a4c06ddf964a520f6ac1fe3,Boston,348 Congress St,42.35051856362232,-71.0486871474802,598,Italian Restaurant,Italian Restaurant
+Brighton,42.3500971,-71.1564423,Miyuki Sushi,581cb445cb54576c366ee56f,Brighton,547 Washington St,42.34944191590328,-71.16370439529419,601,Sushi Restaurant,Asian Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Same Old Place,4a81f5cdf964a52021f81fe3,Jamaica Plain,662 Centre St,42.3126530112347,-71.11408562458989,603,Pizza Place,Pizza Place
+Bay Village,42.35001105,-71.0669477958571,sweetgreen,57d42bff498e26f21bd3f4b3,Boston,354 Harrison Ave,42.3452624,-71.0633541,605,Salad Place,Salad Place
+Mission Hill,42.33255965,-71.10360773640765,AK's Take-Out & Delivery,4c9160641adc37047bb42fd1,Roxbury Crossing,1427 Tremont St,42.331788379525,-71.0962827664977,608,Pizza Place,Pizza Place
+Back Bay,42.35054885,-71.08031131584724,Zuma,5ce9e86e3731ee002b84d1cc,Boston,1 Dalton St,42.345888,-71.084188,609,Japanese Restaurant,Asian Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Chilacates,58b364593bd4ab7454103d28,Jamaica Plain,658 Centre St,42.31281881551427,-71.11412776271247,610,Mexican Restaurant,Mexican Restaurant
+Dorchester,42.2973205,-71.0744952,Stash's Pizza,4ca520b197c8a1cdf64264a5,Dorchester,612 Blue Hill Ave,42.300390779192,-71.08065976190531,611,Pizza Place,Pizza Place
+Roslindale,42.2912093,-71.1244966,Diane's Bakery,4ca5d2a7931bb60cb1128de2,Roslindale,9 Poplar St,42.28668693381749,-71.1287414128892,612,Bakery,Bakery
+Roslindale,42.2912093,-71.1244966,Delfino’s,4af0ba48f964a5209ade21e3,Roslindale,754 South St,42.28710644357414,-71.12946984159761,613,Italian Restaurant,Italian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Fuji at Ink Block,57a279d5498ed4f80fc33c20,Boston,352 Harrison Ave # B,42.34509558083341,-71.06352799175973,615,Japanese Restaurant,Asian Restaurant
+East Boston,42.3750973,-71.0392173,ReelHouse,58fad42942d8c20d59229890,Boston,6 New St,42.37110123523497,-71.04446614470255,619,Restaurant,Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Lola 42,591baab3588e365cdf1f7e05,Boston,22 Liberty Dr,42.35457776725964,-71.04564803158013,619,New American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Market Cafe,512783dbe4b02b2dd5d499be,East Boston,Maverick Square,42.36951768038327,-71.03947718128471,621,Café,Café
+South End,42.34131,-71.0772298,Boston Chops South End,5134c265183fad24ecee7fb6,Boston,1375 Washington St,42.34142749217686,-71.06966040281041,622,Steakhouse,Steakhouse
+South Boston Waterfront,42.3547517,-71.0531784,Menton,4ba8d811f964a5207bf339e3,Boston,354 Congress St,42.3503767764461,-71.04846698993532,622,French Restaurant,French Restaurant
+Roxbury,42.3248426,-71.0950158,Yeli's Coffee Shop,4dfd2190ae6033b2a477250f,Boston,284 Centre st.,42.322757720947266,-71.10204315185547,623,Caribbean Restaurant,Caribbean Restaurant
+Back Bay,42.35054885,-71.08031131584724,Red Lantern,4de19091d22d2a4ecdb18204,Boston,39 Stanhope St,42.34831458245179,-71.0733682441579,623,Asian Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Shake Shack,57b32f53498ebbf559439ce9,Boston,77 Seaport Blvd,42.352042,-71.046515,625,Burger Joint,Burger Joint
+Allston,42.3554344,-71.1321271,Shanghai Gate,4a53a94df964a52093b21fe3,Allston,204 Harvard Ave,42.349898741708245,-71.13065803606818,627,Chinese Restaurant,Asian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Tatte Bakery & Cafe,5dcc35d49acef00007ac8f22,Boston,345 Harrison Ave,42.344815,-71.063969,628,Bakery,Bakery
+Roxbury,42.3248426,-71.0950158,Ashur Restaurant,4d90bac6d00a6ea83661ea4f,Boston,291 Roxbury St,42.330468522457,-71.09438177263546,628,African Restaurant,African Restaurant
+Beacon Hill,42.3587085,-71.067829,Piperi Mediterranean Grill,50a27c9ef136c9ddaa9f777d,Boston,1 Beacon St,42.35837339096657,-71.06020012130148,628,Mediterranean Restaurant,Mediterranean Restaurant
+South End,42.34131,-71.0772298,Lucy Ethiopian Cafe,4c7ede33fb13a1cdd0089fa4,Boston,334B Massachusetts Ave,42.34264901363015,-71.08466102823043,629,Ethiopian Restaurant,African Restaurant
+Roslindale,42.2912093,-71.1244966,Droubi Bakery,4c17f7f21436a593b6a38c75,Roslindale,748 South St,42.286862,-71.129403,630,Bakery,Bakery
+Hyde Park,42.2556543,-71.1244963,Cappy's Pizzeria,4b2c3124f964a52072c324e3,Boston,672 Truman Hwy,42.252378708683025,-71.11824564315356,631,Pizza Place,Pizza Place
+Dorchester,42.2973205,-71.0744952,Oriental House,4a4eaeb5f964a520edae1fe3,Dorchester,560 Washington St,42.29202,-71.071719,632,Chinese Restaurant,Asian Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Cafe Beirut,4f6d2d4ae4b032eb62d6c344,Jamaica Plain,654 Centre St,42.313018107597195,-71.11398537187536,632,Middle Eastern Restaurant,Middle Eastern Restaurant
+South End,42.34131,-71.0772298,Caffé Bene,53ef686c498e5b95381e7cc4,Boston,333 Massachusetts Ave,42.34259765174283,-71.08474254701741,634,Café,Café
+Charlestown,42.3778749,-71.0619957,Legal Oysteria,53b5e250498e09de3de4c3e2,Charlestown,10 City Sq,42.3721641421106,-71.0615880515414,636,Seafood Restaurant,Seafood Restaurant
+Dorchester,42.2973205,-71.0744952,SUBWAY,4a5254b2f964a52086b11fe3,Dorchester,560A Washington St,42.29196411761644,-71.07174566136356,637,Sandwich Place,Sandwich Place
+South Boston Waterfront,42.3547517,-71.0531784,Frank Anthony's Gourmet Market,5850370a3493551a7a08e0b9,Boston,,42.35361369518072,-71.04557160386216,638,Deli / Bodega,Deli / Bodega
+Fenway,42.3451868,-71.1045987,The Sausage Guy,4ad365bcf964a5202ae420e3,Boston,49 Lansdowne St,42.347239227455965,-71.09735555142997,638,Hot Dog Joint,Hot Dog Joint
+Dorchester,42.2973205,-71.0744952,Kenan J and C Restaurant,4f325e6719836c91c7d0f9ba,Dorchester,15 Bicknell St,42.2969970703125,-71.08229064941406,642,Food,
+Downtown,42.35860195,-71.06387508501135,Inna's Kitchen,55ba9599498ee671eb9076da,Boston,100 Hanover Stree,42.36183614740884,-71.05741068898924,642,Mediterranean Restaurant,Mediterranean Restaurant
+Roslindale,42.2912093,-71.1244966,Shaking Seafood,5c76c7c58194fc002c4d793c,Roslindale,19 Poplar St,42.286516,-71.129079,644,Seafood Restaurant,Seafood Restaurant
+South Boston,42.3334312,-71.0494949,Publico Street Bistro,587d382d52a05106f2c493a7,Boston,11 Dorchester St,42.33729067790897,-71.04364513059262,645,New American Restaurant,American Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,bartaco Seaport,5b7d9b6e270ee7002cd68ca7,Boston,25 Thomson Pl,42.35103083355627,-71.04715585706737,645,Taco Place,Mexican Restaurant
+East Boston,42.3750973,-71.0392173,Rosticeria Cancun,4b7c79ebf964a520ba952fe3,Boston,37 Maverick Sq,42.369283,-71.038988,647,Mexican Restaurant,Mexican Restaurant
+Beacon Hill,42.3587085,-71.067829,Boston Chops,59b48cbf73fe25689b123946,Boston,52 Temple Pl,42.35512136849123,-71.06161238381668,648,Steakhouse,Steakhouse
+Fenway,42.3451868,-71.1045987,Hojoko,55b2ba61498e454673a15379,Boston,1271 Boylston St,42.345041364617536,-71.09671516482004,648,Japanese Restaurant,Asian Restaurant
+Mattapan,42.2723208,-71.0869953,McDonald's,4e21e51c45dd950bb02a1f11,Boston,1614 Blue Hill Ave,42.268871000000004,-71.093355,649,Fast Food Restaurant,Fast Food Restaurant
+Bay Village,42.35001105,-71.0669477958571,Picco,49fb126bf964a520146e1fe3,Boston,513 Tremont St,42.344779744771415,-71.0704669515478,650,Pizza Place,Pizza Place
+Allston,42.3554344,-71.1321271,Super 88 Market Food Connection,4ab40594f964a520876f20e3,Allston,1 Brighton Ave,42.35234751820536,-71.1254015223191,651,Food Court,Food Court
+East Boston,42.3750973,-71.0392173,D'Parma Ristorante,4beee2fde8c3c92881509992,East Boston,182 Sumner St,42.369298,-71.04033199999999,652,Italian Restaurant,Italian Restaurant
+Beacon Hill,42.3587085,-71.067829,Marliave,49fe2752f964a520796f1fe3,Boston,10 Bosworth St,42.356930064003635,-71.06025724227246,653,New American Restaurant,American Restaurant
+Brighton,42.3500971,-71.1564423,Twelve Hours,56eca5cd498e8a77dc963319,Boston,,42.349803406861696,-71.16438451425243,654,Chinese Restaurant,Asian Restaurant
+Hyde Park,42.2556543,-71.1244963,Asian thai eatery,4cddf8373644a093df51499f,Hyde Park,River stree,42.258771,-71.117762,654,Thai Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,Burger King,4b54f785f964a520c1d527e3,Boston,280 W Broadway,42.339222858417656,-71.05094022584126,655,Fast Food Restaurant,Fast Food Restaurant
+Fenway,42.3451868,-71.1045987,honeygrow,59679fa459fe5c375b6cd05f,Boston,1282 Boylston St,42.34459752322608,-71.09666124447209,656,Restaurant,Restaurant
+Allston,42.3554344,-71.1321271,Pho Viet's,4b3bf53af964a520397f25e3,Boston,1095 Commonwealth Ave,42.35226419614085,-71.12539998862945,656,Vietnamese Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Estragon Tapas,4ad905bef964a520361721e3,Boston,700 Harrison Ave,42.33812296146316,-71.07051097878363,656,Tapas Restaurant,Spanish Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Blue Frog Bakery,4af70a22f964a520150522e3,Boston,3 Green St,42.31311363206092,-71.11370274183521,657,Bakery,Bakery
+Charlestown,42.3778749,-71.0619957,Toasted Flats,594e86e1d1a40209d0febf56,Boston,53 Chelsea St,42.372138,-71.06002,658,Sandwich Place,Sandwich Place
+Mattapan,42.2723208,-71.0869953,Golden Krust Caribbean Restaurant,58a3501b9343e015a42a57d2,Mattapan,1614 Blue Hill Ave,42.26884078979492,-71.09346771240234,659,Caribbean Restaurant,Caribbean Restaurant
+South End,42.34131,-71.0772298,Giorgiana's Gourmet,4b6ec94ef964a5208bca2ce3,Boston,532 Tremont St,42.34462122551722,-71.07058829857122,659,Deli / Bodega,Deli / Bodega
+South End,42.34131,-71.0772298,Burro Bar,5aea73d6c53093002cd23967,Boston,1357 Washington St,42.341570395017825,-71.06919903103604,661,Mexican Restaurant,Mexican Restaurant
+Roslindale,42.2912093,-71.1244966,Birch Street Bistro,4ac69084f964a52014b520e3,Roslindale,14 Birch St,42.28677610781123,-71.12986656245305,662,American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Taqueria Cancun,4c7f0ce3a7958cfa6ad18f2b,Boston,192 Sumner St,42.36917573645535,-71.0400363577393,662,Mexican Restaurant,Mexican Restaurant
+Brighton,42.3500971,-71.1564423,WingzXpress,4b80125ff964a5208f4f30e3,Brighton,563 Washington St,42.34984632705838,-71.1645052709464,663,Wings Joint,Wings Joint
+South End,42.34131,-71.0772298,Andre's Cafe,4b8f0fdaf964a520304733e3,Boston,811 Harrison Ave,42.33573730541974,-71.07433059742299,664,Mediterranean Restaurant,Mediterranean Restaurant
+Fenway,42.3451868,-71.1045987,Beth Israel Deaconess Medical Center Ullian Cafe,4e567005aeb7a8268802e6e5,Boston,330 Brookline Ave,42.33923581172836,-71.10404033796733,664,Café,Café
+Mission Hill,42.33255965,-71.10360773640765,City Hall To Go,50be7156164809ba8e3c0b30,Boston,1 City Hall Ave,42.33144668894186,-71.09567766117179,664,Food Truck,Food Truck
+Fenway,42.3451868,-71.1045987,Sufra Mediterranean Food,5b8042f9b6eedb002c8cbb92,Boston,52 Queensberry St,42.34277251661014,-71.09719802662572,665,Food Truck,Food Truck
+Bay Village,42.35001105,-71.0669477958571,Bar Mezzana,57477981498e542d112687f9,Boston,360 Harrison Avenue,42.344562400354306,-71.06355992167377,667,Italian Restaurant,Italian Restaurant
+Charlestown,42.3778749,-71.0619957,Dovetail,5fd26256574d61720b3b213e,Boston,1 6th Street,42.375253,-71.054686,668,Restaurant,Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Fernandez Spa,4ad7aa96f964a5207d0d21e3,Jamaica Plain,128 South St,42.305520119366754,-71.11465363301082,668,Deli / Bodega,Deli / Bodega
+Mission Hill,42.33255965,-71.10360773640765,Butterfly Falafel,4b5763acf964a5204e3528e3,Boston,1420 Tremont St,42.33144832482004,-71.09555948219221,673,Bakery,Bakery
+South Boston Waterfront,42.3547517,-71.0531784,Mastros Ocean Club,59596c871de76542ca7c9767,Boston,25 Fan Pier Blvd,42.3545455,-71.0449981,673,Steakhouse,Steakhouse
+South Boston,42.3334312,-71.0494949,Pizzeria 260,522bc0e111d229cddf144de8,Boston,260 W Broadway,42.33929132857169,-71.05152086042501,673,Pizza Place,Pizza Place
+South Boston Waterfront,42.3547517,-71.0531784,Chart House Restaurant,4ae7950ef964a52099ac21e3,Boston,60 Long Wharf,42.3601688,-71.0495078,674,Seafood Restaurant,Seafood Restaurant
+Roslindale,42.2912093,-71.1244966,Sophia's Grotto,4b3818f5f964a520934b25e3,Roslindale,22 Birch St,42.2866163419008,-71.12986939981565,676,Italian Restaurant,Italian Restaurant
+South Boston,42.3334312,-71.0494949,Broadway’s Pastry & Coffee Shop,561ee577498e2b15b426ecdf,Boston,258 W Broadway,42.33931898434871,-71.05152628474146,676,Bakery,Bakery
+Mission Hill,42.33255965,-71.10360773640765,SUBWAY,4d6c698a7585b1f796070ed5,Boston,904 Huntington Ave,42.33186878900834,-71.11179578509302,678,Sandwich Place,Sandwich Place
+South End,42.34131,-71.0772298,Cafe Quattro,55c38a78498ed163e5b6d047,Boston,817 Harrison Ave,42.33561092926433,-71.07430332059042,678,Café,Café
+South End,42.34131,-71.0772298,Chilacates,5c6a120cbe7078002caaffa4,Boston,275 Shawmut Ave,42.34297,-71.069291,678,Mexican Restaurant,Mexican Restaurant
+Roslindale,42.2912093,-71.1244966,SUBWAY,4edc138b46907c1b44b0b556,Roslindale,4238 Washington St,42.28593541869183,-71.12866892974475,680,Sandwich Place,Sandwich Place
+South Boston Waterfront,42.3547517,-71.0531784,sweetgreen,533af1e0498ef6b88ba46b50,Boston,372 Congress St,42.35016181225711,-71.04772344231691,680,Salad Place,Salad Place
+East Boston,42.3750973,-71.0392173,Dunkin',4b8983c7f964a520dc3d32e3,East Boston,13-15 Maverick Sq,42.3689702399193,-71.03920333311783,682,Donut Shop,Donut Shop
+Dorchester,42.2973205,-71.0744952,Saint's Diner,4a5ddd4cf964a520c7bd1fe3,Dorchester Center,572 Washington St,42.291578,-71.07148000000001,685,Diner,Diner
+Roslindale,42.2912093,-71.1244966,Effie's Kitchen,561c12c1498ef927de54f944,Roslindale,Poplar St.,42.28589850370387,-71.1287414128892,686,Greek Restaurant,Greek Restaurant
+Hyde Park,42.2556543,-71.1244963,Richy's,4dc0091e81545e1cc7daea90,Hyde Park,1461 River St,42.251927470328596,-71.1311673203201,688,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Sojuba,5a61341295d9863ac5bfcb9e,Boston,1260 Boylston St,42.34491995805162,-71.09621226545545,690,Korean Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,Andrew Square House of Pizza,4b54dc50f964a52024d027e3,Boston,395 Dorchester St,42.33001400056164,-71.05651184717141,691,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Los Pollos Hermanos,5045fb35e4b0b4adf5acd432,Brighton,14 Upcrest Rd Apt 2,42.35287857055664,-71.1639633178711,691,Fried Chicken Joint,Fried Chicken Joint
+South End,42.34131,-71.0772298,Blunch,4a046d0af964a520f4711fe3,Boston,59 E Springfield St,42.33542141563901,-71.07452504091107,692,Sandwich Place,Sandwich Place
+South Boston Waterfront,42.3547517,-71.0531784,Oak + Rowan,582ceb03761b1a60999af08c,Boston,321 A St,42.34922207015576,-71.0493142962112,692,Restaurant,Restaurant
+Roxbury,42.3248426,-71.0950158,Young Kong,4cf1a42d899c6ea851e3f1c1,Boston,300A Centre St,42.322797,-71.10297381877899,693,Chinese Restaurant,Asian Restaurant
+East Boston,42.3750973,-71.0392173,Rino's,4bc11de3abf49521d598c093,Boston,257 Saratoga St,42.378267983498624,-71.03194032162249,694,Italian Restaurant,Italian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Domino's Pizza,4d41f07daed776eb2e7b6997,Roxbury Crossing,"1400 Tremont St, Roxbury Crossing Station - Space D",42.33123792393492,-71.09533488750458,696,Pizza Place,Pizza Place
+Mission Hill,42.33255965,-71.10360773640765,Wok N Talk,4d6c66e7fcafa1cd67412a06,Jamaica Plain,23 S Huntington Ave,42.33150730662894,-71.11198714125558,699,Chinese Restaurant,Asian Restaurant
+Roslindale,42.2912093,-71.1244966,Hong Kong 888 Cafe,4c980b1f4804a1431ca0e80e,Roslindale,888 South St,42.28930841598369,-71.13259190343753,699,Chinese Restaurant,Asian Restaurant
+Bay Village,42.35001105,-71.0669477958571,Myers + Chang,49cf760ff964a520a95a1fe3,Boston,1145 Washington St,42.343752867455564,-71.0661936915449,699,Chinese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,UNI Sashimi Bar,4a6908e7f964a5207fcb1fe3,Boston,370 Commonwealth Ave,42.34862865685723,-71.0884348918299,701,Sushi Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,The Glenville Stops,53309e44498e3c6c34953cc8,Allston Village,87 Glenville Ave,42.349513970323514,-71.13503285997038,701,Gastropub,Gastropub
+Roxbury,42.3248426,-71.0950158,Tostado Sandwich Bar,4c0695eeb4aa0f479b546462,Jamaica Plain,300 Centre St,42.32291288554027,-71.10313304527894,701,Paella Restaurant,Spanish Restaurant
+South End,42.34131,-71.0772298,Franklin Cafe,4266ed00f964a52036211fe3,Boston,278 Shawmut Ave,42.343068989237366,-71.06904310144277,701,American Restaurant,American Restaurant
+Mattapan,42.2723208,-71.0869953,Brothers Deli & Restaurant,4de8f6a37d8b02ee9f2293eb,Mattapan,1638 Blue Hill Ave,42.26827557621422,-71.09355063901423,703,Southern / Soul Food Restaurant,Southern / Soul Food Restaurant
+Back Bay,42.35054885,-71.08031131584724,Citrus & Salt,5a22075fc21cb1727dde3a02,Boston,142 Berkeley St,42.34899146847883,-71.07201752169061,704,Mexican Restaurant,Mexican Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Joseph's Pizza,4bd8f79711dcc928c29bf833,Jamaica Plain,8 S Huntington Ave,42.33171524914969,-71.11209824287607,705,Pizza Place,Pizza Place
+Roslindale,42.2912093,-71.1244966,Blue Star Restaurant,4b76c725f964a520815e2ee3,Roslindale,11 Corinth St,42.28659553767158,-71.13039379039823,706,Restaurant,Restaurant
+Roslindale,42.2912093,-71.1244966,Fornax Bread Company,4b12c6b0f964a520eb8d23e3,Boston,27 Corinth St,42.28617090302737,-71.12976037438125,708,Bakery,Bakery
+Fenway,42.3451868,-71.1045987,Thaitation,4a954ec2f964a520e52220e3,Boston,129 Jersey St,42.3424239835278,-71.09684535852053,708,Thai Restaurant,Asian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Dunkin',5dbec8194b82690008279df6,Boston,37 S Huntington Ave #2,42.33113809945875,-71.11199923319765,708,Café,Café
+Brighton,42.3500971,-71.1564423,China Maxim III,4b6dfd32f964a52083a12ce3,Brighton,241 Market St,42.35450395976219,-71.15021424094903,709,Chinese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Deuxave,4c65d0d09cb82d7f0c018fd2,Boston,371 Commonwealth Ave,42.3494913754342,-71.08882600738951,710,New American Restaurant,American Restaurant
+Roxbury,42.3248426,-71.0950158,Latino Restaurant,4c125e76b7b9c928239fa737,Jamaica Plain,302 Centre St,42.322904352498895,-71.10323881143749,710,Caribbean Restaurant,Caribbean Restaurant
+South Boston,42.3334312,-71.0494949,Red Line Pizza & Grill,4ec16b00775b98876ee5915c,Boston,"582 Dorchester Ave, Boston, MA 02127",42.329946,-71.056722,710,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,Rhett's,4b9e8a85f964a52044ed36e3,Boston,775 Commonwealth Ave,42.35081604124538,-71.10870232934133,711,Diner,Diner
+Fenway,42.3451868,-71.1045987,Mooby’s Pop Up - Boston,606f28b37d1b887fc0fc2025,Boston,15 Lansdowne St,42.346893,-71.096241,713,Fast Food Restaurant,Fast Food Restaurant
+Jamaica Plain,42.3098201,-71.1203299,When Pigs Fly,4e2ae3b5c65bcaf40028411a,Boston,613 Centre St,42.314370080751374,-71.1142221379573,713,Bakery,Bakery
+Roxbury,42.3248426,-71.0950158,SUBWAY,521bca2011d2624bbfe19a0c,Jamaica Plain,315 Centre St,42.32308247818676,-71.10336067071913,714,Sandwich Place,Sandwich Place
+Roslindale,42.2912093,-71.1244966,Tony's Market,4b92b248f964a520741234e3,Boston,4253 Washington St,42.28578032977848,-71.12914758453267,715,Deli / Bodega,Deli / Bodega
+Roslindale,42.2912093,-71.1244966,Romano's Pizzeria & Taqueria,4ad35ef1f964a52001e420e3,Roslindale,4249 Washington St,42.285746251576896,-71.12908286083359,715,Pizza Place,Pizza Place
+Dorchester,42.2973205,-71.0744952,Papa Rinos,4bc7abd815a7ef3bdcea79da,Boston,394 Geneva Ave,42.3013801574707,-71.06774139404297,716,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,Jyuba,593625c46cf01a4680ab6d14,Boston,1260 Boylston St,42.344758,-71.095901,717,Asian Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Yoki Express,58c0a02ee309e16736ed8803,Boston,101 Seaport Blvd,42.35137457827982,-71.04573996783874,718,Sushi Restaurant,Asian Restaurant
+Brighton,42.3500971,-71.1564423,Teresa Market,56dc71cf498ef1501096ecdb,Boston,571 Washington St,42.349998,-71.165175,718,Latin American Restaurant,Latin American Restaurant
+Fenway,42.3451868,-71.1045987,Crossroads @ House Of Blues,5070b1b4e4b0359dfa828994,Boston,,42.347168,-71.096252,721,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Right Field Beer Stand,4e308af8a809711248ff7f10,Boston,Fenway Park,42.346417879475304,-71.09596005775157,723,Food Stand,Food Stand
+Back Bay,42.35054885,-71.08031131584724,Cornish Pasty,58010c86d67cf0750bcb9602,Boston,51A Massachusetts Ave,42.34972518077595,-71.08903522001313,723,Comfort Food Restaurant,Comfort Food Restaurant
+Roxbury,42.3248426,-71.0950158,Cappy's Pizza,4cdcac283f6a8cfab43ff3ea,Jamaica Plain,304 Centre St,42.32289489457146,-71.10341061642256,724,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Greek Village Gyros & Grill,58e977efe9dad13680466411,Brighton,577-583 Washington St A,42.35034,-71.16524,724,Greek Restaurant,Greek Restaurant
+Back Bay,42.35054885,-71.08031131584724,Asta,50fd54eb19a914e488203668,Boston,47 Massachusetts Ave,42.3498192412939,-71.08907448439811,725,New American Restaurant,American Restaurant
+South End,42.34131,-71.0772298,Moby Dick,4b01f74af964a520e04622e3,Boston,269 Huntington Ave,42.34194027694032,-71.0860071792265,725,Middle Eastern Restaurant,Middle Eastern Restaurant
+Roslindale,42.2912093,-71.1244966,Vouros Pastry,4d051131e350b60c37998642,Roslindale,4252 Washington St,42.285582,-71.128976,726,Bakery,Bakery
+Roxbury,42.3248426,-71.0950158,Meatland,4defdc71091afc8ac0f4bda8,Jamaica Plain,306 Centre St,42.32293712132689,-71.10347270965576,727,Steakhouse,Steakhouse
+Roslindale,42.2912093,-71.1244966,Imperial Kitchen,4c7ace65794e224bb8c86928,Roslindale,50 Corinth St,42.28569,-71.12922311,727,Chinese Restaurant,Asian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Café G,4edce2dc77c8274e0010b6b7,Boston,Isabella Stewart Gardner Museum,42.33816325644469,-71.09903382763397,728,Café,Café
+Charlestown,42.3778749,-71.0619957,Sorelle City Square,4aa945a5f964a520cd5220e3,Charlestown,100 City Sq,42.371338415332126,-71.06139591208562,729,Café,Café
+West Roxbury,42.2792649,-71.1494972,Deno's Pizza & Subs,4b14611ef964a5202fa223e3,West Roxbury,2040 Centre St,42.28043630014805,-71.15823639206342,731,Pizza Place,Pizza Place
+South Boston,42.3334312,-71.0494949,Alex's Pizza,4b54db87f964a520fecf27e3,Boston,582 Dorchester Ave,42.32983954,-71.056953,732,Pizza Place,Pizza Place
+West Roxbury,42.2792649,-71.1494972,Pu Pu Chinese Food,4c2aae14d1a10f4789e4f664,West Roxbury,2060 Centre St,42.28003238898692,-71.15835396895581,734,Chinese Restaurant,Asian Restaurant
+South Boston,42.3334312,-71.0494949,AK's Pizza Shop,4be04b53652b0f47f5d67111,Boston,309 D St,42.34002290912583,-71.04923926111788,734,Pizza Place,Pizza Place
+Bay Village,42.35001105,-71.0669477958571,Oishii Boston,49f4d701f964a5205e6b1fe3,Boston,1166 Washington St,42.343435426225966,-71.0662219603044,734,Japanese Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,M&J Teriyaki,57e7f8b9498e04f9abafcace,Boston,130 Jersey St,42.342298,-71.09656,735,Asian Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Qdoba Mexican Grill,4abaa330f964a520368220e3,Boston,540 Commonwealth Ave,42.34842301226329,-71.09680205583572,735,Mexican Restaurant,Mexican Restaurant
+West Roxbury,42.2792649,-71.1494972,Anna's Hand Cut Donuts,4c612a1fb6f3be9af4f66073,West Roxbury,2056 Centre St,42.28013895655966,-71.1583676451616,737,Donut Shop,Donut Shop
+Back Bay,42.35054885,-71.08031131584724,Boloco,4b54ad53f964a5208dc627e3,Boston,1080 Boylston St,42.347196365426605,-71.0880614148378,738,Burrito Place,Mexican Restaurant
+South End,42.34131,-71.0772298,Five Guys,50eb0dede4b006545d87f580,Boston,263 Huntington Ave,42.342200700384076,-71.08612837115561,738,Burger Joint,Burger Joint
+Charlestown,42.3778749,-71.0619957,Dunkin',59d38027e179103e8e06b331,Charlestown,100 1st Ave Bldg 39,42.375742116675966,-71.05349793583402,738,Donut Shop,Donut Shop
+Roslindale,42.2912093,-71.1244966,Tostado,4bae5532f964a520faa33be3,Roslindale,3880 Washington St,42.295836,-71.11806,739,Sandwich Place,Sandwich Place
+Brighton,42.3500971,-71.1564423,Mangiamo Pizza,4b897c3af964a520e73a32e3,Brighton,583 Washington St,42.350347073956755,-71.16545198881845,741,Pizza Place,Pizza Place
+Roslindale,42.2912093,-71.1244966,Adam's Park Kitchen & Bar,4d02e39c0e49721ed8ac677f,Roslindale,4257 Washington St,42.285606384277344,-71.12936401367188,741,American Restaurant,American Restaurant
+Bay Village,42.35001105,-71.0669477958571,Coppa,4b1ed426f964a520362024e3,Boston,253 Shawmut Ave,42.34346188154446,-71.0685670243057,741,Italian Restaurant,Italian Restaurant
+Roslindale,42.2912093,-71.1244966,El Chavo,4c5370084623be9acc9312f1,Boston,Washington Street,42.28554224360851,-71.12924042370746,742,Deli / Bodega,Deli / Bodega
+Charlestown,42.3778749,-71.0619957,Blackmoor Bar and Kitchen,5731eb0c498ee1b150baad37,Charlestown,1 Chelsea Street,42.37121079718048,-71.06158332432332,742,Gastropub,Gastropub
+Jamaica Plain,42.3098201,-71.1203299,Grassfed The Joint,5cdf1cb6f870fd002c329711,Boston,,42.314609,-71.114029,743,New American Restaurant,American Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Rockland Jade Chinese Restaurant,4f3259eb19836c91c7cf350c,Brookline,551 Brookline Ave,42.335398,-71.111786,743,Food,
+Fenway,42.3451868,-71.1045987,T sushi,5298c74911d24f840142c2be,Boston,,42.33874652427971,-71.10699902372352,743,Japanese Restaurant,Asian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,City Tap House,58503e9c6cea3f5efb665284,Boston,10 Boston Wharf Rd,42.34993566351601,-71.04690221826645,744,New American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,McDonald's,4b1fc5aaf964a520e52824e3,Boston,540 Commonwealth Ave,42.3485407,-71.096742,746,Fast Food Restaurant,Fast Food Restaurant
+Allston,42.3554344,-71.1321271,Holly Crab,56c90d35498ed2a3c3dce54b,Boston,1098 Commonwealth Ave,42.3518838299281,-71.1244017211243,748,Seafood Restaurant,Seafood Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,Row 34,528feaae11d20de9fd0955bd,Boston,383 Congress St,42.349559,-71.047373,749,Seafood Restaurant,Seafood Restaurant
+Roslindale,42.2912093,-71.1244966,Roslindale Fish Market,4b64986df964a52099c02ae3,Roslindale,38 Poplar St,42.28623530090597,-71.13065621844774,750,Greek Restaurant,Greek Restaurant
+Roxbury,42.3248426,-71.0950158,Dunkin',4bc4dc02abf495212eadc593,Jamaica Plain,315 Centre St,42.32306952705255,-71.10381917485142,750,Donut Shop,Donut Shop
+Fenway,42.3451868,-71.1045987,Sushi Arigato,4bdbb754a6fdef3b6b251547,Boston,350 Longwood Ave,42.33870398456216,-71.10712088186774,750,Sushi Restaurant,Asian Restaurant
+Mission Hill,42.33255965,-71.10360773640765,Family Affair Catering,4f32995919836c91c7e77ce3,Roxbury Crossing,1234 Columbus Ave,42.328468322753906,-71.09636688232422,750,Food,
+Back Bay,42.35054885,-71.08031131584724,Wendy’s,4ab43fdef964a520937020e3,Boston,157A Massachusetts Ave,42.3464101,-71.0875351,751,Fast Food Restaurant,Fast Food Restaurant
+Jamaica Plain,42.3098201,-71.1203299,Ten Tables,4ad26664f964a52064e120e3,Jamaica Plain,597 Centre St,42.31485135873303,-71.11420558458,753,New American Restaurant,American Restaurant
+Back Bay,42.35054885,-71.08031131584724,Pho Basil,4a7a2b7cf964a520c3e81fe3,Boston,177 Massachusetts Ave,42.3459027242926,-71.08705210437691,758,Vietnamese Restaurant,Asian Restaurant
+Dorchester,42.2973205,-71.0744952,Vaughan's Fish And Chips,4d7924d9109eb1f7c6075b06,Boston,1 Erie St,42.303346999999995,-71.07879399999999,758,Fish & Chips Shop,Fish & Chips Shop
+South Boston,42.3334312,-71.0494949,My Diner,5a882adebd40091eb234f687,Boston,,42.337964,-71.042567,761,Diner,Diner
+East Boston,42.3750973,-71.0392173,Oliveira's Steakhouse,4bc3a6ea920eb7137aca1d2c,Boston,297 Chelsea St,42.37701426279545,-71.03032825115103,761,Brazilian Restaurant,Latin American Restaurant
+West Roxbury,42.2792649,-71.1494972,Masona Grill,4ba3abfaf964a5208e5238e3,West Roxbury,46 Corey St,42.28471593876834,-71.15513194178028,763,Mediterranean Restaurant,Mediterranean Restaurant
+Roxbury,42.3248426,-71.0950158,Dunkin',5df1483ecc4b9c00082633c8,Roxbury,2493 Washington St,42.328238,-71.0869457,764,Café,Café
+West Roxbury,42.2792649,-71.1494972,West Napoli Cafe,4b85985df964a5207f6731e3,West Roxbury,1946 Centre St,42.28353,-71.15678100000001,765,Pizza Place,Pizza Place
+Charlestown,42.3778749,-71.0619957,149 Eat Street Cafe,51194c16d63e2d654b498e22,Charlestown,149 9th Street,42.37713087286168,-71.0527108524575,768,Café,Café
+Fenway,42.3451868,-71.1045987,Late Night Kitchen,50101abe16480c58f05090c7,Boston,100 Bay State Rd,42.349944180777605,-71.09780994346609,769,Restaurant,Restaurant
+Fenway,42.3451868,-71.1045987,Rize,5010194b16480c58f0506526,Boston,100 Bay State Rd,42.34993009301964,-71.09779824271025,769,Café,Café
+Longwood,42.3415333,-71.1101551,FuGaKyu Japanese Cuisine,49c96752f964a52060581fe3,Brookline,1280 Beacon St,42.34271005426061,-71.11937937537841,770,Sushi Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Dunkin',4be6afea9026ef3bd1db0a38,Boston,530 Commonwealth Ave,42.34846446297985,-71.09634859275465,770,Donut Shop,Donut Shop
+South Boston,42.3334312,-71.0494949,Dunkin',4ad331e1f964a5205ee320e3,Boston,510 Southampton St,42.32976265815693,-71.05743939508915,770,Donut Shop,Donut Shop
+Fenway,42.3451868,-71.1045987,Sushi Wrap & Noodles,52615d0f11d2cffe4e56bd16,Boston,,42.33850063577081,-71.10708026249044,771,Sushi Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Sakura Japan,51f93818498ec722f020c1ce,Boston,,42.33842849731445,-71.10684967041016,774,Japanese Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Chutney's,4f106b44e4b09e81d78e0cab,Boston,350 Longwood Ave,42.33850577521101,-71.10726685146156,775,Indian Restaurant,Indian Restaurant
+South Boston Waterfront,42.3547517,-71.0531784,by CHLOE.,58a36ab55490d37d6129f217,Boston,107 Seaport Blvd,42.3511175,-71.0451277,776,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+Fenway,42.3451868,-71.1045987,Noodles King,5bef60ebc530930039ff92c0,Boston,400 Brookline Ave,42.338403,-71.10683,777,Chinese Restaurant,Asian Restaurant
+Back Bay,42.35054885,-71.08031131584724,Boston Burger Company,4f85fd26e4b09445e9f7a260,Boston,1100 Boylston St,42.34706557651606,-71.08853818710074,780,Burger Joint,Burger Joint
+Charlestown,42.3778749,-71.0619957,Decca Boston,556605d3498eae0ca1322615,Charlestown,"Building 10, Charlestown Navy Yard",42.37265373415893,-71.05563908113552,781,New American Restaurant,American Restaurant
+Mattapan,42.2723208,-71.0869953,Top Of The Hill,4f1f1e5ce4b019c304a82499,Mattapan,1357 Blue Hill Ave,42.277294,-71.093735,784,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,Common Grounds at Simmons College,50a51535011c15d31deea806,Boston,300 Fenway,42.338911126796155,-71.10016822814941,787,Café,Café
+Charlestown,42.3778749,-71.0619957,Cafe 6101,4d63fae5dcafa1cda4a37711,Boston,149 13th St #6101,42.37721252441406,-71.05244445800781,788,Café,Café
+Allston,42.3554344,-71.1321271,Clear Flour Bread,42b60700f964a52082251fe3,Boston,178 Thorndike St,42.350012765054046,-71.12595236582953,788,Bakery,Bakery
+Brighton,42.3500971,-71.1564423,Brighton House of Pizza,4b0c93ddf964a5208d3f23e3,Brighton,218 Market St,42.35507438128113,-71.14960681993429,789,Pizza Place,Pizza Place
+Jamaica Plain,42.3098201,-71.1203299,Sausage Connection,4f3231f419836c91c7bf80b8,Jamaica Plain,24 Rambler Rd,42.304756,-71.127095,792,Food,
+Mattapan,42.2723208,-71.0869953,Mattapan House of Pizza,4c66c2899cb82d7f5d7191d2,Mattapan,1631 Blue Hill Ave,42.267720808901785,-71.09438123121252,795,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,Symphony Sushi,4af9aa2af964a520131322e3,Boston,45 Gainsborough St,42.341755115587816,-71.08689219661827,796,Sushi Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,The Westland,5c2ad1b24f0e58003996da84,Boston,10 Westland Ave,42.343431,-71.086482,797,American Restaurant,American Restaurant
+Fenway,42.3451868,-71.1045987,Eastern Standard,4a9d11fff964a520d53720e3,Boston,528 Commonwealth Ave,42.34868687593234,-71.0961273269707,798,American Restaurant,American Restaurant
+Back Bay,42.35054885,-71.08031131584724,Pad Thai Cafe,4a762b7af964a52077e21fe3,Boston,1116 Boylston St,42.34707051648228,-71.08880112773643,798,Thai Restaurant,Asian Restaurant
+Dorchester,42.2973205,-71.0744952,McDonald's,4c44aef474ffc928f6e775cc,Dorchester,605 Washington St,42.290421,-71.071777,799,Fast Food Restaurant,Fast Food Restaurant
+South Boston,42.3334312,-71.0494949,Café Polonia,4b12fc29f964a520219223e3,Boston,611 Dorchester Ave,42.32882023450281,-71.05695378305492,800,Polish Restaurant,Polish Restaurant
+Roxbury,42.3248426,-71.0950158,Jones Hill Cafe,4f32778419836c91c7da9d0d,Roxbury,6 Kenilworth St,42.32878875732422,-71.08679962158203,806,Food,
+Longwood,42.3415333,-71.1101551,Tsunami,4a57a5d6f964a52087b61fe3,Brookline,14A Pleasant St,42.343002,-71.119783,808,Japanese Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Gaslight Brasserie,49fef9eaf964a520c06f1fe3,Boston,560 Harrison Ave,42.34097392156579,-71.06734684063156,814,French Restaurant,French Restaurant
+Charlestown,42.3778749,-71.0619957,Harbor Walk Cafe,4ba378aef964a520de3f38e3,Charlestown,1 Constitution Plz,42.37119674682617,-71.05763244628906,825,Sandwich Place,Sandwich Place
+Bay Village,42.35001105,-71.0669477958571,Area Four Boston,580abd1fd67cd5bd37b37eaa,Boston,264 E Berkeley St,42.343240115114,-71.06286988639845,825,Pizza Place,Pizza Place
+West Roxbury,42.2792649,-71.1494972,MJ Sub & Pizza,4b22daedf964a520d54e24e3,Roslindale,330 Belgrade Ave,42.28594,-71.14507051666666,827,Pizza Place,Pizza Place
+Longwood,42.3415333,-71.1101551,Jerusalem Pita & Grill,4ac3a6b8f964a520319c20e3,Brookline,10 Pleasant St,42.34282587013096,-71.12006794375205,828,Falafel Restaurant,Falafel Restaurant
+South End,42.34131,-71.0772298,Amelia's Taqueria,54654e60498efbfc1ca68017,Boston,309 Huntington Ave,42.341016227525614,-71.08730691411292,829,Burrito Place,Mexican Restaurant
+Longwood,42.3415333,-71.1101551,Los Amigos,5716d7e3498e7f124b4f24c7,Brookline,1294 Beacon St,42.342673516025286,-71.12015072622697,832,Burrito Place,Mexican Restaurant
+West Roxbury,42.2792649,-71.1494972,Stash's Pizza,5418b645498ea01d9511bbb8,Roslindale,330 Belgrade Ave,42.28604379714844,-71.14520843998336,833,Pizza Place,Pizza Place
+South Boston,42.3334312,-71.0494949,Baltic European Deli,4b4f5b9cf964a520f40227e3,Boston,632 Dorchester Ave,42.32827712207361,-71.05690691943524,837,Deli / Bodega,Deli / Bodega
+Roslindale,42.2912093,-71.1244966,Sub Stop,4f327c8a19836c91c7dc83cf,Roslindale,454 Hyde Park Ave,42.284979,-71.11867099999999,843,Pizza Place,Pizza Place
+Longwood,42.3415333,-71.1101551,Dumpling Daughter,5ebe205186605b00089fd9a4,Brookline,1309 Beacon St,42.342069,-71.120376,843,Chinese Restaurant,Asian Restaurant
+Roslindale,42.2912093,-71.1244966,Dunkin',4a97e2daf964a520dc2920e3,Jamaica Plain,7 Walk Hill St,42.29556586490725,-71.11609653372955,844,Donut Shop,Donut Shop
+South End,42.34131,-71.0772298,Sunrise Chinese Food,4c045647310fc9b64534c761,Roxbury,1033 Tremont St,42.336610850727325,-71.08532478633495,846,Chinese Restaurant,Asian Restaurant
+Brighton,42.3500971,-71.1564423,Café 129,4f512406e4b041b23caa135d,Brighton,"129 Lake St, Boston College - Brighton Campus, Brighton, MA 02135",42.343971252441406,-71.16259002685547,849,Café,Café
+Jamaica Plain,42.3098201,-71.1203299,D&C's Kitchen,52d89f5a498ee12acc96e55c,Boston,,42.30376090003085,-71.114026116388,851,Café,Café
+West Roxbury,42.2792649,-71.1494972,SUBWAY,4fda7106e4b05ff8b83353bb,West Roxbury,1866 Centre St,42.28580685236166,-71.15488751195392,852,Sandwich Place,Sandwich Place
+Roxbury,42.3248426,-71.0950158,Gondres Bakery,4f1ad30fe4b064e65b503080,Jamaica Plain,333 Centre St,42.322879791259766,-71.10504150390625,853,Bakery,Bakery
+Mattapan,42.2723208,-71.0869953,Burger King,4d99dfb33bca41bd24875dec,Mattapan,885 Cummins Hwy,42.268215856933494,-71.09576269984245,854,Fast Food Restaurant,Fast Food Restaurant
+South End,42.34131,-71.0772298,South End Food Trucks,5186c3c4498eda32a32cfdca,Boston,375 Harrison Ave,42.34128755383671,-71.0668418479877,854,Food Court,Food Court
+Brighton,42.3500971,-71.1564423,Brighton Best Pizza,5775a9a0498e603fa52947f8,Boston,600 Washington St,42.35033,-71.16686,857,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Dunkin',4b4cf14ef964a52006c526e3,Brighton,598 Washington St,42.35035691993124,-71.1668656685452,858,Donut Shop,Donut Shop
+Hyde Park,42.2556543,-71.1244963,Wong's of Boston,4b940562f964a520ee6134e3,Boston,417 Washington St,42.248472,-71.128316,859,Chinese Restaurant,Asian Restaurant
+West Roxbury,42.2792649,-71.1494972,SomTum Modern Thai,5b35081790d1ed002c84be23,Boston,1894 Centre St,42.285416,-71.155829,860,Thai Restaurant,Asian Restaurant
+South End,42.34131,-71.0772298,Boston Shawarma,4b6875c9f964a520027a2be3,Boston,315 Huntington Ave,42.340880034774976,-71.08767102305167,860,Middle Eastern Restaurant,Middle Eastern Restaurant
+Roxbury,42.3248426,-71.0950158,Chilacates Mission Hill,5c853354b6eedb002cc212cb,Boston,1482 Tremont St,42.332091,-71.098634,860,Mexican Restaurant,Mexican Restaurant
+Allston,42.3554344,-71.1321271,Kohi Coffee,596f6f5a5c683822102c2a67,Boston,130 Guest St,42.35669190951952,-71.14251647421925,866,Café,Café
+Fenway,42.3451868,-71.1045987,Island Creek Oyster Bar,4cb12fa2c5e6a1cd90fedbf6,Boston,500 Commonwealth Ave,42.34863115539973,-71.09511762857437,869,Seafood Restaurant,Seafood Restaurant
+West Roxbury,42.2792649,-71.1494972,West on Centre,4a8c8f0af964a520800e20e3,West Roxbury,1732 Centre St,42.287082,-71.14978,870,American Restaurant,American Restaurant
+East Boston,42.3750973,-71.0392173,Cunard Tavern,5955758adec1d63ee666589e,Boston,24 Oleans St,42.367273123964424,-71.03873333202556,871,Gastropub,Gastropub
+West Roxbury,42.2792649,-71.1494972,West Garden,4bc4e97e0969a593d72c636e,West Roxbury,1890 Centre St,42.285510525366355,-71.15591558291472,873,Chinese Restaurant,Asian Restaurant
+Roslindale,42.2912093,-71.1244966,Big Bites,50abf8d3e4b0fcc4d6ed208e,Jamaica Plain,10 Walk Hill St,42.2958385292333,-71.1159378687959,873,Pizza Place,Pizza Place
+South Boston Waterfront,42.3547517,-71.0531784,Tatte Bakery & Cafe,5b969de351950e002c1ff3d5,Boston,200 Pier 4 Blvd,42.35196567493636,-71.04324550145874,874,Bakery,Bakery
+Brighton,42.3500971,-71.1564423,Pic-a-Pasta,4b661fd9f964a52006152be3,Brighton,600 Washington St,42.35059084739013,-71.1670688494448,875,Noodle House,Asian Restaurant
+Charlestown,42.3778749,-71.0619957,2nd street cafe,5064bbefe4b00f45c42476e2,Cambridge,,42.37028443682878,-71.06492675691467,878,Café,Café
+West Roxbury,42.2792649,-71.1494972,Sugar Bakery,4af7197ef964a520d20522e3,West Roxbury,1884 Centre St,42.28572426013127,-71.15563452801557,878,Bakery,Bakery
+Allston,42.3554344,-71.1321271,Spring Shabu Shabu,59851bcde179104f72065d54,Boston,,42.362670595226135,-71.13640512813693,879,Hotpot Restaurant,Asian Restaurant
+West Roxbury,42.2792649,-71.1494972,The Real Deal,49cbbbc9f964a52011591fe3,West Roxbury,1882 Centre St,42.285727189409066,-71.15563202826286,879,Deli / Bodega,Deli / Bodega
+West Roxbury,42.2792649,-71.1494972,Recreo Coffee & Roasterie,54e366c6498e89ccb3519bb4,West Roxbury,1876 Centre St,42.2858056530337,-71.15552944221936,881,Café,Café
+West Roxbury,42.2792649,-71.1494972,Westbury Restaurant,4beed4665e7b9c740816b58d,West Roxbury,1836 Centre St,42.286408981419875,-71.15410142373743,881,Breakfast Spot,Breakfast Spot
+West Roxbury,42.2792649,-71.1494972,Himalayan Bistro,4a9dd1d2f964a520853920e3,West Roxbury,1735 Centre St,42.287191513171116,-71.14987815636903,882,Indian Restaurant,Indian Restaurant
+West Roxbury,42.2792649,-71.1494972,Phuket,4b107ba4f964a520687123e3,West Roxbury,1856 Centre St,42.286209351366615,-71.15465424139765,882,Thai Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Bruegger's Bagels,4aa8f642f964a520d05120e3,Brookline,253 Harvard St,42.3413481,-71.1208726,882,Bagel Shop,Bagel Shop
+Fenway,42.3451868,-71.1045987,Boca Grande Taqueria,4a68ba42f964a520e0ca1fe3,Boston,642 Beacon St,42.34912736108843,-71.09527732532376,883,Burrito Place,Mexican Restaurant
+Back Bay,42.35054885,-71.08031131584724,Mumbai Spice,561ed9c7498e149fed3b8610,Boston,251 Massachusetts Ave,42.343865191677914,-71.08618045200511,886,Indian Restaurant,Indian Restaurant
+Allston,42.3554344,-71.1321271,The Breakfast Club,4a842be1f964a520d8fb1fe3,Allston,270 Western Ave,42.36332582163935,-71.1335479824944,886,Diner,Diner
+Brighton,42.3500971,-71.1564423,Dunkin',4b7fe885f964a520b84330e3,Brighton,214 North Beacon St,42.35590296416606,-71.14905965889551,886,Donut Shop,Donut Shop
+South Boston Waterfront,42.3547517,-71.0531784,Ocean Prime,565ceb2d498e1a30aaa779ef,Boston,140 Seaport Blvd,42.3513064,-71.0434575,886,Steakhouse,Steakhouse
+West Roxbury,42.2792649,-71.1494972,Exodus Bagels,5a7efb591fa7634a4cafcd62,Boston,2 McCraw St,42.28641891479492,-71.14473724365234,887,Bagel Shop,Bagel Shop
+West Roxbury,42.2792649,-71.1494972,Tables of Content Catering,4f321dd319836c91c7b79300,Roslindale,2 McCraw St,42.286427,-71.144749,888,Food,
+West Roxbury,42.2792649,-71.1494972,Comella's Restaurant,4b97d931f964a520d61935e3,West Roxbury,1844 Centre St,42.28638914815838,-71.15437788151395,889,Italian Restaurant,Italian Restaurant
+Longwood,42.3415333,-71.1101551,Pho Lemongrass,4a6baae2f964a5208acf1fe3,Brookline,239 Harvard St,42.34113747211485,-71.12095243712517,889,Vietnamese Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Fin's Sushi,4ace0fadf964a52023ce20e3,Boston,636 Beacon St,42.34922102012903,-71.09524573811838,890,Sushi Restaurant,Asian Restaurant
+Roxbury,42.3248426,-71.0950158,Chacho's,4bc38f2274a9a593d4b8d4f6,Boston,,42.33220368747099,-71.09926966042083,891,Pizza Place,Pizza Place
+East Boston,42.3750973,-71.0392173,La Chiva,4b6d2119f964a5200e682ce3,East Boston,259 Bennington St,42.37842345507986,-71.02932590914904,893,Latin American Restaurant,Latin American Restaurant
+West Roxbury,42.2792649,-71.1494972,Eat with Jack O'Neill,560577e1498e98c34a19a592,West Roxbury,1885 Centre St,42.28583525368343,-71.15573394807468,893,American Restaurant,American Restaurant
+West Roxbury,42.2792649,-71.1494972,Rox Diner,4bcafd1b937ca59377b1a892,West Roxbury,1881 Centre St,42.28593216142298,-71.15554277731268,893,Diner,Diner
+Longwood,42.3415333,-71.1101551,Prairie Fire,59ac80ded78f0b6a923f9fe9,Brookline,242 Harvard St,42.341274198126825,-71.1210493547924,896,Pizza Place,Pizza Place
+Roxbury,42.3248426,-71.0950158,Chacho's Pizza and Subs,4f320cd519833175d60b893f,Roxbury Crossing,1502 Tremont St,42.332263,-71.099262,896,Pizza Place,Pizza Place
+West Roxbury,42.2792649,-71.1494972,Thai Spice,4b539451f964a52034a327e3,West Roxbury,1745 Centre St,42.28735788545603,-71.15026194365848,903,Thai Restaurant,Asian Restaurant
+Roslindale,42.2912093,-71.1244966,Checkmate Cafe,4bda1acf63c5c9b605c02268,Roslindale,902 South Street,42.288527751607454,-71.1348558480541,903,Pizza Place,Pizza Place
+West Roxbury,42.2792649,-71.1494972,The Parlour,525051dd11d209611c268066,West Roxbury,,42.28739092923402,-71.14933379341214,904,Pizza Place,Pizza Place
+West Roxbury,42.2792649,-71.1494972,The Squealing Pig,5b3fe8c7835c9a003949bf2a,Boston,1885 Centre St,42.285914,-71.15587,907,American Restaurant,American Restaurant
+West Roxbury,42.2792649,-71.1494972,Los Amigos,4f274922e4b0d10db34b9719,West Roxbury,1743 Centre St,42.287396877599534,-71.15018961482744,907,Mexican Restaurant,Mexican Restaurant
+Longwood,42.3415333,-71.1101551,SUBWAY,4ae09b02f964a520da8021e3,Brookline,238 Harvard St,42.34111639127464,-71.12118589799957,908,Sandwich Place,Sandwich Place
+West Roxbury,42.2792649,-71.1494972,Banh Mi Oi,4fc54e6ce4b0a6258efafba9,West Roxbury,1759 Centre St,42.287400710520814,-71.15052347304554,909,Vietnamese Restaurant,Asian Restaurant
+West Roxbury,42.2792649,-71.1494972,Local 338,59b6ae3f23a2e6344a45e8b9,West Roxbury,1727 Centre St,42.287442,-71.149298,910,Bagel Shop,Bagel Shop
+West Roxbury,42.2792649,-71.1494972,Domino's Pizza,4b6e281bf964a52076ae2ce3,Roslindale,4640 Washington St,42.27501266983473,-71.14004920536445,910,Pizza Place,Pizza Place
+Longwood,42.3415333,-71.1101551,Shaking Crab,5bfa11143d4791002cb85c52,Brookline,250 Harvard St,42.341256,-71.12123000000001,911,Seafood Restaurant,Seafood Restaurant
+Allston,42.3554344,-71.1321271,swissbäkers,50ed893e70432dbf9bd2f8dd,Allston,168 Western Ave,42.36319359538271,-71.12856507075463,912,Bakery,Bakery
+Longwood,42.3415333,-71.1101551,Michael's Deli,4a635877f964a520d3c41fe3,Brookline,256 Harvard St,42.341567,-71.121248,912,Sandwich Place,Sandwich Place
+West Roxbury,42.2792649,-71.1494972,Christo's Pizza,4b0988d6f964a520fb1823e3,Boston,1761 Centre St,42.287414,-71.150758,913,Pizza Place,Pizza Place
+Fenway,42.3451868,-71.1045987,UBurger,4a673715f964a52000c91fe3,Boston,636 Beacon St,42.34935111904963,-71.09497012659261,917,Burger Joint,Burger Joint
+East Boston,42.3750973,-71.0392173,Mario's Restaurant,4cca0fa47965b60c525f838a,Boston,347 Chelsea St,42.378173,-71.028871,917,Italian Restaurant,Italian Restaurant
+South Boston,42.3334312,-71.0494949,Rondo's Sub Shop,4b895efaf964a520c02f32e3,Boston,134 W Broadway,42.340969358992325,-71.05401911256425,918,Sandwich Place,Sandwich Place
+Longwood,42.3415333,-71.1101551,Capital One 360 Cafe - Brookline,52f3bfc411d267260f4ade98,Brookline,1327 Beacon St,42.3418385,-71.1213116,918,Café,Café
+East Boston,42.3750973,-71.0392173,Italian Express Pizzeria,4ac780e4f964a5209fb720e3,Boston,336 Sumner St,42.36722865893777,-71.03579487946774,920,Pizza Place,Pizza Place
+South End,42.34131,-71.0772298,Hidden Kitchen,4acf7498f964a520ced320e3,Boston,535 Albany St,42.33829616963066,-71.06681855566576,920,Diner,Diner
+East Boston,42.3750973,-71.0392173,East Boston Kitchen,5390791f498e4fea48730834,East Boston,331 Sumner St,42.36718886395342,-71.03590307072785,921,Sandwich Place,Sandwich Place
+East Boston,42.3750973,-71.0392173,Mehak Halal - Pakistani & Indian Cuisine,4c31069ba0ced13a690c136e,East Boston,329 Sumner St,42.367132,-71.036017,924,Indian Restaurant,Indian Restaurant
+East Boston,42.3750973,-71.0392173,Pier6 Boston,521b9ce393cd2be84252e8a5,Boston,"1 8th Street, Pier 6",42.373101330246556,-71.05012978004686,924,Seafood Restaurant,Seafood Restaurant
+Fenway,42.3451868,-71.1045987,India Quality Restaurant,4aa59afcf964a520ed4820e3,Boston,484 Commonwealth Ave,42.34842769894056,-71.09424005212057,925,Indian Restaurant,Indian Restaurant
+Allston,42.3554344,-71.1321271,Kayuga,4a18058cf964a52075791fe3,Boston,1030 Commonwealth Ave,42.35178932605236,-71.12201650092109,925,Japanese Restaurant,Asian Restaurant
+Roxbury,42.3248426,-71.0950158,Dunkin',4c767bf0ff1fb60cc6fdf8a7,Roxbury,1926 Columbus Ave,42.3168309,-71.0980807,926,Donut Shop,Donut Shop
+West Roxbury,42.2792649,-71.1494972,Burger King,4bed3acbe3562d7f8daafef8,Roslindale,4594 Washington St,42.27597811274556,-71.13915547728544,927,Fast Food Restaurant,Fast Food Restaurant
+Brighton,42.3500971,-71.1564423,Boston House Of Pizza,4be081ef98f2a593297bc25a,Brighton,169 Chestnut Hill Ave,42.341861724853516,-71.15457153320312,929,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Tin Tin Buffet,4b7c5679f964a520388d2fe3,Brighton,200 North Beacon St,42.35588284149743,-71.14828273168504,930,Chinese Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,Rail Stop,5936c8aa5ba0465675c6321d,Brighton,96 Guest Street,42.35698965928329,-71.14326179206931,932,American Restaurant,American Restaurant
+Allston,42.3554344,-71.1321271,Brown Sugar Café,4ad10c83f964a5203fdc20e3,Boston,1033 Commonwealth Ave,42.35191556905842,-71.12184527582883,932,Thai Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Lee's Burgers,54824389498eee3c9e817bd1,Brookline,1331 Beacon St,42.34197807789905,-71.12146798476937,932,Burger Joint,Burger Joint
+West Roxbury,42.2792649,-71.1494972,Dunkin',4b5d9ad4f964a520306329e3,Roslindale,4610 Washington St,42.27521091895274,-71.13956078341005,934,Donut Shop,Donut Shop
+Fenway,42.3451868,-71.1045987,IHOP,4e4c3aa9bd413c4cc667d126,Brookline,173 Amory St,42.3503303527832,-71.11360931396484,936,Breakfast Spot,Breakfast Spot
+Brighton,42.3500971,-71.1564423,Gyro City,59b08df62ebb34528fa9ac89,Brighton,181 Chestnut Hill Ave,42.341784999999994,-71.154625,937,Greek Restaurant,Greek Restaurant
+Mattapan,42.2723208,-71.0869953,Dunkin',4e1b6afe2fb6a7357497422a,Boston,895 Morton St,42.280479067247946,-71.08414529141902,938,Donut Shop,Donut Shop
+West Roxbury,42.2792649,-71.1494972,Nick's Pizza and Seafoods,4bbd012a8a4fb7139f773c9d,Boston,4590 Washington St,42.276255,-71.13883100000001,940,Pizza Place,Pizza Place
+Roxbury,42.3248426,-71.0950158,Silver Slipper Restaurant,4c7cf03a3e90a1cda3b943be,Roxbury,2387 Washington St,42.329076567768944,-71.08512820692255,940,Diner,Diner
+Back Bay,42.35054885,-71.08031131584724,Oakleaf Cake,526e884911d283eca6c6e732,Boston,12 Westland Ave,42.343460845254114,-71.08655501296994,941,Bakery,Bakery
+Brighton,42.3500971,-71.1564423,Fuel America,502bdc76e4b07c0c586634f9,Brighton,152 Chestnut Hill Ave,42.341760805222506,-71.15429910216953,944,Café,Café
+Longwood,42.3415333,-71.1101551,Curry House,4ac63050f964a52022b320e3,Brookline,1335 Beacon St,42.3417886,-71.1216439,945,Indian Restaurant,Indian Restaurant
+Brighton,42.3500971,-71.1564423,Momogoose,5316216a498e35e8101b7f0b,Boston,,42.356146541142195,-71.14835903022916,946,Food Truck,Food Truck
+Brighton,42.3500971,-71.1564423,Energize,57361ee3498e10dfa4e8d481,Brighton,618 Washington St,42.350444,-71.167959,948,Vegetarian / Vegan Restaurant,Vegetarian / Vegan Restaurant
+South Boston,42.3334312,-71.0494949,Olympic House of Pizza,4b75e672f964a520392d2ee3,Boston,655 E Broadway,42.33555711075726,-71.03833421694219,948,Greek Restaurant,Greek Restaurant
+Fenway,42.3451868,-71.1045987,Boston House of Pizza,4b2a7821f964a520c2a924e3,Brookline,173 Amory St,42.35028103759085,-71.11386358389593,950,Pizza Place,Pizza Place
+Allston,42.3554344,-71.1321271,Taqueria El Barrio,5d51ed7846156b0008620aa3,Boston,1022 Commonwealth Ave,42.351483,-71.121865,951,Taco Place,Mexican Restaurant
+Brighton,42.3500971,-71.1564423,Moogy's Sandwich Shop,43f70aabf964a520b62f1fe3,Brighton,154 Chestnut Hill Ave,42.34166888515483,-71.15441408338803,952,Sandwich Place,Sandwich Place
+Roxbury,42.3248426,-71.0950158,Fasika Cafe,5b8ac3b53731ee0039586c56,Boston,51 Roxbury St,42.32971954345703,-71.08545684814453,955,Café,Café
+Brighton,42.3500971,-71.1564423,IHOP,417d9380f964a520d11d1fe3,Brighton,1850 Soldiers Field Road,42.35867883752733,-71.15721495542303,957,Breakfast Spot,Breakfast Spot
+Mission Hill,42.33255965,-71.10360773640765,Dunkin',4e4ddae9bd4101d0d79cd875,Boston,249 Ruggles St,42.33805878513796,-71.09464956199956,958,Donut Shop,Donut Shop
+Charlestown,42.3778749,-71.0619957,Corporate Cafe,4d91dfd49acaa1432a39f1f0,Boston,500 Rutherford Ave,42.38077300246692,-71.0729900154122,959,Café,Café
+South Boston,42.3334312,-71.0494949,Doughboy Donuts and Deli,4af1a994f964a520f5e121e3,Boston,220 Dorchester Ave,42.34010223141626,-71.05687514479857,959,Donut Shop,Donut Shop
+Brighton,42.3500971,-71.1564423,McDonald's,4a46cae5f964a5207ea91fe3,Brighton,1750 Soldiers Field Rd,42.358658946575694,-71.15486877587733,961,Fast Food Restaurant,Fast Food Restaurant
+Charlestown,42.3778749,-71.0619957,Style Cafe,4b8192eaf964a520ffaf30e3,Charlestown,197 8th St,42.373923373680164,-71.05159489477407,961,Café,Café
+Mattapan,42.2723208,-71.0869953,La Belle Capoise,4f32add319836c91c7ef25a5,Mattapan,884 Morton St,42.280856,-71.084706,968,Food,
+South End,42.34131,-71.0772298,Cinquecento,50ac0bebe4b01e1ea914231f,Boston,500 Harrison Ave.,42.34211282213632,-71.0655070417275,968,Italian Restaurant,Italian Restaurant
+Mattapan,42.2723208,-71.0869953,No 1 Restaurant,4f32126319833175d60db5af,Mattapan,914 Morton St,42.280556,-71.08314,970,Food,
+Brighton,42.3500971,-71.1564423,Bento,513f60b9e4b0524657d3223c,Brighton,160 Chestnut Hill Ave,42.341535,-71.15422099999999,970,Asian Restaurant,Asian Restaurant
+Longwood,42.3415333,-71.1101551,Oath Pizza,58eeae35e9dad108d738ab95,Brookline,276 Harvard St,42.34246850823415,-71.12188991558024,971,Pizza Place,Pizza Place
+Allston,42.3554344,-71.1321271,Ariana Restaurant,4c295e84ce3fc928a7bb6e88,Boston,384 Western Ave,42.362593,-71.138953,974,Afghan Restaurant,Afghan Restaurant
+Mattapan,42.2723208,-71.0869953,Diwali,50a197d1e4b091ce331051a6,Boston,,42.280037,-71.081372,975,Indian Restaurant,Indian Restaurant
+Longwood,42.3415333,-71.1101551,Paris Creperie,4a1b1a86f964a520d07a1fe3,Brookline,278 Harvard St,42.34257362074763,-71.1219396682217,976,Creperie,Creperie
+Roxbury,42.3248426,-71.0950158,Rizzo's Pizza,4a8b4f1ff964a520200c20e3,Jamaica Plain,347 Centre St,42.322571195341894,-71.10648575904872,977,Pizza Place,Pizza Place
+Longwood,42.3415333,-71.1101551,Osaka Japanese Sushi and Steakhouse,4dc6cc3c887717c88044f562,Brookline,14 Green St,42.34308349868825,-71.12188606014226,980,Japanese Restaurant,Asian Restaurant
+Fenway,42.3451868,-71.1045987,Cafe 472,4dc899f41f6e936efe483507,Boston,472 Commonwealth Ave,42.34872665954257,-71.0936835840078,980,Café,Café
+Dorchester,42.2973205,-71.0744952,Lorenz Island Kuisine,4a0dc9a6f964a52098751fe3,Dorchester Center,657 Washington St,42.28883522100502,-71.07128720242251,980,Caribbean Restaurant,Caribbean Restaurant
+Brighton,42.3500971,-71.1564423,Fiorella's Express,4bf71e99abdaef3bab6ba184,Brighton,2 Tremont St,42.35059482463168,-71.1683371339448,980,Italian Restaurant,Italian Restaurant
+South Boston,42.3334312,-71.0494949,The Paramount,4ee382d46da14e7d98c97115,Boston,667 E Broadway,42.3355166338307,-71.03788296643188,983,Diner,Diner
+Brighton,42.3500971,-71.1564423,"Pizza, Etc",4b0dd479f964a520f35023e3,Brighton,429 Faneuil St,42.351110932000665,-71.16832042822551,983,Pizza Place,Pizza Place
+Allston,42.3554344,-71.1321271,T. Anthony's Pizzeria,3fd66200f964a520e0eb1ee3,Boston,1016 Commonwealth Ave,42.35164460071951,-71.12132070612664,984,Pizza Place,Pizza Place
+Jamaica Plain,42.3098201,-71.1203299,JPizle Kitchen,4b5351a0f964a520229727e3,Jamaica Plain,536 Centre St,42.31702426531028,-71.11337072063378,985,American Restaurant,American Restaurant
+Mattapan,42.2723208,-71.0869953,Morton Seafood And pizza,4e482db3c65bd6ffbea92e61,Boston,892 Morton Street,42.280885,-71.08395300000001,985,American Restaurant,American Restaurant
+Brighton,42.3500971,-71.1564423,Greenhouse Kitchen Italian Restaurant,53dfbf37498e413b471b06a0,Brighton,435 Faneuil St,42.3512109,-71.1684039,991,Pizza Place,Pizza Place
+East Boston,42.3750973,-71.0392173,Taquería Jalisco,4b5c8629f964a520563429e3,Boston,293 Bennington St,42.378841586091724,-71.02826574357424,992,Mexican Restaurant,Mexican Restaurant
+Brighton,42.3500971,-71.1564423,Sips n' Licks,4bfea5c6369476b02f9c8c1f,Boston,433 Faneuil St,42.351214,-71.168425,993,Café,Café
+Longwood,42.3415333,-71.1101551,OTTO,4f74e0abe4b0e7c6440a28cd,Brookline,289 Harvard St,42.3428907,-71.12210689999999,994,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,Thai North Restaurant,4de188812271bfb844869ffb,Brighton,433 Faneuil St,42.351126,-71.168456,994,Thai Restaurant,Asian Restaurant
+Allston,42.3554344,-71.1321271,City Convenience,4ffc3b32582fbc3cd82d693c,Boston,275 Babcock St,42.352928161621094,-71.12052154541016,994,Snack Place,Snack Place
+Roxbury,42.3248426,-71.0950158,Old Havana,52d08725498e40b08c4c56d5,Jamaica Plain,349 Centre St,42.32258678927882,-71.10671433705392,995,Cuban Restaurant,Caribbean Restaurant
+Fenway,42.3451868,-71.1045987,Pho Common,5876ca2376f2ca2ec3393bba,Boston,468 Commonwealth Ave,42.34883175561188,-71.09354157009206,996,Vietnamese Restaurant,Asian Restaurant
+Mattapan,42.2723208,-71.0869953,Pit Stop BBQ,4bf84bef8d30d13a50840018,Mattapan,888A Morton St,42.28101943364305,-71.08414185916195,996,BBQ Joint,BBQ Joint
+Allston,42.3554344,-71.1321271,The Flatbread Company,5a11bae9e97dfb10df3682be,Brighton,76 Guest St,42.35692705323148,-71.14409916040083,998,Pizza Place,Pizza Place
+Back Bay,42.35054885,-71.08031131584724,Woody's Grill & Tap,40b28c80f964a520faf71ee3,Boston,58 Hemenway St,42.344811154484404,-71.08964439058013,998,Pizza Place,Pizza Place
+Brighton,42.3500971,-71.1564423,dates and olives,55f43443498e33bde91d8e04,Boston,160 Chestnut Hill Ave,42.34126230997018,-71.15437138185371,998,Mediterranean Restaurant,Mediterranean Restaurant

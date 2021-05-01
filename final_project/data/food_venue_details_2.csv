@@ -1,38 +1,495 @@
 ,Venue ID,Venue Name,Venue Rating,Venue Rating Signals,Venue Price Tier,Venue Price Message
-0,4a91e4f7f964a520421c20e3,Pho Pasteur,7.8,432,1,Cheap
-1,4a79dae9f964a520cde71fe3,My Thai Vegan Cafe,7.6,206,2,Moderate
-2,49c90f9bf964a5202d581fe3,Al's South Street Cafe,7.6,135,1,Cheap
-3,4c7c06403badb1f7ea9f5654,Dumpling Cafe,7.6,341,1,Cheap
-4,4aaacac0f964a5206e5720e3,New Saigon Sandwich,7.4,34,2,Moderate
-5,4c91546ab641236ab6a68079,Q Restaurant,8.2,281,2,Moderate
-6,4c29032ace3fc928e6156e88,SUBWAY,6.4,5,1,Cheap
-7,4e4be732e4cde30b72898e6d,Irashai Sushi Teriyaki,7.4,103,1,Cheap
-8,4ab90e73f964a520dd7d20e3,Mei Sum Bakery,7.6,19,1,Cheap
-9,59a5e22265cdf802902711fd,Boston Pocket Deli,8.4,38,1,Cheap
-10,4b5e322ff964a520198329e3,Papa Gino's,6.7,3,2,Moderate
-11,3fd66200f964a5202fec1ee3,Joe's American Bar & Grill,7.9,548,2,Moderate
-12,4bd471196798ef3b1c96618d,River Grille Restaurant & Cafe,7.2,9,1,Cheap
-13,4d4ea978a8fba143fd6b461a,Dunkin',7.3,20,1,Cheap
-14,4aee268ff964a52086d221e3,Boston Kitchen Pizza,7.2,81,1,Cheap
-15,3fd66200f964a52058ec1ee3,Stephanie's On Newbury,7.6,581,3,Expensive
-16,4c1d27a663750f4731c7b767,SUBWAY,6.5,5,1,Cheap
-17,4a5a9d17f964a520a6ba1fe3,Bova's Bakery,8.6,318,2,Moderate
-18,53c069b8498e1f34dc3a75a9,Bishop's Mediterranean,7.4,18,2,Moderate
-19,4b11cf55f964a520278523e3,Giacomo's,8.4,312,2,Moderate
-20,5c2f8ffcb25fee002b84e590,Tatte Bakery & Cafe,9.1,67,1,Cheap
-21,4a5a8f01f964a52090ba1fe3,Panza,8.1,181,2,Moderate
-22,547fb698498ee27c6140764c,Monica's Mercato,7.7,41,1,Cheap
-23,40b28c80f964a520d4f71ee3,Florentine Cafe,7.7,104,3,Expensive
-24,4ace9d7ff964a52072d120e3,Cantina Italiana,8.1,127,2,Moderate
-25,527bcd2b11d2760259508044,Dirty Water Dough Company,7.6,111,1,Cheap
-26,4a777beff964a520a6e41fe3,Viva Burrito,7.4,78,1,Cheap
-27,4885ecf8f964a52040511fe3,Caffe Dello Sport,8.4,54,1,Cheap
-28,522d039611d2b014b87950cf,Locale,8.9,86,2,Moderate
-29,4ab8fd1ff964a5208c7d20e3,Hong Kong Eatery,7.5,85,1,Cheap
-30,4b60d993f964a5208dfd29e3,Strega Ristorante,8.4,114,3,Expensive
-31,57d0a299498eb9d6942d3ff5,Florina,8.8,14,1,Cheap
-32,4a42d407f964a52046a61fe3,O Ya,8.5,182,4,Very Expensive
-33,4afc827ef964a520702322e3,Parziale's Bakery,8.0,19,1,Cheap
-34,523cde88498edcd74cf448bd,Bangkok Bistro,5.7,26,2,Moderate
-35,4aa2e6e4f964a520924220e3,La Famiglia Giorgio's,8.1,199,3,Expensive
-36,4b466becf964a520612026e3,The Daily Catch,8.5,205,2,Moderate
+0,57df24c0498e90b0a1084a1b,Luke's Lobster,7.8,69.0,3.0,Expensive
+1,4b08340cf964a520370623e3,Domino's Pizza,6.6,1.0,1.0,Cheap
+2,589b46b63bd4ab27b4a897aa,Chicken & Rice Guys,7.4,45.0,2.0,Moderate
+3,5605cfde498e93568a705014,Whole Heart Provisions,9.0,69.0,2.0,Moderate
+4,4f285b15e4b0dbe3eb65b802,Longwood Galleria,6.0,55.0,2.0,Moderate
+5,4ad7b14ff964a520b90d21e3,@Union,7.7,129.0,2.0,Moderate
+6,4e6104d38877954de7927263,Sakura Japan (Longwood Galleria),,,2.0,Moderate
+7,4eb477aee5fa17fc865c74fe,Sepal,7.9,9.0,1.0,Cheap
+8,5bcfbe68603d2a0039d20f11,Alcove,8.4,32.0,2.0,Moderate
+9,4bd9c72f2e6f0f475cf00b08,Dough East Boston,7.7,20.0,1.0,Cheap
+10,4dca8b2b814ddf0979210528,Yawkey Cafeteria (DFCI),6.3,9.0,1.0,Cheap
+11,5d2fa57c4318c90008b6cbbb,Black Lamb,7.3,16.0,2.0,Moderate
+12,5a612b721f7440529dd939ca,Cava,8.6,20.0,2.0,Moderate
+13,54ebdb95498e4a516b5f74f3,Brewer's Fork,9.3,179.0,3.0,Expensive
+14,4b83e0caf964a520d91431e3,Longwood Grille and Bar,6.3,20.0,2.0,Moderate
+15,45a152ecf964a520e0401fe3,Union Oyster House,8.2,1022.0,3.0,Expensive
+16,5ada1f45d807ee19fc27d98a,Spyce,8.0,49.0,2.0,Moderate
+17,59a4cf7775cb8c04970fd00b,Tea and Treats,,,1.0,Cheap
+18,5a74fddc59c4236fccdcd6a0,Madera 83,,,3.0,Expensive
+19,40b28c80f964a5200bf81ee3,FiRE + iCE Boston,7.8,383.0,2.0,Moderate
+20,4e4c36afbd41b9fca4317d5d,Dunkin',6.4,2.0,1.0,Cheap
+21,504e504ce4b0be6c61455a6a,Falafel King,8.0,110.0,1.0,Cheap
+22,4acac4adf964a52011c320e3,Real Deal Deli,7.8,57.0,2.0,Moderate
+23,4b11c019f964a520d08323e3,Figs,8.2,73.0,1.0,Cheap
+24,4c9252ae104a9521d1aaf2a9,B.GOOD,7.6,134.0,1.0,Cheap
+25,5b60cae5b9ac38002cd42c3c,by CHLOE.,7.8,25.0,2.0,Moderate
+26,4ee2e19cd3e34ebcee5d7b8d,Thornton's Fenway Grille,8.2,165.0,2.0,Moderate
+27,5dc05702142eea000879ece6,Shake Shack,7.9,1.0,1.0,Cheap
+28,49fe26e5f964a520786f1fe3,JP Seafood Cafe,7.5,65.0,3.0,Expensive
+29,59d7fc5986f4cc7f7dc57b8c,Eventide,7.8,70.0,3.0,Expensive
+30,5c95073698fbfc002c2847c1,Tatte Bakery & Cafe,8.5,42.0,1.0,Cheap
+31,57717543498e85d8f53b30ed,Santouka Ramen,8.6,126.0,,
+32,4a7f4e73f964a520a4f31fe3,Seiyo Sushi & Wine Shop,8.5,57.0,2.0,Moderate
+33,565fe149498e49ae16d0ccff,sweetgreen,8.7,101.0,1.0,Cheap
+34,4a562b41f964a5209db41fe3,YoMa Burmese Restaurant,7.6,48.0,1.0,Cheap
+35,59e7dc77135b394bb3a22e11,Lolita,9.1,124.0,1.0,Cheap
+36,4c730ce18efc3704e0b4147d,Ugi's Pizza,,,1.0,Cheap
+37,43e9e7eff964a520202f1fe3,Toro Restaurant,9.0,665.0,3.0,Expensive
+38,4a38b860f964a520069f1fe3,Mike's City Diner,8.0,200.0,1.0,Cheap
+39,4bf18c843506ef3bea63bd22,Saus Restaurant,8.9,511.0,1.0,Cheap
+40,50b26fbfe4b0dabb5903ff41,Neighborhood's Coffee & Crepes,8.0,173.0,1.0,Cheap
+41,4ae083dff964a520d57f21e3,Legal Sea Foods,7.9,294.0,3.0,Expensive
+42,58d5a4a713af1c20e21f6b81,bb.q chicken,7.9,9.0,1.0,Cheap
+43,4aac01bdf964a5208d5b20e3,Billy's Sub Shop,7.6,58.0,1.0,Cheap
+44,4baf98a8f964a520800e3ce3,Lithuanian Citizens Association,,,2.0,Moderate
+45,4b35a928f964a520742e25e3,Au Bon Pain,7.7,32.0,1.0,Cheap
+46,4e83c45ebe7b87d6abc12316,Rod Dee 2,7.4,74.0,1.0,Cheap
+47,4abe4eaaf964a520968c20e3,Al's State Street Cafe,8.4,148.0,1.0,Cheap
+48,4be5c478bcef2d7f1a4a04e5,Supreme house of pizza,6.0,11.0,1.0,Cheap
+49,5796451b498eb141ce6d7a05,Basho Express,7.7,8.0,2.0,Moderate
+50,4bb4b379bc82a5935fb03e72,Basho Japanese Brasserie,6.7,138.0,2.0,Moderate
+51,4bc230d6abf49521d923c293,Dragon Chef,,,1.0,Cheap
+52,4c69789e0e98a59346872459,Brigham & Women's Cafeteria,6.3,14.0,1.0,Cheap
+53,4c01f3bffd082d7f49ce0785,The Best Sausage Co.,6.7,8.0,1.0,Cheap
+54,4e0a4f951495b0bc65ed25eb,El Pelon Taqueria,8.7,483.0,1.0,Cheap
+55,518d7514498e8e96ec3e0a7d,Fiouna,8.3,54.0,2.0,Moderate
+56,5727d760498ef0f9cea07693,Casa Verde,7.4,47.0,1.0,Cheap
+57,4db5bd326a23c31a0330cf01,The Salty Pig,8.1,566.0,2.0,Moderate
+58,40b28c80f964a5209ff71ee3,Black Rose,8.2,511.0,2.0,Moderate
+59,4b2d4d10f964a52093d324e3,Equator Restaurant,7.9,45.0,2.0,Moderate
+60,532b8c38498eb58ad1b74594,Gyro City,8.2,82.0,1.0,Cheap
+61,4f340751e4b0dd592b396956,Cha Cha Cha,7.8,21.0,1.0,Cheap
+62,595ac3248e886a485c48352c,Bennett's Sandwich Shop,7.2,24.0,1.0,Cheap
+63,5bd8f4b4f709c1002cc147cd,Well Coffeehouse,7.8,9.0,1.0,Cheap
+64,5415faa3498e2ddcc323f9d0,Noodle Barn,7.6,53.0,2.0,Moderate
+65,4c59fc4667ac0f4727af054c,Domino's Pizza,6.5,0.0,1.0,Cheap
+66,5137f8ac90e7a3100c46cbb5,il Panino Cafe and Grill,6.0,15.0,1.0,Cheap
+67,4e1b6aef2fb6a735749740f8,Dunkin',6.4,3.0,1.0,Cheap
+68,5d8dc5081e15aa0007ef6c58,Rochambeau Café,7.8,15.0,2.0,Moderate
+69,554d49f3498e2d8a98c6b458,Tasty Burger,7.6,159.0,1.0,Cheap
+70,49c65e27f964a5203a571fe3,Twin Donuts,7.6,108.0,1.0,Cheap
+71,4b9835ddf964a520733435e3,Teranga,7.8,47.0,2.0,Moderate
+72,4b897a06f964a520fc3932e3,University Grill,8.0,23.0,2.0,Moderate
+73,536e68ad498edb85c3359a4a,Farmer Horse Coffee,7.6,63.0,1.0,Cheap
+74,50ef8d5c8acaed20c6c6c271,Shanti Taste of India Roslindale,7.3,27.0,2.0,Moderate
+75,4c50b891875fef3b93dd6dd1,Tasty Burger,8.9,881.0,2.0,Moderate
+76,515e056be4b056e185ff11e3,Regina Pizzeria,7.6,44.0,1.0,Cheap
+77,3fd66200f964a5200eec1ee3,The Capital Grille,9.2,327.0,4.0,Very Expensive
+78,50a27483e4b0baa241f3feb4,Citra,,,1.0,Cheap
+79,5efcee21f2e699000874d8ce,Tatte Bakery & Cafe,,,1.0,Cheap
+80,4b12df8af964a520db8f23e3,Boston Chipyard,7.8,35.0,1.0,Cheap
+81,5cd0c7b9d9a6e6002bb10adc,Eddie V's Prime Seafood,7.7,6.0,3.0,Expensive
+82,5cf1eff8fb8e59002c796001,Sweet Rice,,,2.0,Moderate
+83,4b031148f964a5206b4c22e3,Flour Bakery & Cafe,9.0,686.0,1.0,Cheap
+84,5a189a9d6dcf042313c52cb4,Tuscan Kitchen,7.9,29.0,4.0,Very Expensive
+85,4ae63145f964a5207aa521e3,Angela's Café,8.3,132.0,2.0,Moderate
+86,4f049c5d00399761c77a111b,Zo,8.5,65.0,1.0,Cheap
+87,5be65689270ee7002c0908a0,Kamakura,7.8,14.0,2.0,Moderate
+88,5cdb28c2031320002c88ac2a,Which Wich,7.4,3.0,1.0,Cheap
+89,57461cff498ebc1f90ae93c3,Tapestry,7.3,46.0,2.0,Moderate
+90,4a848940f964a520e4fc1fe3,Noodle Street,6.8,84.0,2.0,Moderate
+91,4c61f765fa7bc928782f0d27,Vivians Cafe,,,1.0,Cheap
+92,4f32618119836c91c7d22fab,Green Mountain,,,,
+93,565d0260498eef076830b1d2,Max & Leo's Fenway (@ Game On!),6.7,8.0,1.0,Cheap
+94,4b88ca1df964a520840d32e3,Hoy Hing,,,1.0,Cheap
+95,56d3ddc0cd10791293629905,Wok n Talk,,,2.0,Moderate
+96,4bd1e0e941b9ef3b56d0fce5,Billy's Texas BBQ,,,2.0,Moderate
+97,4bcb4340937ca5935f2aa992,Le Foyer Baker,7.5,16.0,1.0,Cheap
+98,55995a86498e9e8cec3152d3,Banyan Bar & Refuge,8.4,168.0,3.0,Expensive
+99,4b131761f964a520fe9323e3,Papa John's Pizza,7.1,12.0,1.0,Cheap
+100,591b70fbe65d0c73e3cd0b1c,Bar Lyon,8.2,13.0,3.0,Expensive
+101,4aae72c8f964a520206220e3,Hidyan Cafe,7.6,23.0,1.0,Cheap
+102,4d9dbd6f83f36ea87476be94,Hoshi Ya Sushi,7.5,26.0,2.0,Moderate
+103,4d07a16ba26854814cb8c7bd,Oyster Bar,7.9,27.0,3.0,Expensive
+104,5698e4dd498efe9f1c72e385,The Friendly Toast,8.8,281.0,1.0,Cheap
+105,5660ddb1498e4dd40ca775ce,State Street Provisions,8.4,160.0,2.0,Moderate
+106,4f52746ce4b0754d579fefd6,Sherman's Sea Shanty,,,3.0,Expensive
+107,4e4c335fbd413c4cc667acc2,Atrium Cafe,,,1.0,Cheap
+108,4a9c631cf964a520023720e3,wagamama,7.7,281.0,2.0,Moderate
+109,4bc510d422c676b0c89096d3,Boston Chowda Company,8.3,207.0,1.0,Cheap
+110,43d55728f964a520422e1fe3,Mistral,9.0,265.0,4.0,Very Expensive
+111,5a035f63a9e40262ed5f85bf,sweetgreen,7.6,7.0,1.0,Cheap
+112,4a7654cbf964a520d8e21fe3,Legal Sea Foods,8.3,713.0,2.0,Moderate
+113,4c6dcd106af58cfac1ae8a17,Citizen Public House & Oyster Bar,8.7,312.0,3.0,Expensive
+114,49cf773ef964a520aa5a1fe3,The Butcher Shop,9.0,201.0,3.0,Expensive
+115,4a4020aef964a52051a41fe3,Douzo,8.4,373.0,3.0,Expensive
+116,572032bb38fa254eeba9b51b,Kava Neo-Taverna,8.9,99.0,2.0,Moderate
+117,4b6658f6f964a520bd1e2be3,Simco's,7.5,25.0,1.0,Cheap
+118,4b300a74f964a520f5f424e3,Stir,8.1,18.0,2.0,Moderate
+119,49fef982f964a520bf6f1fe3,South End Buttery,8.7,520.0,3.0,Expensive
+120,513bb5aa72da99bd5074bb57,Pastoral - Artisan Pizza + Kitchen and Bar,8.2,245.0,1.0,Cheap
+121,547f82cf498e43ec6e9a6d52,The Elephant Walk,8.0,54.0,2.0,Moderate
+122,4b8abdeff964a520c87d32e3,Bertucci's,7.7,42.0,4.0,Very Expensive
+123,519ce3ee498e83a4b2ccac75,Cheese Boy,,,1.0,Cheap
+124,45016d59f964a520c3381fe3,B&G Oysters,8.6,332.0,4.0,Very Expensive
+125,4fb8fc10e4b02380cbd97a0c,Dash Cafe,7.5,27.0,1.0,Cheap
+126,4e4ddba0bd4101d0d79ce834,Dunkin',6.3,9.0,1.0,Cheap
+127,4c82bc14e602b1f78ba09f7a,La Sultana Bakery,6.2,9.0,1.0,Cheap
+128,4b38f541f964a5200a5325e3,Cactus Grill,7.2,32.0,1.0,Cheap
+129,4b53579df964a5202d9827e3,Broadways Best,7.1,16.0,2.0,Moderate
+130,4b02d18ff964a520134a22e3,Boloco Children's,6.3,56.0,1.0,Cheap
+131,49fe266df964a520776f1fe3,City Feed & Supply,8.7,197.0,1.0,Cheap
+132,5223acba11d230e754f24e8c,Pavement Coffeehouse,7.9,198.0,1.0,Cheap
+133,49fe3dccf964a520856f1fe3,The Purple Cactus,6.8,73.0,1.0,Cheap
+134,5ab03f5fa4c39c66a8bf97f2,Xiang Yu China Bistro,,,1.0,Cheap
+135,4bb11597f964a52005793ce3,Nud Pob Thai Cuisine,7.7,79.0,2.0,Moderate
+136,49d67623f964a520d25c1fe3,Beehive,8.9,1054.0,2.0,Moderate
+137,528ed6f311d2782026f3db76,Seoul Soulongtang,7.9,79.0,2.0,Moderate
+138,5b507e58d0a149002c3bc9cf,Little Dipper,,,1.0,Cheap
+139,4bcbe3b8937ca593636aaa92,Golden House,,,1.0,Cheap
+140,4d41f083aed776eb837d6997,Domino's Pizza,6.5,2.0,1.0,Cheap
+141,3fd66200f964a52052ec1ee3,Silvertone,7.3,344.0,2.0,Moderate
+142,4ba647d0f964a520fb4139e3,Scoozi,7.2,105.0,2.0,Moderate
+143,4bcc74e70687ef3ba63adfcc,The Gallows,8.4,499.0,3.0,Expensive
+144,57ec47e0498e389e490041cc,Blaze Pizza,8.7,79.0,1.0,Cheap
+145,53b00fcd498e9fddf5a49119,South End Buttery,7.8,61.0,1.0,Cheap
+146,553a1f4a498e7eb8129c7b4a,Beta Burger,5.6,12.0,1.0,Cheap
+147,58fd1794e96d0c3bd1083d48,Flour Bakery+Cafe,9.2,63.0,1.0,Cheap
+148,592753b63abcaf2166bcdb94,753 South,8.3,11.0,2.0,Moderate
+149,4bbdff0b8a4fb71303a73d9d,Taco Mex Restaurant,7.1,46.0,2.0,Moderate
+150,4c0f896f2466a593b5b87a21,St Elizabeth Hospital Cafeteria,,,,
+151,4aec58d2f964a52035c621e3,Thornton's Restaurant & Cafe,8.0,198.0,1.0,Cheap
+152,548b2cb8498e0544eb2c529a,Maverick Marketplace Cafe,8.4,48.0,1.0,Cheap
+153,5be1b39ed552c7002ce8e478,Eagle Hill Cafe,,,1.0,Cheap
+154,4a9161adf964a520071a20e3,Dunkin',7.5,31.0,1.0,Cheap
+155,5019ce1be4b09ace5bf15754,Sun pizza,,,1.0,Cheap
+156,51ab931a498e2fe97fef064d,Tenoch Móvil Food Truck,7.1,21.0,1.0,Cheap
+157,55771dd2498ee58e1190b2d4,Committee,8.3,260.0,2.0,Moderate
+158,4a4c06ddf964a520f6ac1fe3,Sportello,8.4,312.0,3.0,Expensive
+159,581cb445cb54576c366ee56f,Miyuki Sushi,,,2.0,Moderate
+160,4a81f5cdf964a52021f81fe3,Same Old Place,7.6,32.0,1.0,Cheap
+161,57d42bff498e26f21bd3f4b3,sweetgreen,8.2,15.0,1.0,Cheap
+162,4c9160641adc37047bb42fd1,AK's Take-Out & Delivery,,,1.0,Cheap
+163,5ce9e86e3731ee002b84d1cc,Zuma,8.0,18.0,2.0,Moderate
+164,58b364593bd4ab7454103d28,Chilacates,8.6,32.0,1.0,Cheap
+165,4ca520b197c8a1cdf64264a5,Stash's Pizza,6.4,16.0,1.0,Cheap
+166,4ca5d2a7931bb60cb1128de2,Diane's Bakery,,,1.0,Cheap
+167,4af0ba48f964a5209ade21e3,Delfino’s,8.7,44.0,2.0,Moderate
+168,57a279d5498ed4f80fc33c20,Fuji at Ink Block,7.9,55.0,2.0,Moderate
+169,58fad42942d8c20d59229890,ReelHouse,7.9,68.0,2.0,Moderate
+170,591baab3588e365cdf1f7e05,Lola 42,8.0,32.0,3.0,Expensive
+171,512783dbe4b02b2dd5d499be,Market Cafe,7.8,8.0,1.0,Cheap
+172,5134c265183fad24ecee7fb6,Boston Chops South End,8.1,183.0,3.0,Expensive
+173,4ba8d811f964a5207bf339e3,Menton,8.7,134.0,4.0,Very Expensive
+174,4dfd2190ae6033b2a477250f,Yeli's Coffee Shop,7.6,12.0,2.0,Moderate
+175,4de19091d22d2a4ecdb18204,Red Lantern,7.0,297.0,3.0,Expensive
+176,57b32f53498ebbf559439ce9,Shake Shack,8.0,122.0,1.0,Cheap
+177,4a53a94df964a52093b21fe3,Shanghai Gate,7.4,65.0,2.0,Moderate
+178,5dcc35d49acef00007ac8f22,Tatte Bakery & Cafe,8.7,10.0,1.0,Cheap
+179,4d90bac6d00a6ea83661ea4f,Ashur Restaurant,6.8,25.0,1.0,Cheap
+180,50a27c9ef136c9ddaa9f777d,Piperi Mediterranean Grill,7.4,84.0,1.0,Cheap
+181,4c7ede33fb13a1cdd0089fa4,Lucy Ethiopian Cafe,7.6,79.0,2.0,Moderate
+182,4c17f7f21436a593b6a38c75,Droubi Bakery,,,1.0,Cheap
+183,4b2c3124f964a52072c324e3,Cappy's Pizzeria,,,1.0,Cheap
+184,4a4eaeb5f964a520edae1fe3,Oriental House,,,1.0,Cheap
+185,4f6d2d4ae4b032eb62d6c344,Cafe Beirut,7.3,26.0,1.0,Cheap
+186,53ef686c498e5b95381e7cc4,Caffé Bene,8.1,130.0,1.0,Cheap
+187,53b5e250498e09de3de4c3e2,Legal Oysteria,7.6,62.0,3.0,Expensive
+188,4a5254b2f964a52086b11fe3,SUBWAY,6.4,3.0,1.0,Cheap
+189,5850370a3493551a7a08e0b9,Frank Anthony's Gourmet Market,7.8,10.0,1.0,Cheap
+190,4ad365bcf964a5202ae420e3,The Sausage Guy,6.6,9.0,1.0,Cheap
+191,4f325e6719836c91c7d0f9ba,Kenan J and C Restaurant,,,,
+192,55ba9599498ee671eb9076da,Inna's Kitchen,7.7,18.0,2.0,Moderate
+193,5c76c7c58194fc002c4d793c,Shaking Seafood,,,3.0,Expensive
+194,587d382d52a05106f2c493a7,Publico Street Bistro,8.1,43.0,3.0,Expensive
+195,5b7d9b6e270ee7002cd68ca7,bartaco Seaport,8.7,55.0,1.0,Cheap
+196,4b7c79ebf964a520ba952fe3,Rosticeria Cancun,,,1.0,Cheap
+197,59b48cbf73fe25689b123946,Boston Chops,7.5,26.0,4.0,Very Expensive
+198,55b2ba61498e454673a15379,Hojoko,8.4,211.0,2.0,Moderate
+199,4e21e51c45dd950bb02a1f11,McDonald's,5.4,4.0,1.0,Cheap
+200,49fb126bf964a520146e1fe3,Picco,8.9,520.0,2.0,Moderate
+201,4ab40594f964a520876f20e3,Super 88 Market Food Connection,8.3,129.0,,
+202,4beee2fde8c3c92881509992,D'Parma Ristorante,6.8,18.0,2.0,Moderate
+203,49fe2752f964a520796f1fe3,Marliave,7.7,342.0,3.0,Expensive
+204,56eca5cd498e8a77dc963319,Twelve Hours,7.9,24.0,1.0,Cheap
+205,4cddf8373644a093df51499f,Asian thai eatery,,,2.0,Moderate
+206,4b54f785f964a520c1d527e3,Burger King,5.6,29.0,1.0,Cheap
+207,59679fa459fe5c375b6cd05f,honeygrow,7.9,29.0,2.0,Moderate
+208,4b3bf53af964a520397f25e3,Pho Viet's,8.0,63.0,1.0,Cheap
+209,4ad905bef964a520361721e3,Estragon Tapas,7.7,88.0,3.0,Expensive
+210,4af70a22f964a520150522e3,Blue Frog Bakery,8.0,15.0,1.0,Cheap
+211,594e86e1d1a40209d0febf56,Toasted Flats,8.3,9.0,1.0,Cheap
+212,58a3501b9343e015a42a57d2,Golden Krust Caribbean Restaurant,6.8,0.0,2.0,Moderate
+213,4b6ec94ef964a5208bca2ce3,Giorgiana's Gourmet,7.7,32.0,1.0,Cheap
+214,5aea73d6c53093002cd23967,Burro Bar,8.2,35.0,1.0,Cheap
+215,4ac69084f964a52014b520e3,Birch Street Bistro,6.8,25.0,3.0,Expensive
+216,4c7f0ce3a7958cfa6ad18f2b,Taqueria Cancun,6.7,16.0,1.0,Cheap
+217,4b80125ff964a5208f4f30e3,WingzXpress,6.9,12.0,1.0,Cheap
+218,4b8f0fdaf964a520304733e3,Andre's Cafe,7.4,21.0,2.0,Moderate
+219,4e567005aeb7a8268802e6e5,Beth Israel Deaconess Medical Center Ullian Cafe,,,1.0,Cheap
+220,50be7156164809ba8e3c0b30,City Hall To Go,6.6,1.0,1.0,Cheap
+221,5b8042f9b6eedb002c8cbb92,Sufra Mediterranean Food,6.5,8.0,1.0,Cheap
+222,57477981498e542d112687f9,Bar Mezzana,8.3,99.0,2.0,Moderate
+223,5fd26256574d61720b3b213e,Dovetail,,,2.0,Moderate
+224,4ad7aa96f964a5207d0d21e3,Fernandez Spa,,,1.0,Cheap
+225,4b5763acf964a5204e3528e3,Butterfly Falafel,,,1.0,Cheap
+226,59596c871de76542ca7c9767,Mastros Ocean Club,8.0,31.0,4.0,Very Expensive
+227,522bc0e111d229cddf144de8,Pizzeria 260,7.1,11.0,2.0,Moderate
+228,4ae7950ef964a52099ac21e3,Chart House Restaurant,8.3,248.0,4.0,Very Expensive
+229,4b3818f5f964a520934b25e3,Sophia's Grotto,8.5,76.0,2.0,Moderate
+230,561ee577498e2b15b426ecdf,Broadway’s Pastry & Coffee Shop,7.1,16.0,1.0,Cheap
+231,4d6c698a7585b1f796070ed5,SUBWAY,6.2,13.0,1.0,Cheap
+232,55c38a78498ed163e5b6d047,Cafe Quattro,7.9,14.0,1.0,Cheap
+233,5c6a120cbe7078002caaffa4,Chilacates,8.5,16.0,1.0,Cheap
+234,4edc138b46907c1b44b0b556,SUBWAY,6.9,6.0,1.0,Cheap
+235,533af1e0498ef6b88ba46b50,sweetgreen,8.2,139.0,2.0,Moderate
+236,4b8983c7f964a520dc3d32e3,Dunkin',5.6,37.0,1.0,Cheap
+237,4a5ddd4cf964a520c7bd1fe3,Saint's Diner,,,1.0,Cheap
+238,561c12c1498ef927de54f944,Effie's Kitchen,8.3,9.0,2.0,Moderate
+239,4dc0091e81545e1cc7daea90,Richy's,,,2.0,Moderate
+240,5a61341295d9863ac5bfcb9e,Sojuba,7.6,16.0,2.0,Moderate
+241,4b54dc50f964a52024d027e3,Andrew Square House of Pizza,,,1.0,Cheap
+242,5045fb35e4b0b4adf5acd432,Los Pollos Hermanos,,,1.0,Cheap
+243,4a046d0af964a520f4711fe3,Blunch,8.4,101.0,1.0,Cheap
+244,582ceb03761b1a60999af08c,Oak + Rowan,8.0,71.0,2.0,Moderate
+245,4cf1a42d899c6ea851e3f1c1,Young Kong,,,1.0,Cheap
+246,4bc11de3abf49521d598c093,Rino's,8.8,157.0,3.0,Expensive
+247,4d41f07daed776eb2e7b6997,Domino's Pizza,7.2,12.0,1.0,Cheap
+248,4d6c66e7fcafa1cd67412a06,Wok N Talk,5.1,42.0,2.0,Moderate
+249,4c980b1f4804a1431ca0e80e,Hong Kong 888 Cafe,,,1.0,Cheap
+250,49cf760ff964a520a95a1fe3,Myers + Chang,8.7,659.0,3.0,Expensive
+251,4a6908e7f964a5207fcb1fe3,UNI Sashimi Bar,8.3,151.0,2.0,Moderate
+252,53309e44498e3c6c34953cc8,The Glenville Stops,8.1,55.0,2.0,Moderate
+253,4c0695eeb4aa0f479b546462,Tostado Sandwich Bar,,,3.0,Expensive
+254,4266ed00f964a52036211fe3,Franklin Cafe,8.3,174.0,2.0,Moderate
+255,4de8f6a37d8b02ee9f2293eb,Brothers Deli & Restaurant,7.8,23.0,1.0,Cheap
+256,5a22075fc21cb1727dde3a02,Citrus & Salt,7.2,59.0,1.0,Cheap
+257,4bd8f79711dcc928c29bf833,Joseph's Pizza,4.8,28.0,1.0,Cheap
+258,4b76c725f964a520815e2ee3,Blue Star Restaurant,7.6,28.0,2.0,Moderate
+259,4b12c6b0f964a520eb8d23e3,Fornax Bread Company,9.2,63.0,1.0,Cheap
+260,4a954ec2f964a520e52220e3,Thaitation,8.4,102.0,2.0,Moderate
+261,5dbec8194b82690008279df6,Dunkin',6.5,0.0,1.0,Cheap
+262,4b6dfd32f964a52083a12ce3,China Maxim III,,,1.0,Cheap
+263,4c65d0d09cb82d7f0c018fd2,Deuxave,8.8,134.0,3.0,Expensive
+264,4c125e76b7b9c928239fa737,Latino Restaurant,,,2.0,Moderate
+265,4ec16b00775b98876ee5915c,Red Line Pizza & Grill,,,1.0,Cheap
+266,4b9e8a85f964a52044ed36e3,Rhett's,7.2,19.0,1.0,Cheap
+267,606f28b37d1b887fc0fc2025,Mooby’s Pop Up - Boston,,,1.0,Cheap
+268,4e2ae3b5c65bcaf40028411a,When Pigs Fly,8.0,12.0,1.0,Cheap
+269,521bca2011d2624bbfe19a0c,SUBWAY,6.6,1.0,1.0,Cheap
+270,4b92b248f964a520741234e3,Tony's Market,,,1.0,Cheap
+271,4ad35ef1f964a52001e420e3,Romano's Pizzeria & Taqueria,5.9,23.0,1.0,Cheap
+272,4bc7abd815a7ef3bdcea79da,Papa Rinos,,,1.0,Cheap
+273,593625c46cf01a4680ab6d14,Jyuba,,,2.0,Moderate
+274,58c0a02ee309e16736ed8803,Yoki Express,8.0,24.0,2.0,Moderate
+275,56dc71cf498ef1501096ecdb,Teresa Market,,,2.0,Moderate
+276,5070b1b4e4b0359dfa828994,Crossroads @ House Of Blues,,,2.0,Moderate
+277,4e308af8a809711248ff7f10,Right Field Beer Stand,,,,
+278,58010c86d67cf0750bcb9602,Cornish Pasty,8.4,40.0,,
+279,4cdcac283f6a8cfab43ff3ea,Cappy's Pizza,,,1.0,Cheap
+280,58e977efe9dad13680466411,Greek Village Gyros & Grill,,,2.0,Moderate
+281,50fd54eb19a914e488203668,Asta,7.7,51.0,4.0,Very Expensive
+282,4b01f74af964a520e04622e3,Moby Dick,7.8,36.0,2.0,Moderate
+283,4d051131e350b60c37998642,Vouros Pastry,,,1.0,Cheap
+284,4defdc71091afc8ac0f4bda8,Meatland,,,4.0,Very Expensive
+285,4c7ace65794e224bb8c86928,Imperial Kitchen,,,1.0,Cheap
+286,4edce2dc77c8274e0010b6b7,Café G,8.2,21.0,1.0,Cheap
+287,4aa945a5f964a520cd5220e3,Sorelle City Square,7.0,63.0,1.0,Cheap
+288,4b14611ef964a5202fa223e3,Deno's Pizza & Subs,6.6,19.0,1.0,Cheap
+289,4b54db87f964a520fecf27e3,Alex's Pizza,,,1.0,Cheap
+290,4c2aae14d1a10f4789e4f664,Pu Pu Chinese Food,,,1.0,Cheap
+291,4be04b53652b0f47f5d67111,AK's Pizza Shop,6.0,17.0,1.0,Cheap
+292,49f4d701f964a5205e6b1fe3,Oishii Boston,8.8,232.0,3.0,Expensive
+293,57e7f8b9498e04f9abafcace,M&J Teriyaki,,,2.0,Moderate
+294,4abaa330f964a520368220e3,Qdoba Mexican Grill,6.2,47.0,1.0,Cheap
+295,4c612a1fb6f3be9af4f66073,Anna's Hand Cut Donuts,,,1.0,Cheap
+296,4b54ad53f964a5208dc627e3,Boloco,7.9,172.0,1.0,Cheap
+297,50eb0dede4b006545d87f580,Five Guys,7.5,95.0,1.0,Cheap
+298,59d38027e179103e8e06b331,Dunkin',6.4,3.0,1.0,Cheap
+299,4bae5532f964a520faa33be3,Tostado,7.3,8.0,1.0,Cheap
+300,4b897c3af964a520e73a32e3,Mangiamo Pizza,,,1.0,Cheap
+301,4d02e39c0e49721ed8ac677f,Adam's Park Kitchen & Bar,,,2.0,Moderate
+302,4b1ed426f964a520362024e3,Coppa,9.0,497.0,2.0,Moderate
+303,4c5370084623be9acc9312f1,El Chavo,,,1.0,Cheap
+304,5731eb0c498ee1b150baad37,Blackmoor Bar and Kitchen,7.6,57.0,3.0,Expensive
+305,5cdf1cb6f870fd002c329711,Grassfed The Joint,,,3.0,Expensive
+306,4f3259eb19836c91c7cf350c,Rockland Jade Chinese Restaurant,,,,
+307,5298c74911d24f840142c2be,T sushi,,,2.0,Moderate
+308,58503e9c6cea3f5efb665284,City Tap House,8.2,170.0,3.0,Expensive
+309,4b1fc5aaf964a520e52824e3,McDonald's,6.3,52.0,1.0,Cheap
+310,56c90d35498ed2a3c3dce54b,Holly Crab,8.1,37.0,3.0,Expensive
+311,528feaae11d20de9fd0955bd,Row 34,9.2,840.0,3.0,Expensive
+312,4b64986df964a52099c02ae3,Roslindale Fish Market,,,2.0,Moderate
+313,4bc4dc02abf495212eadc593,Dunkin',7.3,21.0,1.0,Cheap
+314,4bdbb754a6fdef3b6b251547,Sushi Arigato,,,2.0,Moderate
+315,4f32995919836c91c7e77ce3,Family Affair Catering,,,,
+316,4ab43fdef964a520937020e3,Wendy’s,7.5,49.0,1.0,Cheap
+317,4ad26664f964a52064e120e3,Ten Tables,7.7,97.0,3.0,Expensive
+318,4a7a2b7cf964a520c3e81fe3,Pho Basil,8.7,383.0,2.0,Moderate
+319,4d7924d9109eb1f7c6075b06,Vaughan's Fish And Chips,,,1.0,Cheap
+320,5a882adebd40091eb234f687,My Diner,,,1.0,Cheap
+321,4bc3a6ea920eb7137aca1d2c,Oliveira's Steakhouse,7.6,41.0,2.0,Moderate
+322,4ba3abfaf964a5208e5238e3,Masona Grill,8.2,17.0,3.0,Expensive
+323,5df1483ecc4b9c00082633c8,Dunkin',6.5,0.0,1.0,Cheap
+324,4b85985df964a5207f6731e3,West Napoli Cafe,7.8,8.0,1.0,Cheap
+325,51194c16d63e2d654b498e22,149 Eat Street Cafe,,,1.0,Cheap
+326,50101abe16480c58f05090c7,Late Night Kitchen,6.0,20.0,2.0,Moderate
+327,5010194b16480c58f0506526,Rize,6.8,18.0,1.0,Cheap
+328,49c96752f964a52060581fe3,FuGaKyu Japanese Cuisine,8.3,245.0,3.0,Expensive
+329,4be6afea9026ef3bd1db0a38,Dunkin',8.1,54.0,1.0,Cheap
+330,4ad331e1f964a5205ee320e3,Dunkin',6.2,29.0,1.0,Cheap
+331,52615d0f11d2cffe4e56bd16,Sushi Wrap & Noodles,,,2.0,Moderate
+332,51f93818498ec722f020c1ce,Sakura Japan,,,2.0,Moderate
+333,4f106b44e4b09e81d78e0cab,Chutney's,,,2.0,Moderate
+334,58a36ab55490d37d6129f217,by CHLOE.,8.4,88.0,2.0,Moderate
+335,5bef60ebc530930039ff92c0,Noodles King,,,1.0,Cheap
+336,4f85fd26e4b09445e9f7a260,Boston Burger Company,8.5,369.0,2.0,Moderate
+337,556605d3498eae0ca1322615,Decca Boston,,,3.0,Expensive
+338,4f1f1e5ce4b019c304a82499,Top Of The Hill,,,1.0,Cheap
+339,50a51535011c15d31deea806,Common Grounds at Simmons College,,,1.0,Cheap
+340,4d63fae5dcafa1cda4a37711,Cafe 6101,,,1.0,Cheap
+341,42b60700f964a52082251fe3,Clear Flour Bread,9.0,186.0,1.0,Cheap
+342,4b0c93ddf964a5208d3f23e3,Brighton House of Pizza,6.4,8.0,1.0,Cheap
+343,4f3231f419836c91c7bf80b8,Sausage Connection,,,,
+344,4c66c2899cb82d7f5d7191d2,Mattapan House of Pizza,5.4,9.0,1.0,Cheap
+345,4af9aa2af964a520131322e3,Symphony Sushi,7.7,140.0,2.0,Moderate
+346,5c2ad1b24f0e58003996da84,The Westland,7.6,9.0,2.0,Moderate
+347,4a9d11fff964a520d53720e3,Eastern Standard,8.5,1087.0,3.0,Expensive
+348,4a762b7af964a52077e21fe3,Pad Thai Cafe,8.1,117.0,1.0,Cheap
+349,4c44aef474ffc928f6e775cc,McDonald's,6.3,7.0,1.0,Cheap
+350,4b12fc29f964a520219223e3,Café Polonia,7.6,53.0,2.0,Moderate
+351,4f32778419836c91c7da9d0d,Jones Hill Cafe,,,,
+352,4a57a5d6f964a52087b61fe3,Tsunami,,,2.0,Moderate
+353,49fef9eaf964a520c06f1fe3,Gaslight Brasserie,8.6,518.0,3.0,Expensive
+354,4ba378aef964a520de3f38e3,Harbor Walk Cafe,,,1.0,Cheap
+355,580abd1fd67cd5bd37b37eaa,Area Four Boston,8.3,81.0,1.0,Cheap
+356,4b22daedf964a520d54e24e3,MJ Sub & Pizza,,,1.0,Cheap
+357,4ac3a6b8f964a520319c20e3,Jerusalem Pita & Grill,5.8,13.0,2.0,Moderate
+358,54654e60498efbfc1ca68017,Amelia's Taqueria,8.1,37.0,1.0,Cheap
+359,5716d7e3498e7f124b4f24c7,Los Amigos,9.0,59.0,1.0,Cheap
+360,5418b645498ea01d9511bbb8,Stash's Pizza,,,1.0,Cheap
+361,4b4f5b9cf964a520f40227e3,Baltic European Deli,,,1.0,Cheap
+362,4f327c8a19836c91c7dc83cf,Sub Stop,,,1.0,Cheap
+363,5ebe205186605b00089fd9a4,Dumpling Daughter,,,1.0,Cheap
+364,4a97e2daf964a520dc2920e3,Dunkin',5.1,18.0,1.0,Cheap
+365,4c045647310fc9b64534c761,Sunrise Chinese Food,7.5,8.0,1.0,Cheap
+366,4f512406e4b041b23caa135d,Café 129,,,1.0,Cheap
+367,52d89f5a498ee12acc96e55c,D&C's Kitchen,,,1.0,Cheap
+368,4fda7106e4b05ff8b83353bb,SUBWAY,6.7,3.0,1.0,Cheap
+369,4f1ad30fe4b064e65b503080,Gondres Bakery,,,1.0,Cheap
+370,4d99dfb33bca41bd24875dec,Burger King,6.2,9.0,1.0,Cheap
+371,5186c3c4498eda32a32cfdca,South End Food Trucks,8.4,100.0,,
+372,5775a9a0498e603fa52947f8,Brighton Best Pizza,,,1.0,Cheap
+373,4b4cf14ef964a52006c526e3,Dunkin',6.0,30.0,1.0,Cheap
+374,4b940562f964a520ee6134e3,Wong's of Boston,,,1.0,Cheap
+375,5b35081790d1ed002c84be23,SomTum Modern Thai,,,2.0,Moderate
+376,4b6875c9f964a520027a2be3,Boston Shawarma,8.2,82.0,1.0,Cheap
+377,5c853354b6eedb002cc212cb,Chilacates Mission Hill,,,1.0,Cheap
+378,596f6f5a5c683822102c2a67,Kohi Coffee,8.7,27.0,1.0,Cheap
+379,4cb12fa2c5e6a1cd90fedbf6,Island Creek Oyster Bar,9.2,993.0,3.0,Expensive
+380,4a8c8f0af964a520800e20e3,West on Centre,7.9,85.0,2.0,Moderate
+381,5955758adec1d63ee666589e,Cunard Tavern,8.2,28.0,3.0,Expensive
+382,4bc4e97e0969a593d72c636e,West Garden,,,1.0,Cheap
+383,50abf8d3e4b0fcc4d6ed208e,Big Bites,,,1.0,Cheap
+384,5b969de351950e002c1ff3d5,Tatte Bakery & Cafe,9.0,44.0,1.0,Cheap
+385,4b661fd9f964a52006152be3,Pic-a-Pasta,6.5,8.0,1.0,Cheap
+386,5064bbefe4b00f45c42476e2,2nd street cafe,,,1.0,Cheap
+387,4af7197ef964a520d20522e3,Sugar Bakery,7.9,26.0,1.0,Cheap
+388,59851bcde179104f72065d54,Spring Shabu Shabu,8.1,47.0,,
+389,49cbbbc9f964a52011591fe3,The Real Deal,7.5,41.0,2.0,Moderate
+390,54e366c6498e89ccb3519bb4,Recreo Coffee & Roasterie,7.4,18.0,1.0,Cheap
+391,4beed4665e7b9c740816b58d,Westbury Restaurant,,,1.0,Cheap
+392,4a9dd1d2f964a520853920e3,Himalayan Bistro,7.4,45.0,2.0,Moderate
+393,4b107ba4f964a520687123e3,Phuket,7.4,18.0,2.0,Moderate
+394,4aa8f642f964a520d05120e3,Bruegger's Bagels,6.4,62.0,1.0,Cheap
+395,4a68ba42f964a520e0ca1fe3,Boca Grande Taqueria,5.9,11.0,1.0,Cheap
+396,561ed9c7498e149fed3b8610,Mumbai Spice,7.3,32.0,2.0,Moderate
+397,4a842be1f964a520d8fb1fe3,The Breakfast Club,8.9,309.0,1.0,Cheap
+398,4b7fe885f964a520b84330e3,Dunkin',7.1,65.0,1.0,Cheap
+399,565ceb2d498e1a30aaa779ef,Ocean Prime,8.6,113.0,4.0,Very Expensive
+400,5a7efb591fa7634a4cafcd62,Exodus Bagels,,,1.0,Cheap
+401,4f321dd319836c91c7b79300,Tables of Content Catering,,,,
+402,4b97d931f964a520d61935e3,Comella's Restaurant,6.5,15.0,1.0,Cheap
+403,4a6baae2f964a5208acf1fe3,Pho Lemongrass,6.8,86.0,2.0,Moderate
+404,4ace0fadf964a52023ce20e3,Fin's Sushi,6.9,98.0,2.0,Moderate
+405,4bc38f2274a9a593d4b8d4f6,Chacho's,,,1.0,Cheap
+406,4b6d2119f964a5200e682ce3,La Chiva,6.8,21.0,1.0,Cheap
+407,560577e1498e98c34a19a592,Eat with Jack O'Neill,6.1,15.0,2.0,Moderate
+408,4bcafd1b937ca59377b1a892,Rox Diner,8.2,72.0,2.0,Moderate
+409,59ac80ded78f0b6a923f9fe9,Prairie Fire,7.5,24.0,1.0,Cheap
+410,4f320cd519833175d60b893f,Chacho's Pizza and Subs,,,1.0,Cheap
+411,4b539451f964a52034a327e3,Thai Spice,6.0,9.0,2.0,Moderate
+412,4bda1acf63c5c9b605c02268,Checkmate Cafe,6.0,8.0,1.0,Cheap
+413,525051dd11d209611c268066,The Parlour,,,1.0,Cheap
+414,5b3fe8c7835c9a003949bf2a,The Squealing Pig,,,2.0,Moderate
+415,4f274922e4b0d10db34b9719,Los Amigos,7.7,46.0,2.0,Moderate
+416,4ae09b02f964a520da8021e3,SUBWAY,5.9,9.0,1.0,Cheap
+417,4fc54e6ce4b0a6258efafba9,Banh Mi Oi,7.6,17.0,2.0,Moderate
+418,59b6ae3f23a2e6344a45e8b9,Local 338,,,1.0,Cheap
+419,4b6e281bf964a52076ae2ce3,Domino's Pizza,6.7,2.0,1.0,Cheap
+420,5bfa11143d4791002cb85c52,Shaking Crab,,,3.0,Expensive
+421,50ed893e70432dbf9bd2f8dd,swissbäkers,8.1,124.0,1.0,Cheap
+422,4a635877f964a520d3c41fe3,Michael's Deli,8.6,89.0,2.0,Moderate
+423,4b0988d6f964a520fb1823e3,Christo's Pizza,,,1.0,Cheap
+424,4a673715f964a52000c91fe3,UBurger,7.8,166.0,1.0,Cheap
+425,4cca0fa47965b60c525f838a,Mario's Restaurant,8.3,16.0,2.0,Moderate
+426,4b895efaf964a520c02f32e3,Rondo's Sub Shop,8.7,37.0,1.0,Cheap
+427,52f3bfc411d267260f4ade98,Capital One 360 Cafe - Brookline,7.2,18.0,1.0,Cheap
+428,4ac780e4f964a5209fb720e3,Italian Express Pizzeria,8.2,80.0,2.0,Moderate
+429,4acf7498f964a520ced320e3,Hidden Kitchen,7.9,10.0,1.0,Cheap
+430,5390791f498e4fea48730834,East Boston Kitchen,,,1.0,Cheap
+431,4c31069ba0ced13a690c136e,Mehak Halal - Pakistani & Indian Cuisine,7.5,30.0,2.0,Moderate
+432,521b9ce393cd2be84252e8a5,Pier6 Boston,7.9,153.0,3.0,Expensive
+433,4aa59afcf964a520ed4820e3,India Quality Restaurant,7.4,125.0,2.0,Moderate
+434,4a18058cf964a52075791fe3,Kayuga,7.8,38.0,2.0,Moderate
+435,4c767bf0ff1fb60cc6fdf8a7,Dunkin',6.3,13.0,1.0,Cheap
+436,4bed3acbe3562d7f8daafef8,Burger King,4.7,24.0,1.0,Cheap
+437,4be081ef98f2a593297bc25a,Boston House Of Pizza,,,1.0,Cheap
+438,4b7c5679f964a520388d2fe3,Tin Tin Buffet,5.3,31.0,1.0,Cheap
+439,5936c8aa5ba0465675c6321d,Rail Stop,7.5,15.0,2.0,Moderate
+440,4ad10c83f964a5203fdc20e3,Brown Sugar Café,8.6,185.0,2.0,Moderate
+441,54824389498eee3c9e817bd1,Lee's Burgers,6.4,45.0,1.0,Cheap
+442,4b5d9ad4f964a520306329e3,Dunkin',6.0,23.0,1.0,Cheap
+443,4e4c3aa9bd413c4cc667d126,IHOP,6.6,0.0,1.0,Cheap
+444,59b08df62ebb34528fa9ac89,Gyro City,8.1,17.0,2.0,Moderate
+445,4e1b6afe2fb6a7357497422a,Dunkin',5.6,32.0,1.0,Cheap
+446,4bbd012a8a4fb7139f773c9d,Nick's Pizza and Seafoods,,,1.0,Cheap
+447,4c7cf03a3e90a1cda3b943be,Silver Slipper Restaurant,6.5,11.0,1.0,Cheap
+448,526e884911d283eca6c6e732,Oakleaf Cake,7.4,51.0,1.0,Cheap
+449,502bdc76e4b07c0c586634f9,Fuel America,8.3,161.0,2.0,Moderate
+450,4ac63050f964a52022b320e3,Curry House,6.2,29.0,1.0,Cheap
+451,5316216a498e35e8101b7f0b,Momogoose,,,1.0,Cheap
+452,57361ee3498e10dfa4e8d481,Energize,8.4,10.0,2.0,Moderate
+453,4b75e672f964a520392d2ee3,Olympic House of Pizza,,,2.0,Moderate
+454,4b2a7821f964a520c2a924e3,Boston House of Pizza,8.3,18.0,1.0,Cheap
+455,5d51ed7846156b0008620aa3,Taqueria El Barrio,7.8,11.0,2.0,Moderate
+456,43f70aabf964a520b62f1fe3,Moogy's Sandwich Shop,8.0,54.0,2.0,Moderate
+457,5b8ac3b53731ee0039586c56,Fasika Cafe,,,1.0,Cheap
+458,417d9380f964a520d11d1fe3,IHOP,7.0,203.0,2.0,Moderate
+459,4e4ddae9bd4101d0d79cd875,Dunkin',6.4,2.0,1.0,Cheap
+460,4d91dfd49acaa1432a39f1f0,Corporate Cafe,,,1.0,Cheap
+461,4af1a994f964a520f5e121e3,Doughboy Donuts and Deli,8.4,69.0,1.0,Cheap
+462,4a46cae5f964a5207ea91fe3,McDonald's,5.6,50.0,1.0,Cheap
+463,4b8192eaf964a520ffaf30e3,Style Cafe,7.6,39.0,1.0,Cheap
+464,4f32add319836c91c7ef25a5,La Belle Capoise,,,,
+465,50ac0bebe4b01e1ea914231f,Cinquecento,7.7,225.0,3.0,Expensive
+466,4f32126319833175d60db5af,No 1 Restaurant,,,,
+467,513f60b9e4b0524657d3223c,Bento,,,2.0,Moderate
+468,58eeae35e9dad108d738ab95,Oath Pizza,6.6,13.0,1.0,Cheap
+469,4c295e84ce3fc928a7bb6e88,Ariana Restaurant,8.1,58.0,2.0,Moderate
+470,50a197d1e4b091ce331051a6,Diwali,,,2.0,Moderate
+471,4a1b1a86f964a520d07a1fe3,Paris Creperie,8.4,258.0,2.0,Moderate
+472,4a8b4f1ff964a520200c20e3,Rizzo's Pizza,6.2,8.0,1.0,Cheap
+473,4dc6cc3c887717c88044f562,Osaka Japanese Sushi and Steakhouse,7.6,150.0,3.0,Expensive
+474,4dc899f41f6e936efe483507,Cafe 472,8.2,29.0,2.0,Moderate
+475,4a0dc9a6f964a52098751fe3,Lorenz Island Kuisine,,,2.0,Moderate
+476,4bf71e99abdaef3bab6ba184,Fiorella's Express,8.0,33.0,1.0,Cheap
+477,4ee382d46da14e7d98c97115,The Paramount,8.6,151.0,2.0,Moderate
+478,4b0dd479f964a520f35023e3,"Pizza, Etc",7.3,22.0,1.0,Cheap
+479,3fd66200f964a520e0eb1ee3,T. Anthony's Pizzeria,7.4,94.0,1.0,Cheap
+480,4b5351a0f964a520229727e3,JPizle Kitchen,6.9,51.0,2.0,Moderate
+481,4e482db3c65bd6ffbea92e61,Morton Seafood And pizza,,,2.0,Moderate
+482,53dfbf37498e413b471b06a0,Greenhouse Kitchen Italian Restaurant,,,1.0,Cheap
+483,4b5c8629f964a520563429e3,Taquería Jalisco,8.9,50.0,1.0,Cheap
+484,4bfea5c6369476b02f9c8c1f,Sips n' Licks,,,1.0,Cheap
+485,4f74e0abe4b0e7c6440a28cd,OTTO,8.6,279.0,2.0,Moderate
+486,4de188812271bfb844869ffb,Thai North Restaurant,7.8,33.0,2.0,Moderate
+487,4ffc3b32582fbc3cd82d693c,City Convenience,,,1.0,Cheap
+488,52d08725498e40b08c4c56d5,Old Havana,7.4,18.0,2.0,Moderate
+489,5876ca2376f2ca2ec3393bba,Pho Common,8.2,18.0,2.0,Moderate
+490,4bf84bef8d30d13a50840018,Pit Stop BBQ,6.9,22.0,2.0,Moderate
+491,5a11bae9e97dfb10df3682be,The Flatbread Company,8.4,16.0,1.0,Cheap
+492,40b28c80f964a520faf71ee3,Woody's Grill & Tap,8.0,106.0,2.0,Moderate
+493,55f43443498e33bde91d8e04,dates and olives,6.7,20.0,2.0,Moderate
